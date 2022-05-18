@@ -6,7 +6,10 @@
   "author": "Marcelo Ferreira",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn ./src/index.ts"
+    "dev": "ts-node-dev --respawn ./src/index.ts",
+    "build": "yarn tsc --build",
+    "prod": "node dist/index.js",
+    "start": "yarn build && yarn prod"
   },
   "dependencies": {
     "dotenv": "^16.0.1",
