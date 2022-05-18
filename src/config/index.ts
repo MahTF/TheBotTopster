@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import config from 'tmi.js';
 
 const client = config.client({
