@@ -10,7 +10,10 @@ const client = config.client({
     password: process.env.NODE_TWITCH_PASSWORD
   },
   channels: [
-    'MahTF'
+    'MahTF',
+    'manukitanuki',
+    'gata_amaldicoada',
+    'ricky_cezar'
   ]
 });
 
