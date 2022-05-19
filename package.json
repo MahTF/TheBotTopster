@@ -7,9 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --respawn ./src/index.ts",
-    "build": "yarn tsc --build",
-    "prod": "node dist/index.js",
-    "start": "yarn build && yarn prod"
+    "start": "yarn tsc && node dist/index.js"
   },
   "dependencies": {
     "dotenv": "^16.0.1",

@@ -13,7 +13,8 @@ const client = config.client({
     'MahTF',
     'manukitanuki',
     'gata_amaldicoada',
-    'ricky_cezar'
+    'ricky_cezar',
+    'toroma_hiuga'
   ]
 });
 
