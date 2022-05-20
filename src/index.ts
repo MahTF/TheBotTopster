@@ -6,11 +6,14 @@ const TopRepliesLength = TopReplies.length;
 client.connect();
 
 client.on('message', (channel, tags, message, self) => {
-  // ignorar as proprias mensagens
-  if (self) return;
+  // ignorar as proprias mensagens e ignora mensagens de respostas
+  if (self || message.toLowerCase().startsWith(process.env.NODE_TWITCH_USERNAME as string)) return;
 
   // Caso a mensagem tenha "top" nela, o bot responderá
-  if (message.toLowerCase().includes("top")) {
+  if (
+    message.toLowerCase().includes("top") ||
+    message.toLowerCase().includes("t0p")
+  ) {
     let index = Math.random() * TopRepliesLength;
     index = Math.round(index);
 

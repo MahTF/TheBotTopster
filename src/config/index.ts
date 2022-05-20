@@ -17,7 +17,9 @@ const client = config.client({
     'manukitanuki',
     'gata_amaldicoada',
     'ricky_cezar',
-    'toroma_hiuga'
+    'toroma_hiuga',
+    'Projet1504',
+    'Fabits04'
   ]
 });
 
