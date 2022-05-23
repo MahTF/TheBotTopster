@@ -7,7 +7,10 @@ client.connect();
 
 client.on('message', (channel, tags, message, self) => {
   // ignorar as proprias mensagens e ignora mensagens de respostas
-  if (self || message.toLowerCase().startsWith(process.env.NODE_TWITCH_USERNAME as string)) return;
+  if (self
+    || message.toLowerCase().startsWith(process.env.NODE_TWITCH_USERNAME as string)
+    || message.toLowerCase().startsWith(`@${process.env.NODE_TWITCH_USERNAME as string}`)
+  ) return;
 
   // Caso a mensagem tenha "top" nela, o bot responderá
   if (
