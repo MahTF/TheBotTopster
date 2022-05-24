@@ -17,7 +17,7 @@ const TopReplies = [
   'Tá top, tá top, tá é muita onda, essa live tá bombando e eu sou muito top!',
   // mahtfTop é um emote de inscrito do canal de MahTF
   'Você já disse a @ManukiTanuki que é topster hoje? mahtfTop',
-  'Você sabia que a Lady Gaga fez uma música pro filme TOP Gear: Maverick?',
+  'Você sabia que a Lady Gaga fez uma música pro filme TOP Gun: Maverick?',
   'Somente pessoas tops chegaram até aqui',
   'E aí? Vamo numa baladinha top?',
   'Você me deixou sem palavras, então vou mandar um ª pra você',
