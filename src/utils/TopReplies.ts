@@ -22,7 +22,10 @@ const TopReplies = [
   'E aí? Vamo numa baladinha top?',
   'Você me deixou sem palavras, então vou mandar um ª pra você',
   'Sabe o que seria top agora? Uma coquinha gelada.',
-  'Eu sou um bot Topster, caso queira me remover do seu canal, ou adicionar-lo em seu canal, fale com @mahtf'
+  'Eu sou um bot Topster, caso queira me remover do seu canal, ou adicionar-lo em seu canal, fale com @mahtf',
+  'Passou mal porque não consome Top Therm. Por @GuiFernandes1607',
+  'Meus jogos preferidos são sTOP e TOP Gear. Por @GuiFernandes1607',
+  'Por quê ela tem cabelo grande? Porque TOP é TUDO! Por @GuiFernandes1607',
 ]
 
 export { TopReplies };
