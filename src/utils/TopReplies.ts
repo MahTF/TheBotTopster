@@ -26,6 +26,10 @@ const TopReplies = [
   'Passou mal porque não consome Top Therm. Por @GuiFernandes1607',
   'Meus jogos preferidos são sTOP e TOP Gear. Por @GuiFernandes1607',
   'Por quê ela tem cabelo grande? Porque TOP é TUDO! Por @GuiFernandes1607',
+  'Maior bruxo da história é o Harry Topper. Por @GuiFernandes1607',
+  'Minha série favorita é HearthstTOPer. Por @Loester_10control',
+  'Seu topete não sai da minha cabeça',
+  'Sempre que eu penso no meu TOP 3, você está la!',
 ]
 
 export { TopReplies };
