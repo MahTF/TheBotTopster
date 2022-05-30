@@ -14,12 +14,12 @@ const client = config.client({
   },
   channels: [
     'MahTF',
-    // 'manukitanuki',
-    // 'gata_amaldicoada',
-    // 'ricky_cezar',
-    // 'toroma_hiuga',
-    // 'Projet1504',
-    // 'Fabits04'
+    'manukitanuki',
+    'gata_amaldicoada',
+    'ricky_cezar',
+    'toroma_hiuga',
+    'Projet1504',
+    'Fabits04'
   ]
 });
 
