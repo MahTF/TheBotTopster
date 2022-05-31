@@ -43,8 +43,11 @@ client.on('message', (channel, tags, message, self) => {
 
   //#region Comando !spawn
   /// Este comando serve para resgatar um som na live de Gata_amaldicoada quando um user digita uma mensagem Específica
-  if (
-    (channel === "#gata_amaldicoada" || channel === "#manukitanuki") &&
+  if ((
+    channel === "#gata_amaldicoada" ||
+    channel === "#manukitanuki" ||
+    channel === "#donbael"
+  ) &&
     tags.username === "pokemoncommunitygame" &&
     message.toLowerCase().includes("tente capturar usando !pokecatch")
   ) {

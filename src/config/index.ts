@@ -19,7 +19,8 @@ const client = config.client({
     'ricky_cezar',
     'toroma_hiuga',
     'Projet1504',
-    'Fabits04'
+    'Fabits04',
+    'DonBael'
   ]
 });
 
