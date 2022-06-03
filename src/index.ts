@@ -52,6 +52,12 @@ client.on('message', (channel, tags, message, self) => {
     message.toLowerCase().includes("tente capturar usando !pokecatch")
   ) {
     client.say(channel, "!spawn");
+
+    // Aqui vai avisar quando passar 70 segundos da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
+    const avisarTempoAcabando = setInterval(() => {
+      client.say(channel, "O Pokémon está para fugir, você tem mais 10 segundos aproximadamente");
+      clearInterval(avisarTempoAcabando);
+    }, 70000);
   }
   //#endregion
 });

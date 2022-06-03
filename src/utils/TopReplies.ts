@@ -30,6 +30,8 @@ const TopReplies = [
   'Minha série favorita é HearthstTOPer. Por @Loester_10control',
   'Seu topete não sai da minha cabeça',
   'Sempre que eu penso no meu TOP 3, você está la!',
+  'Você sabe quais são os Pokémon\'s Favoritos de Manukita? . . . KabuTOPs e HitmonTOP. Por @Gata_Amaldicoada',
+  'Nada é mais top que você!',
 ]
 
 export { TopReplies };
