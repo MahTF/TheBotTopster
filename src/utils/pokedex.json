@@ -1,0 +1,8147 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "Geracao": "1ª",
+    "No": "#001",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "フシギダネ | Fushigidane",
+    "StatusBase": "318"
+  },
+  {
+    "Name": "Ivysaur",
+    "Geracao": "1ª",
+    "No": "#002",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "フシギソウ | Fushigisō",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Venusaur",
+    "Geracao": "1ª",
+    "No": "#003",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "フシギバナ | Fushigibana",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Charmander",
+    "Geracao": "1ª",
+    "No": "#004",
+    "Tipo": "Fogo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ヒトカゲ | Hitokage",
+    "StatusBase": "309"
+  },
+  {
+    "Name": "Charmeleon",
+    "Geracao": "1ª",
+    "No": "#005",
+    "Tipo": "Fogo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "リザード | Rizādo",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Charizard",
+    "Geracao": "1ª",
+    "No": "#006",
+    "Tipo": "Fogo / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "リザードン | Rizādon",
+    "StatusBase": "534"
+  },
+  {
+    "Name": "Squirtle",
+    "Geracao": "1ª",
+    "No": "#007",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゼニガメ | Zenigame",
+    "StatusBase": "314"
+  },
+  {
+    "Name": "Wartortle",
+    "Geracao": "1ª",
+    "No": "#008",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カメール | Kamēru",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Blastoise",
+    "Geracao": "1ª",
+    "No": "#009",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カメックス | Kamekkusu",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Caterpie",
+    "Geracao": "1ª",
+    "No": "#010",
+    "Tipo": "Inseto",
+    "Regiao": "Kanto",
+    "NomeOriginal": "キャタピー | Kyatapī",
+    "StatusBase": "195"
+  },
+  {
+    "Name": "Metapod",
+    "Geracao": "1ª",
+    "No": "#011",
+    "Tipo": "Inseto",
+    "Regiao": "Kanto",
+    "NomeOriginal": "トランセル | Toranseru",
+    "StatusBase": "205"
+  },
+  {
+    "Name": "Butterfree",
+    "Geracao": "1ª",
+    "No": "#012",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "バタフリー | Batafurī",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Weedle",
+    "Geracao": "1ª",
+    "No": "#013",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ビードル | Bīdoru",
+    "StatusBase": "195"
+  },
+  {
+    "Name": "Kakuna",
+    "Geracao": "1ª",
+    "No": "#014",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "コクーン | Kokūn",
+    "StatusBase": "205"
+  },
+  {
+    "Name": "Beedrill",
+    "Geracao": "1ª",
+    "No": "#015",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "スピアー | Supiā",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Pidgey",
+    "Geracao": "1ª",
+    "No": "#016",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ポッポ | Poppo",
+    "StatusBase": "251"
+  },
+  {
+    "Name": "Pidgeotto",
+    "Geracao": "1ª",
+    "No": "#017",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ピジョン | Pijon",
+    "StatusBase": "349"
+  },
+  {
+    "Name": "Pidgeot",
+    "Geracao": "1ª",
+    "No": "#018",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ピジョット | Pijotto",
+    "StatusBase": "479"
+  },
+  {
+    "Name": "Rattata",
+    "Geracao": "1ª",
+    "No": "#019",
+    "Tipo": "Normal | Normal / Sombrio",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "コラッタ | Koratta",
+    "StatusBase": "253"
+  },
+  {
+    "Name": "Raticate",
+    "Geracao": "1ª",
+    "No": "#020",
+    "Tipo": "Normal | Normal / Sombrio",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ラッタ | Ratta",
+    "StatusBase": "413"
+  },
+  {
+    "Name": "Spearow",
+    "Geracao": "1ª",
+    "No": "#021",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "オニスズメ | Onisuzume",
+    "StatusBase": "262"
+  },
+  {
+    "Name": "Fearow",
+    "Geracao": "1ª",
+    "No": "#022",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "オニドリル | Onidoriru",
+    "StatusBase": "442"
+  },
+  {
+    "Name": "Ekans",
+    "Geracao": "1ª",
+    "No": "#023",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "アーボ | Ābo",
+    "StatusBase": "288"
+  },
+  {
+    "Name": "Arbok",
+    "Geracao": "1ª",
+    "No": "#024",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "アーボック | Ābokku",
+    "StatusBase": "448"
+  },
+  {
+    "Name": "Pikachu",
+    "Geracao": "1ª",
+    "No": "#025",
+    "Tipo": "Elétrico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ピカチュウ | Pikachū",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Raichu",
+    "Geracao": "1ª",
+    "No": "#026",
+    "Tipo": "Elétrico | Elétrico / Psiquico",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ライチュウ | Raichū",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Sandshrew",
+    "Geracao": "1ª",
+    "No": "#027",
+    "Tipo": "Terrestre | Gelo / Metal",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "サンド | Sando",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Sandslash",
+    "Geracao": "1ª",
+    "No": "#028",
+    "Tipo": "Terrestre | Gelo / Metal",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "サンドパン | Sandopan",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Nidoran♀",
+    "Geracao": "1ª",
+    "No": "#029",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドラン♀ | Nidoran Mesu",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Nidorina",
+    "Geracao": "1ª",
+    "No": "#030",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドリーナ | Nidorīna",
+    "StatusBase": "365"
+  },
+  {
+    "Name": "Nidoqueen",
+    "Geracao": "1ª",
+    "No": "#031",
+    "Tipo": "Venenoso / Terrestre",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドクイン | Nidokuin",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Nidoran♂",
+    "Geracao": "1ª",
+    "No": "#032",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドラン♂ | Nidoran Osu",
+    "StatusBase": "273"
+  },
+  {
+    "Name": "Nidorino",
+    "Geracao": "1ª",
+    "No": "#033",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドリーノ | Nidorīno",
+    "StatusBase": "365"
+  },
+  {
+    "Name": "Nidoking",
+    "Geracao": "1ª",
+    "No": "#034",
+    "Tipo": "Venenoso / Terrestre",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニドキング | Nidokingu",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "CleFada",
+    "Geracao": "1ª",
+    "No": "#035",
+    "Tipo": "Fada",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ピッピ | Pippi",
+    "StatusBase": "323"
+  },
+  {
+    "Name": "Clefable",
+    "Geracao": "1ª",
+    "No": "#036",
+    "Tipo": "Fada",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ピクシー | Pikushī",
+    "StatusBase": "483"
+  },
+  {
+    "Name": "Vulpix",
+    "Geracao": "1ª",
+    "No": "#037",
+    "Tipo": "Fogo | Gelo",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ロコン | Rokon",
+    "StatusBase": "299"
+  },
+  {
+    "Name": "Ninetales",
+    "Geracao": "1ª",
+    "No": "#038",
+    "Tipo": "Fogo | Gelo / Fada",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "キュウコン | Kyūkon",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Jigglypuff",
+    "Geracao": "1ª",
+    "No": "#039",
+    "Tipo": "Normal / Fada",
+    "Regiao": "Kanto",
+    "NomeOriginal": "プリン | Purin",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Wigglytuff",
+    "Geracao": "1ª",
+    "No": "#040",
+    "Tipo": "Normal / Fada",
+    "Regiao": "Kanto",
+    "NomeOriginal": "プクリン | Pukurin",
+    "StatusBase": "435"
+  },
+  {
+    "Name": "Zubat",
+    "Geracao": "1ª",
+    "No": "#041",
+    "Tipo": "Venenoso / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ズバット | Zubatto",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Golbat",
+    "Geracao": "1ª",
+    "No": "#042",
+    "Tipo": "Venenoso / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゴルバット | Gorubatto",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Oddish",
+    "Geracao": "1ª",
+    "No": "#043",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ナゾノクサ | Nazonokusa",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Gloom",
+    "Geracao": "1ª",
+    "No": "#044",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "クサイハナ | Kusaihana",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Vileplume",
+    "Geracao": "1ª",
+    "No": "#045",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ラフレシア | Rafureshia",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Paras",
+    "Geracao": "1ª",
+    "No": "#046",
+    "Tipo": "Inseto / Grama",
+    "Regiao": "Kanto",
+    "NomeOriginal": "パラス | Parasu",
+    "StatusBase": "285"
+  },
+  {
+    "Name": "Parasect",
+    "Geracao": "1ª",
+    "No": "#047",
+    "Tipo": "Inseto / Grama",
+    "Regiao": "Kanto",
+    "NomeOriginal": "パラセクト | Parasekuto",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Venonat",
+    "Geracao": "1ª",
+    "No": "#048",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "コンパン | Konpan",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Venomoth",
+    "Geracao": "1ª",
+    "No": "#049",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "モルフォン | Morufon",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Diglett",
+    "Geracao": "1ª",
+    "No": "#050",
+    "Tipo": "Terrestre | Terrestre / Metal",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ディグダ | Diguda",
+    "StatusBase": "265"
+  },
+  {
+    "Name": "Dugtrio",
+    "Geracao": "1ª",
+    "No": "#051",
+    "Tipo": "Terrestre | Terrestre / Metal",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ダグトリオ | Dagutorio",
+    "StatusBase": "425"
+  },
+  {
+    "Name": "Meowth",
+    "Geracao": "1ª",
+    "No": "#052",
+    "Tipo": "Normal | Sombrio | Metal",
+    "Regiao": "Kanto | Alola | Galar",
+    "NomeOriginal": "ニャース | Nyāsu",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Persian",
+    "Geracao": "1ª",
+    "No": "#053",
+    "Tipo": "Normal | Sombrio",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ペルシアン | Perushian",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Psyduck",
+    "Geracao": "1ª",
+    "No": "#054",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "コダック | Kodakku",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Golduck",
+    "Geracao": "1ª",
+    "No": "#055",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゴルダック | Gorudakku",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Mankey",
+    "Geracao": "1ª",
+    "No": "#056",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "マンキー | Mankī",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Primeape",
+    "Geracao": "1ª",
+    "No": "#057",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "オコリザル | Okorizaru",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Growlithe",
+    "Geracao": "1ª",
+    "No": "#058",
+    "Tipo": "Fogo | Fogo / Pedra",
+    "Regiao": "Kanto | Hisui",
+    "NomeOriginal": "ガーディ | Gādi",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Arcanine",
+    "Geracao": "1ª",
+    "No": "#059",
+    "Tipo": "Fogo | Fogo / Pedra",
+    "Regiao": "Kanto | Hisui",
+    "NomeOriginal": "ウインディ | Uindi",
+    "StatusBase": "555"
+  },
+  {
+    "Name": "Poliwag",
+    "Geracao": "1ª",
+    "No": "#060",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニョロモ | Nyoromo",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Poliwhirl",
+    "Geracao": "1ª",
+    "No": "#061",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニョロゾ | Nyorozo",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Poliwrath",
+    "Geracao": "1ª",
+    "No": "#062",
+    "Tipo": "Água / Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ニョロボン | Nyorobon",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Abra",
+    "Geracao": "1ª",
+    "No": "#063",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ケーシィ | Kēshī",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Kadabra",
+    "Geracao": "1ª",
+    "No": "#064",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ユンゲラー | Yungerā",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Alakazam",
+    "Geracao": "1ª",
+    "No": "#065",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "フーディン | Fūdin",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Machop",
+    "Geracao": "1ª",
+    "No": "#066",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ワンリキー | Wanrikī",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Machoke",
+    "Geracao": "1ª",
+    "No": "#067",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゴーリキー | Gōrikī",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Machamp",
+    "Geracao": "1ª",
+    "No": "#068",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カイリキー | Kairikī",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Bellsprout",
+    "Geracao": "1ª",
+    "No": "#069",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "マダツボミ | Madatsubomi",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Weepinbell",
+    "Geracao": "1ª",
+    "No": "#070",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ウツドン | Utsudon",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Victreebel",
+    "Geracao": "1ª",
+    "No": "#071",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ウツボット | Utsubotto",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Tentacool",
+    "Geracao": "1ª",
+    "No": "#072",
+    "Tipo": "Água / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "メノクラゲ | Menokurage",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Tentacruel",
+    "Geracao": "1ª",
+    "No": "#073",
+    "Tipo": "Água / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ドククラゲ | Dokukurage",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Geodude",
+    "Geracao": "1ª",
+    "No": "#074",
+    "Tipo": "Pedra / Terrestre | Pedra / Elétrico",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "イシツブテ | Ishitsubute",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Graveler",
+    "Geracao": "1ª",
+    "No": "#075",
+    "Tipo": "Pedra / Terrestre | Pedra / Elétrico",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ゴローン | Gorōn",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Golem",
+    "Geracao": "1ª",
+    "No": "#076",
+    "Tipo": "Pedra / Terrestre | Pedra / Elétrico",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ゴローニャ | Gorōnya",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Ponyta",
+    "Geracao": "1ª",
+    "No": "#077",
+    "Tipo": "Fogo | Psiquico",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "ポニータ | Ponīta",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Rapidash",
+    "Geracao": "1ª",
+    "No": "#078",
+    "Tipo": "Fogo | Psiquico / Fada",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "ギャロップ | Gyaroppu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Slowpoke",
+    "Geracao": "1ª",
+    "No": "#079",
+    "Tipo": "Água / Psiquico | Psiquico",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "ヤドン | Yadon",
+    "StatusBase": "315"
+  },
+  {
+    "Name": "Slowbro",
+    "Geracao": "1ª",
+    "No": "#080",
+    "Tipo": "Água / Psiquico | Venenoso / Psiquico",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "ヤドラン | Yadoran",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Magnemite",
+    "Geracao": "1ª",
+    "No": "#081",
+    "Tipo": "Elétrico / Metal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "コイル | Koiru",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Magneton",
+    "Geracao": "1ª",
+    "No": "#082",
+    "Tipo": "Elétrico / Metal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "レアコイル | Reakoiru",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Farfetch'd",
+    "Geracao": "1ª",
+    "No": "#083",
+    "Tipo": "Normal / Voador | Lutador",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "カモネギ | Kamonegi",
+    "StatusBase": "377"
+  },
+  {
+    "Name": "Doduo",
+    "Geracao": "1ª",
+    "No": "#084",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ドードー | Dōdō",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Dodrio",
+    "Geracao": "1ª",
+    "No": "#085",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ドードリオ | Dōdorio",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Seel",
+    "Geracao": "1ª",
+    "No": "#086",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "パウワウ | Pauwau",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Dewgong",
+    "Geracao": "1ª",
+    "No": "#087",
+    "Tipo": "Água / Gelo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ジュゴン | Jugon",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Grimer",
+    "Geracao": "1ª",
+    "No": "#088",
+    "Tipo": "Venenoso | Venenoso / Sombrio",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ベトベター | Betobetā",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Muk",
+    "Geracao": "1ª",
+    "No": "#089",
+    "Tipo": "Venenoso | Venenoso / Sombrio",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ベトベトン | Betobeton",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Shellder",
+    "Geracao": "1ª",
+    "No": "#090",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "シェルダー | Sherudā",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Cloyster",
+    "Geracao": "1ª",
+    "No": "#091",
+    "Tipo": "Água / Gelo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "パルシェン | Parushen",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Gastly",
+    "Geracao": "1ª",
+    "No": "#092",
+    "Tipo": "Fantasma / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゴース | Gōsu",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Haunter",
+    "Geracao": "1ª",
+    "No": "#093",
+    "Tipo": "Fantasma / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゴースト | Gōsuto",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Gengar",
+    "Geracao": "1ª",
+    "No": "#094",
+    "Tipo": "Fantasma / Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ゲンガー | Gengā",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Onix",
+    "Geracao": "1ª",
+    "No": "#095",
+    "Tipo": "Pedra / Terrestre",
+    "Regiao": "Kanto",
+    "NomeOriginal": "イワーク | Iwāku",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Drowzee",
+    "Geracao": "1ª",
+    "No": "#096",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "スリープ | Surīpu",
+    "StatusBase": "328"
+  },
+  {
+    "Name": "Hypno",
+    "Geracao": "1ª",
+    "No": "#097",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "スリーパー | Surīpā",
+    "StatusBase": "483"
+  },
+  {
+    "Name": "Krabby",
+    "Geracao": "1ª",
+    "No": "#098",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "クラブ | Kurabu",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Kingler",
+    "Geracao": "1ª",
+    "No": "#099",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "キングラー | Kingurā",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Voltorb",
+    "Geracao": "1ª",
+    "No": "#100",
+    "Tipo": "Elétrico | Elétrico / Grama",
+    "Regiao": "Kanto | Hisui",
+    "NomeOriginal": "ビリリダマ | Biriridama",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Electrode",
+    "Geracao": "1ª",
+    "No": "#101",
+    "Tipo": "Elétrico | Elétrico / Grama",
+    "Regiao": "Kanto | Hisui",
+    "NomeOriginal": "マルマイン | Marumain",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Exeggcute",
+    "Geracao": "1ª",
+    "No": "#102",
+    "Tipo": "Grama / Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "タマタマ | Tamatama",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Exeggutor",
+    "Geracao": "1ª",
+    "No": "#103",
+    "Tipo": "Grama / Psiquico | Grama / Dragão",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ナッシー | Nasshī",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Cubone",
+    "Geracao": "1ª",
+    "No": "#104",
+    "Tipo": "Terrestre",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カラカラ | Karakara",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Marowak",
+    "Geracao": "1ª",
+    "No": "#105",
+    "Tipo": "Terrestre | Fogo / Fantasma",
+    "Regiao": "Kanto | Alola",
+    "NomeOriginal": "ガラガラ | Garagara",
+    "StatusBase": "425"
+  },
+  {
+    "Name": "Hitmonlee",
+    "Geracao": "1ª",
+    "No": "#106",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "サワムラー | Sawamurā",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Hitmonchan",
+    "Geracao": "1ª",
+    "No": "#107",
+    "Tipo": "Lutador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "エビワラー | Ebiwarā",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Lickitung",
+    "Geracao": "1ª",
+    "No": "#108",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ベロリンガ | Beroringa",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Koffing",
+    "Geracao": "1ª",
+    "No": "#109",
+    "Tipo": "Venenoso",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ドガース | Dogāsu",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Weezing",
+    "Geracao": "1ª",
+    "No": "#110",
+    "Tipo": "Venenoso | Venenoso / Fada",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "マタドガス | Matadogasu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Rhyhorn",
+    "Geracao": "1ª",
+    "No": "#111",
+    "Tipo": "Terrestre / Pedra",
+    "Regiao": "Kanto",
+    "NomeOriginal": "サイホーン | Saihōn",
+    "StatusBase": "345"
+  },
+  {
+    "Name": "Rhydon",
+    "Geracao": "1ª",
+    "No": "#112",
+    "Tipo": "Terrestre / Pedra",
+    "Regiao": "Kanto",
+    "NomeOriginal": "サイドン | Saidon",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Chansey",
+    "Geracao": "1ª",
+    "No": "#113",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ラッキー | Rakkī",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Tangela",
+    "Geracao": "1ª",
+    "No": "#114",
+    "Tipo": "Grama",
+    "Regiao": "Kanto",
+    "NomeOriginal": "モンジャラ | Monjara",
+    "StatusBase": "435"
+  },
+  {
+    "Name": "Kangaskhan",
+    "Geracao": "1ª",
+    "No": "#115",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ガルーラ | Garūra",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Horsea",
+    "Geracao": "1ª",
+    "No": "#116",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "タッツー | Tattsū",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Seadra",
+    "Geracao": "1ª",
+    "No": "#117",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "シードラ | Shīdora",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Goldeen",
+    "Geracao": "1ª",
+    "No": "#118",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "トサキント | Tosakinto",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Seaking",
+    "Geracao": "1ª",
+    "No": "#119",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "アズマオウ | Azumaō",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Staryu",
+    "Geracao": "1ª",
+    "No": "#120",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ヒトデマン | Hitodeman",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Starmie",
+    "Geracao": "1ª",
+    "No": "#121",
+    "Tipo": "Água / Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "スターミー | Sutāmī",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Mr. Mime",
+    "Geracao": "1ª",
+    "No": "#122",
+    "Tipo": "Psiquico / Fada | Gelo / Psiquico",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "バリヤード | Bariyādo",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Scyther",
+    "Geracao": "1ª",
+    "No": "#123",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ストライク | Sutoraiku",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Jynx",
+    "Geracao": "1ª",
+    "No": "#124",
+    "Tipo": "Gelo / Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ルージュラ | Rūjura",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Electabuzz",
+    "Geracao": "1ª",
+    "No": "#125",
+    "Tipo": "Elétrico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "エレブー | Erebū",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Magmar",
+    "Geracao": "1ª",
+    "No": "#126",
+    "Tipo": "Fogo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ブーバー | Būbā",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Pinsir",
+    "Geracao": "1ª",
+    "No": "#127",
+    "Tipo": "Inseto",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カイロス | Kairosu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Tauros",
+    "Geracao": "1ª",
+    "No": "#128",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ケンタロス | Kentarosu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Magikarp",
+    "Geracao": "1ª",
+    "No": "#129",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "コイキング | Koikingu",
+    "StatusBase": "200"
+  },
+  {
+    "Name": "Gyarados",
+    "Geracao": "1ª",
+    "No": "#130",
+    "Tipo": "Água / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ギャラドス | Gyaradosu",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Lapras",
+    "Geracao": "1ª",
+    "No": "#131",
+    "Tipo": "Água / Gelo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ラプラス | Rapurasu",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Ditto",
+    "Geracao": "1ª",
+    "No": "#132",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "メタモン | Metamon",
+    "StatusBase": "288"
+  },
+  {
+    "Name": "Eevee",
+    "Geracao": "1ª",
+    "No": "#133",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "イーブイ | Ībui",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Vaporeon",
+    "Geracao": "1ª",
+    "No": "#134",
+    "Tipo": "Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "シャワーズ | Shawāzu",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Jolteon",
+    "Geracao": "1ª",
+    "No": "#135",
+    "Tipo": "Elétrico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "サンダース | Sandāsu",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Flareon",
+    "Geracao": "1ª",
+    "No": "#136",
+    "Tipo": "Fogo",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ブースター | Būsutā",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Porygon",
+    "Geracao": "1ª",
+    "No": "#137",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ポリゴン | Porigon",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Omanyte",
+    "Geracao": "1ª",
+    "No": "#138",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "オムナイト | Omunaito",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Omastar",
+    "Geracao": "1ª",
+    "No": "#139",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "オムスター | Omusutā",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Kabuto",
+    "Geracao": "1ª",
+    "No": "#140",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カブト | Kabuto",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Kabutops",
+    "Geracao": "1ª",
+    "No": "#141",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カブトプス | Kabutopusu",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Aerodactyl",
+    "Geracao": "1ª",
+    "No": "#142",
+    "Tipo": "Pedra / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "プテラ | Putera",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Snorlax",
+    "Geracao": "1ª",
+    "No": "#143",
+    "Tipo": "Normal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カビゴン | Kabigon",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Articuno",
+    "Geracao": "1ª",
+    "No": "#144",
+    "Tipo": "Gelo / Voador | Psiquico",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "フリーザー | Furīzā",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Zapdos",
+    "Geracao": "1ª",
+    "No": "#145",
+    "Tipo": "Elétrico / Voador | Lutador / Voador",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "サンダー | Sandā",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Moltres",
+    "Geracao": "1ª",
+    "No": "#146",
+    "Tipo": "Fogo / Voador | Sombrio / Voador",
+    "Regiao": "Kanto | Galar",
+    "NomeOriginal": "ファイヤー | Faiyā",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Dratini",
+    "Geracao": "1ª",
+    "No": "#147",
+    "Tipo": "Dragão",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ミニリュウ | Miniryū",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Dragãoair",
+    "Geracao": "1ª",
+    "No": "#148",
+    "Tipo": "Dragão",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ハクリュー | Hakuryū",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Dragãoite",
+    "Geracao": "1ª",
+    "No": "#149",
+    "Tipo": "Dragão / Voador",
+    "Regiao": "Kanto",
+    "NomeOriginal": "カイリュー | Kairyū",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Mewtwo",
+    "Geracao": "1ª",
+    "No": "#150",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ミュウツー | Myūtsū",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Mew",
+    "Geracao": "1ª",
+    "No": "#151",
+    "Tipo": "Psiquico",
+    "Regiao": "Kanto",
+    "NomeOriginal": "ミュウ | Myū",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Chikorita",
+    "Geracao": "2ª",
+    "No": "#152",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "チコリータ | Chikorīta",
+    "StatusBase": "318"
+  },
+  {
+    "Name": "Bayleef",
+    "Geracao": "2ª",
+    "No": "#153",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ベイリーフ | Beirīfu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Meganium",
+    "Geracao": "2ª",
+    "No": "#154",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "メガニウム | Meganiumu",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Cyndaquil",
+    "Geracao": "2ª",
+    "No": "#155",
+    "Tipo": "Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヒノアラシ | Hinoarashi",
+    "StatusBase": "309"
+  },
+  {
+    "Name": "Quilava",
+    "Geracao": "2ª",
+    "No": "#156",
+    "Tipo": "Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マグマラシ | Magumarashi",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Typhlosion",
+    "Geracao": "2ª",
+    "No": "#157",
+    "Tipo": "Fogo | Fogo / Fantasma",
+    "Regiao": "Jotho | Hisui",
+    "NomeOriginal": "バクフーン | Bakufūn",
+    "StatusBase": "534"
+  },
+  {
+    "Name": "Totodile",
+    "Geracao": "2ª",
+    "No": "#158",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ワニノコ | Waninoko",
+    "StatusBase": "314"
+  },
+  {
+    "Name": "Croconaw",
+    "Geracao": "2ª",
+    "No": "#159",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "アリゲイツ | Arigeitsu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Feraligatr",
+    "Geracao": "2ª",
+    "No": "#160",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "オーダイル | Ōdairu",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Sentret",
+    "Geracao": "2ª",
+    "No": "#161",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "オタチ | Otachi",
+    "StatusBase": "215"
+  },
+  {
+    "Name": "Furret",
+    "Geracao": "2ª",
+    "No": "#162",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "オオタチ | Ōtachi",
+    "StatusBase": "415"
+  },
+  {
+    "Name": "Hoothoot",
+    "Geracao": "2ª",
+    "No": "#163",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ホーホー | Hōhō",
+    "StatusBase": "262"
+  },
+  {
+    "Name": "Noctowl",
+    "Geracao": "2ª",
+    "No": "#164",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヨルノズク | Yorunozuku",
+    "StatusBase": "452"
+  },
+  {
+    "Name": "Ledyba",
+    "Geracao": "2ª",
+    "No": "#165",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "レディバ | Rediba",
+    "StatusBase": "265"
+  },
+  {
+    "Name": "Ledian",
+    "Geracao": "2ª",
+    "No": "#166",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "レディアン | Redian",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Spinarak",
+    "Geracao": "2ª",
+    "No": "#167",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Jotho",
+    "NomeOriginal": "イトマル | Itomaru",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Ariados",
+    "Geracao": "2ª",
+    "No": "#168",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Jotho",
+    "NomeOriginal": "アリアドス | Ariadosu",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Crobat",
+    "Geracao": "2ª",
+    "No": "#169",
+    "Tipo": "Venenoso / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "クロバット | Kurobatto",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Chinchou",
+    "Geracao": "2ª",
+    "No": "#170",
+    "Tipo": "Água / Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "チョンチー | Chonchī",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Lanturn",
+    "Geracao": "2ª",
+    "No": "#171",
+    "Tipo": "Água / Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ランターン | Rantān",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Pichu",
+    "Geracao": "2ª",
+    "No": "#172",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ピチュー | Pichū",
+    "StatusBase": "205"
+  },
+  {
+    "Name": "Cleffa",
+    "Geracao": "2ª",
+    "No": "#173",
+    "Tipo": "Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ピィ | Pī",
+    "StatusBase": "218"
+  },
+  {
+    "Name": "Igglybuff",
+    "Geracao": "2ª",
+    "No": "#174",
+    "Tipo": "Normal / Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ププリン | Pupurin",
+    "StatusBase": "210"
+  },
+  {
+    "Name": "Togepi",
+    "Geracao": "2ª",
+    "No": "#175",
+    "Tipo": "Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "トゲピー | Togepī",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Togetic",
+    "Geracao": "2ª",
+    "No": "#176",
+    "Tipo": "Fada / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "トゲチック | Togechikku",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Natu",
+    "Geracao": "2ª",
+    "No": "#177",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ネイティ | Neiti",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Xatu",
+    "Geracao": "2ª",
+    "No": "#178",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ネイティオ | Neitio",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Mareep",
+    "Geracao": "2ª",
+    "No": "#179",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "メリープ | Merīpu",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Flaaffy",
+    "Geracao": "2ª",
+    "No": "#180",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "モココ | Mokoko",
+    "StatusBase": "365"
+  },
+  {
+    "Name": "Ampharos",
+    "Geracao": "2ª",
+    "No": "#181",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "デンリュウ | Denryū",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Bellossom",
+    "Geracao": "2ª",
+    "No": "#182",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "キレイハナ | Kireihana",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Marill",
+    "Geracao": "2ª",
+    "No": "#183",
+    "Tipo": "Água / Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マリル | Mariru",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Azumarill",
+    "Geracao": "2ª",
+    "No": "#184",
+    "Tipo": "Água / Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マリルリ | Mariruri",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Sudowoodo",
+    "Geracao": "2ª",
+    "No": "#185",
+    "Tipo": "Pedra",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ウソッキー | Usokkī",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Politoed",
+    "Geracao": "2ª",
+    "No": "#186",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ニョロトノ | Nyorotono",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Hoppip",
+    "Geracao": "2ª",
+    "No": "#187",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ハネッコ | Hanekko",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Skiploom",
+    "Geracao": "2ª",
+    "No": "#188",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ポポッコ | Popokko",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Jumpluff",
+    "Geracao": "2ª",
+    "No": "#189",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ワタッコ | Watakko",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Aipom",
+    "Geracao": "2ª",
+    "No": "#190",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "エイパム | Eipamu",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Sunkern",
+    "Geracao": "2ª",
+    "No": "#191",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヒマナッツ | Himanattsu",
+    "StatusBase": "180"
+  },
+  {
+    "Name": "Sunflora",
+    "Geracao": "2ª",
+    "No": "#192",
+    "Tipo": "Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "キマワリ | Kimawari",
+    "StatusBase": "425"
+  },
+  {
+    "Name": "Yanma",
+    "Geracao": "2ª",
+    "No": "#193",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヤンヤンマ | Yan'yanma",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Wooper",
+    "Geracao": "2ª",
+    "No": "#194",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ウパー | Upā",
+    "StatusBase": "210"
+  },
+  {
+    "Name": "Quagsire",
+    "Geracao": "2ª",
+    "No": "#195",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヌオー | Nuō",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Espeon",
+    "Geracao": "2ª",
+    "No": "#196",
+    "Tipo": "Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "エーフィ | Ēfi",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Umbreon",
+    "Geracao": "2ª",
+    "No": "#197",
+    "Tipo": "Sombrio",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ブラッキー | Burakkī",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Murkrow",
+    "Geracao": "2ª",
+    "No": "#198",
+    "Tipo": "Sombrio / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヤミカラス | Yamikarasu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Slowking",
+    "Geracao": "2ª",
+    "No": "#199",
+    "Tipo": "Água / Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヤドキング | Yadokingu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Misdreavus",
+    "Geracao": "2ª",
+    "No": "#200",
+    "Tipo": "Fantasma",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ムウマ | Mūma",
+    "StatusBase": "435"
+  },
+  {
+    "Name": "Unown",
+    "Geracao": "2ª",
+    "No": "#201",
+    "Tipo": "Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "アンノーン | Annōn",
+    "StatusBase": "336"
+  },
+  {
+    "Name": "Wobbuffet",
+    "Geracao": "2ª",
+    "No": "#202",
+    "Tipo": "Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ソーナンス | Sōnansu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Girafarig",
+    "Geracao": "2ª",
+    "No": "#203",
+    "Tipo": "Normal / Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "キリンリキ | Kirinriki",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Pineco",
+    "Geracao": "2ª",
+    "No": "#204",
+    "Tipo": "Inseto",
+    "Regiao": "Jotho",
+    "NomeOriginal": "クヌギダマ | Kunugidama",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Forretress",
+    "Geracao": "2ª",
+    "No": "#205",
+    "Tipo": "Inseto / Metal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "フォレトス | Foretosu",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Dunsparce",
+    "Geracao": "2ª",
+    "No": "#206",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ノコッチ | Nokotchi",
+    "StatusBase": "415"
+  },
+  {
+    "Name": "Gligar",
+    "Geracao": "2ª",
+    "No": "#207",
+    "Tipo": "Terrestre / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "グライガー | Guraigā",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Metalix",
+    "Geracao": "2ª",
+    "No": "#208",
+    "Tipo": "Metal / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ハガネール | Haganēru",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Snubbull",
+    "Geracao": "2ª",
+    "No": "#209",
+    "Tipo": "Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ブルー | Burū",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Granbull",
+    "Geracao": "2ª",
+    "No": "#210",
+    "Tipo": "Fada",
+    "Regiao": "Jotho",
+    "NomeOriginal": "グランブル | Guranburu",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Qwilfish",
+    "Geracao": "2ª",
+    "No": "#211",
+    "Tipo": "Água / Venenoso | Sombrio / Venenoso",
+    "Regiao": "Jotho | Hisui",
+    "NomeOriginal": "ハリーセン | Harīsen",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Scizor",
+    "Geracao": "2ª",
+    "No": "#212",
+    "Tipo": "Inseto / Metal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ハッサム | Hassamu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Shuckle",
+    "Geracao": "2ª",
+    "No": "#213",
+    "Tipo": "Inseto / Pedra",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ツボツボ | Tsubotsubo",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Heracross",
+    "Geracao": "2ª",
+    "No": "#214",
+    "Tipo": "Inseto / Lutador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヘラクロス | Herakurosu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Sneasel",
+    "Geracao": "2ª",
+    "No": "#215",
+    "Tipo": "Sombrio / Gelo | Lutador / Venenoso",
+    "Regiao": "Jotho | Hisui",
+    "NomeOriginal": "ニューラ | Nyūra",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Teddiursa",
+    "Geracao": "2ª",
+    "No": "#216",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヒメグマ | Himeguma",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Ursaring",
+    "Geracao": "2ª",
+    "No": "#217",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "リングマ | Ringuma",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Slugma",
+    "Geracao": "2ª",
+    "No": "#218",
+    "Tipo": "Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マグマッグ | Magumaggu",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Magcargo",
+    "Geracao": "2ª",
+    "No": "#219",
+    "Tipo": "Fogo / Pedra",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マグカルゴ | Magukarugo",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Swinub",
+    "Geracao": "2ª",
+    "No": "#220",
+    "Tipo": "Gelo / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ウリムー | Urimū",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Piloswine",
+    "Geracao": "2ª",
+    "No": "#221",
+    "Tipo": "Gelo / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "イノムー | Inomū",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Corsola",
+    "Geracao": "2ª",
+    "No": "#222",
+    "Tipo": "Água / Pedra | Fantasma",
+    "Regiao": "Jotho | Galar",
+    "NomeOriginal": "サニーゴ | Sanīgo",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Remoraid",
+    "Geracao": "2ª",
+    "No": "#223",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "テッポウオ | Teppouo",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Octillery",
+    "Geracao": "2ª",
+    "No": "#224",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "オクタン | Okutan",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Delibird",
+    "Geracao": "2ª",
+    "No": "#225",
+    "Tipo": "Gelo / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "デリバード | Deribādo",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Mantine",
+    "Geracao": "2ª",
+    "No": "#226",
+    "Tipo": "Água / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "マンタイン | Mantain",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Skarmory",
+    "Geracao": "2ª",
+    "No": "#227",
+    "Tipo": "Metal / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "エアームド | Eāmudo",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Houndour",
+    "Geracao": "2ª",
+    "No": "#228",
+    "Tipo": "Sombrio / Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "デルビル | Derubiru",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Houndoom",
+    "Geracao": "2ª",
+    "No": "#229",
+    "Tipo": "Sombrio / Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヘルガー | Herugā",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Kingdra",
+    "Geracao": "2ª",
+    "No": "#230",
+    "Tipo": "Água / Dragão",
+    "Regiao": "Jotho",
+    "NomeOriginal": "キングドラ | Kingudora",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Phanpy",
+    "Geracao": "2ª",
+    "No": "#231",
+    "Tipo": "Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ゴマゾウ | Gomazō",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Donphan",
+    "Geracao": "2ª",
+    "No": "#232",
+    "Tipo": "Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ドンファン | Donfan",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Porygon2",
+    "Geracao": "2ª",
+    "No": "#233",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ポリゴン２ | Porigon Tsū",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Stantler",
+    "Geracao": "2ª",
+    "No": "#234",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "オドシシ | Odoshishi",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Smeargle",
+    "Geracao": "2ª",
+    "No": "#235",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ドーブル | Dōburu",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Tyrogue",
+    "Geracao": "2ª",
+    "No": "#236",
+    "Tipo": "Lutador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "バルキー | Barukī",
+    "StatusBase": "210"
+  },
+  {
+    "Name": "Hitmontop",
+    "Geracao": "2ª",
+    "No": "#237",
+    "Tipo": "Lutador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "カポエラー | Kapoerā",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Smoochum",
+    "Geracao": "2ª",
+    "No": "#238",
+    "Tipo": "Gelo / Psiquico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ムチュール | Muchūru",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Elekid",
+    "Geracao": "2ª",
+    "No": "#239",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "エレキッド | Erekiddo",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Magby",
+    "Geracao": "2ª",
+    "No": "#240",
+    "Tipo": "Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ブビィ | Bubī",
+    "StatusBase": "365"
+  },
+  {
+    "Name": "Miltank",
+    "Geracao": "2ª",
+    "No": "#241",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ミルタンク | Mirutanku",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Blissey",
+    "Geracao": "2ª",
+    "No": "#242",
+    "Tipo": "Normal",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ハピナス | Hapinasu",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Raikou",
+    "Geracao": "2ª",
+    "No": "#243",
+    "Tipo": "Elétrico",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ライコウ | Raikō",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Entei",
+    "Geracao": "2ª",
+    "No": "#244",
+    "Tipo": "Fogo",
+    "Regiao": "Jotho",
+    "NomeOriginal": "エンテイ | Entei",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Suicune",
+    "Geracao": "2ª",
+    "No": "#245",
+    "Tipo": "Água",
+    "Regiao": "Jotho",
+    "NomeOriginal": "スイクン | Suikun",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Larvitar",
+    "Geracao": "2ª",
+    "No": "#246",
+    "Tipo": "Pedra / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ヨーギラス | Yōgirasu",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Pupitar",
+    "Geracao": "2ª",
+    "No": "#247",
+    "Tipo": "Pedra / Terrestre",
+    "Regiao": "Jotho",
+    "NomeOriginal": "サナギラス | Sanagirasu",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Tyranitar",
+    "Geracao": "2ª",
+    "No": "#248",
+    "Tipo": "Pedra / Sombrio",
+    "Regiao": "Jotho",
+    "NomeOriginal": "バンギラス | Bangirasu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Lugia",
+    "Geracao": "2ª",
+    "No": "#249",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ルギア | Rugia",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Ho-Oh",
+    "Geracao": "2ª",
+    "No": "#250",
+    "Tipo": "Fogo / Voador",
+    "Regiao": "Jotho",
+    "NomeOriginal": "ホウオウ | Hōō",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Celebi",
+    "Geracao": "2ª",
+    "No": "#251",
+    "Tipo": "Psiquico / Grama",
+    "Regiao": "Jotho",
+    "NomeOriginal": "セレビィ | Serebī",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Treecko",
+    "Geracao": "3ª",
+    "No": "#252",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キモリ | Kimori",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Grovyle",
+    "Geracao": "3ª",
+    "No": "#253",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ジュプトル | Juputoru",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Sceptile",
+    "Geracao": "3ª",
+    "No": "#254",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ジュカイン | Jukain",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Torchic",
+    "Geracao": "3ª",
+    "No": "#255",
+    "Tipo": "Fogo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アチャモ | Achamo",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Combusken",
+    "Geracao": "3ª",
+    "No": "#256",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ワカシャモ | Wakashamo",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Blaziken",
+    "Geracao": "3ª",
+    "No": "#257",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "バシャーモ | Bashāmo",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Mudkip",
+    "Geracao": "3ª",
+    "No": "#258",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ミズゴロウ | Mizugorō",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Marshtomp",
+    "Geracao": "3ª",
+    "No": "#259",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヌマクロー | Numakurō",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Swampert",
+    "Geracao": "3ª",
+    "No": "#260",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラグラージ | Ragurāji",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Poochyena",
+    "Geracao": "3ª",
+    "No": "#261",
+    "Tipo": "Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ポチエナ | Pochiena",
+    "StatusBase": "220"
+  },
+  {
+    "Name": "Mightyena",
+    "Geracao": "3ª",
+    "No": "#262",
+    "Tipo": "Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "グラエナ | Guraena",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Zigzagoon",
+    "Geracao": "3ª",
+    "No": "#263",
+    "Tipo": "Normal | Sombrio / Normal",
+    "Regiao": "Hoenn | Galar",
+    "NomeOriginal": "ジグザグマ | Jiguzaguma",
+    "StatusBase": "240"
+  },
+  {
+    "Name": "Linoone",
+    "Geracao": "3ª",
+    "No": "#264",
+    "Tipo": "Normal | Sombrio / Normal",
+    "Regiao": "Hoenn | Galar",
+    "NomeOriginal": "マッスグマ | Massuguma",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Wurmple",
+    "Geracao": "3ª",
+    "No": "#265",
+    "Tipo": "Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ケムッソ | Kemusso",
+    "StatusBase": "195"
+  },
+  {
+    "Name": "Silcoon",
+    "Geracao": "3ª",
+    "No": "#266",
+    "Tipo": "Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "カラサリス | Karasarisu",
+    "StatusBase": "205"
+  },
+  {
+    "Name": "Beautifly",
+    "Geracao": "3ª",
+    "No": "#267",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アゲハント | Agehanto",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Cascoon",
+    "Geracao": "3ª",
+    "No": "#268",
+    "Tipo": "Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "マユルド | Mayurudo",
+    "StatusBase": "205"
+  },
+  {
+    "Name": "Dustox",
+    "Geracao": "3ª",
+    "No": "#269",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ドクケイル | Dokukeiru",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Lotad",
+    "Geracao": "3ª",
+    "No": "#270",
+    "Tipo": "Água / Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ハスボー | Hasubō",
+    "StatusBase": "220"
+  },
+  {
+    "Name": "Lombre",
+    "Geracao": "3ª",
+    "No": "#271",
+    "Tipo": "Água / Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ハスブレロ | Hasuburero",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Ludicolo",
+    "Geracao": "3ª",
+    "No": "#272",
+    "Tipo": "Água / Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ルンパッパ | Runpappa",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Seedot",
+    "Geracao": "3ª",
+    "No": "#273",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "タネボー | Tanebō",
+    "StatusBase": "220"
+  },
+  {
+    "Name": "Nuzleaf",
+    "Geracao": "3ª",
+    "No": "#274",
+    "Tipo": "Grama / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "コノハナ | Konohana",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Shiftry",
+    "Geracao": "3ª",
+    "No": "#275",
+    "Tipo": "Grama / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ダーテング | Dātengu",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Taillow",
+    "Geracao": "3ª",
+    "No": "#276",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "スバメ | Subame",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Swellow",
+    "Geracao": "3ª",
+    "No": "#277",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "オオスバメ | Ōsubame",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Wingull",
+    "Geracao": "3ª",
+    "No": "#278",
+    "Tipo": "Água / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キャモメ | Kyamome",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Pelipper",
+    "Geracao": "3ª",
+    "No": "#279",
+    "Tipo": "Água / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ペリッパー | Perippā",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Ralts",
+    "Geracao": "3ª",
+    "No": "#280",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラルトス | Rarutosu",
+    "StatusBase": "198"
+  },
+  {
+    "Name": "Kirlia",
+    "Geracao": "3ª",
+    "No": "#281",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キルリア | Kiruria",
+    "StatusBase": "278"
+  },
+  {
+    "Name": "Gardevoir",
+    "Geracao": "3ª",
+    "No": "#282",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "サーナイト | Sānaito",
+    "StatusBase": "518"
+  },
+  {
+    "Name": "Surskit",
+    "Geracao": "3ª",
+    "No": "#283",
+    "Tipo": "Inseto / Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アメタマ | Ametama",
+    "StatusBase": "269"
+  },
+  {
+    "Name": "Masquerain",
+    "Geracao": "3ª",
+    "No": "#284",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アメモース | Amemōsu",
+    "StatusBase": "454"
+  },
+  {
+    "Name": "Shroomish",
+    "Geracao": "3ª",
+    "No": "#285",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キノココ | Kinokoko",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Breloom",
+    "Geracao": "3ª",
+    "No": "#286",
+    "Tipo": "Grama / Lutador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キノガッサ | Kinogassa",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Slakoth",
+    "Geracao": "3ª",
+    "No": "#287",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ナマケロ | Namakero",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Vigoroth",
+    "Geracao": "3ª",
+    "No": "#288",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヤルキモノ | Yarukimono",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Slaking",
+    "Geracao": "3ª",
+    "No": "#289",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ケッキング | Kekkingu",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Nincada",
+    "Geracao": "3ª",
+    "No": "#290",
+    "Tipo": "Inseto / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ツチニン | Tsuchinin",
+    "StatusBase": "266"
+  },
+  {
+    "Name": "Ninjask",
+    "Geracao": "3ª",
+    "No": "#291",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "テッカニン | Tekkanin",
+    "StatusBase": "456"
+  },
+  {
+    "Name": "Shedinja",
+    "Geracao": "3ª",
+    "No": "#292",
+    "Tipo": "Inseto / Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヌケニン | Nukenin",
+    "StatusBase": "236"
+  },
+  {
+    "Name": "Whismur",
+    "Geracao": "3ª",
+    "No": "#293",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ゴニョニョ | Gonyonyo",
+    "StatusBase": "240"
+  },
+  {
+    "Name": "Loudred",
+    "Geracao": "3ª",
+    "No": "#294",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ドゴーム | Dogōmu",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Exploud",
+    "Geracao": "3ª",
+    "No": "#295",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "バクオング | Bakuongu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Makuhita",
+    "Geracao": "3ª",
+    "No": "#296",
+    "Tipo": "Lutador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "マクノシタ | Makunoshita",
+    "StatusBase": "237"
+  },
+  {
+    "Name": "Hariyama",
+    "Geracao": "3ª",
+    "No": "#297",
+    "Tipo": "Lutador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ハリテヤマ | Hariteyama",
+    "StatusBase": "474"
+  },
+  {
+    "Name": "Azurill",
+    "Geracao": "3ª",
+    "No": "#298",
+    "Tipo": "Normal / Fada",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ルリリ | Ruriri",
+    "StatusBase": "190"
+  },
+  {
+    "Name": "Nosepass",
+    "Geracao": "3ª",
+    "No": "#299",
+    "Tipo": "Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ノズパス | Nozupasu",
+    "StatusBase": "375"
+  },
+  {
+    "Name": "Skitty",
+    "Geracao": "3ª",
+    "No": "#300",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "エネコ | Eneko",
+    "StatusBase": "260"
+  },
+  {
+    "Name": "Delcatty",
+    "Geracao": "3ª",
+    "No": "#301",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "エネコロロ | Enekororo",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Sableye",
+    "Geracao": "3ª",
+    "No": "#302",
+    "Tipo": "Sombrio / Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヤミラミ | Yamirami",
+    "StatusBase": "380"
+  },
+  {
+    "Name": "Mawile",
+    "Geracao": "3ª",
+    "No": "#303",
+    "Tipo": "Metal / Fada",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "クチート | Kuchīto",
+    "StatusBase": "380"
+  },
+  {
+    "Name": "Aron",
+    "Geracao": "3ª",
+    "No": "#304",
+    "Tipo": "Metal / Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ココドラ | Kokodora",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Lairon",
+    "Geracao": "3ª",
+    "No": "#305",
+    "Tipo": "Metal / Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "コドラ | Kodora",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Aggron",
+    "Geracao": "3ª",
+    "No": "#306",
+    "Tipo": "Metal / Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ボスゴドラ | Bosugodora",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Meditite",
+    "Geracao": "3ª",
+    "No": "#307",
+    "Tipo": "Lutador / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アサナン | Asanan",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Medicham",
+    "Geracao": "3ª",
+    "No": "#308",
+    "Tipo": "Lutador / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "チャーレム | Chāremu",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Electrike",
+    "Geracao": "3ª",
+    "No": "#309",
+    "Tipo": "Elétrico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラクライ | Rakurai",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Manectric",
+    "Geracao": "3ª",
+    "No": "#310",
+    "Tipo": "Elétrico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ライボルト | Raiboruto",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Plusle",
+    "Geracao": "3ª",
+    "No": "#311",
+    "Tipo": "Elétrico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "プラスル | Purasuru",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Minun",
+    "Geracao": "3ª",
+    "No": "#312",
+    "Tipo": "Elétrico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "マイナン | Mainan",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Volbeat",
+    "Geracao": "3ª",
+    "No": "#313",
+    "Tipo": "Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "バルビート | Barubīto",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Illumise",
+    "Geracao": "3ª",
+    "No": "#314",
+    "Tipo": "Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "イルミーゼ | Irumīze",
+    "StatusBase": "430"
+  },
+  {
+    "Name": "Roselia",
+    "Geracao": "3ª",
+    "No": "#315",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ロゼリア | Rozeria",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Gulpin",
+    "Geracao": "3ª",
+    "No": "#316",
+    "Tipo": "Venenoso",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ゴクリン | Gokurin",
+    "StatusBase": "302"
+  },
+  {
+    "Name": "Swalot",
+    "Geracao": "3ª",
+    "No": "#317",
+    "Tipo": "Venenoso",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "マルノーム | Marunōmu",
+    "StatusBase": "467"
+  },
+  {
+    "Name": "Carvanha",
+    "Geracao": "3ª",
+    "No": "#318",
+    "Tipo": "Água / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "キバニア | Kibania",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Sharpedo",
+    "Geracao": "3ª",
+    "No": "#319",
+    "Tipo": "Água / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "サメハダー | Samehadā",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Wailmer",
+    "Geracao": "3ª",
+    "No": "#320",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ホエルコ | Hoeruko",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Wailord",
+    "Geracao": "3ª",
+    "No": "#321",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ホエルオー | Hoeruō",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Numel",
+    "Geracao": "3ª",
+    "No": "#322",
+    "Tipo": "Fogo / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ドンメル | Donmeru",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Camerupt",
+    "Geracao": "3ª",
+    "No": "#323",
+    "Tipo": "Fogo / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "バクーダ | Bakūda",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Torkoal",
+    "Geracao": "3ª",
+    "No": "#324",
+    "Tipo": "Fogo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "コータス | Kōtasu",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Spoink",
+    "Geracao": "3ª",
+    "No": "#325",
+    "Tipo": "Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "バネブー | Banebū",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Grumpig",
+    "Geracao": "3ª",
+    "No": "#326",
+    "Tipo": "Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ブーピッグ | Būpiggu",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Spinda",
+    "Geracao": "3ª",
+    "No": "#327",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "パッチール | Patchīru",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Trapinch",
+    "Geracao": "3ª",
+    "No": "#328",
+    "Tipo": "Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ナックラー | Nakkurā",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Vibrava",
+    "Geracao": "3ª",
+    "No": "#329",
+    "Tipo": "Terrestre / Dragão",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ビブラーバ | Biburāba",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Flygon",
+    "Geracao": "3ª",
+    "No": "#330",
+    "Tipo": "Terrestre / Dragão",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "フライゴン | Furaigon",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Cacnea",
+    "Geracao": "3ª",
+    "No": "#331",
+    "Tipo": "Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "サボネア | Sabonea",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Cacturne",
+    "Geracao": "3ª",
+    "No": "#332",
+    "Tipo": "Grama / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ノクタス | Nokutasu",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Swablu",
+    "Geracao": "3ª",
+    "No": "#333",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "チルット | Chirutto",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Altaria",
+    "Geracao": "3ª",
+    "No": "#334",
+    "Tipo": "Dragão / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "チルタリス | Chirutarisu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Zangoose",
+    "Geracao": "3ª",
+    "No": "#335",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ザングース | Zangūsu",
+    "StatusBase": "458"
+  },
+  {
+    "Name": "Seviper",
+    "Geracao": "3ª",
+    "No": "#336",
+    "Tipo": "Venenoso",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ハブネーク | Habunēku",
+    "StatusBase": "458"
+  },
+  {
+    "Name": "Lunatone",
+    "Geracao": "3ª",
+    "No": "#337",
+    "Tipo": "Pedra / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ルナトーン | Runatōn",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "SolPedra",
+    "Geracao": "3ª",
+    "No": "#338",
+    "Tipo": "Pedra / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ソルロック | Sorurokku",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Barboach",
+    "Geracao": "3ª",
+    "No": "#339",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ドジョッチ | Dojotchi",
+    "StatusBase": "288"
+  },
+  {
+    "Name": "Whiscash",
+    "Geracao": "3ª",
+    "No": "#340",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ナマズン | Namazun",
+    "StatusBase": "468"
+  },
+  {
+    "Name": "Corphish",
+    "Geracao": "3ª",
+    "No": "#341",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヘイガニ | Heigani",
+    "StatusBase": "308"
+  },
+  {
+    "Name": "Crawdaunt",
+    "Geracao": "3ª",
+    "No": "#342",
+    "Tipo": "Água / Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "シザリガー | Shizarigā",
+    "StatusBase": "468"
+  },
+  {
+    "Name": "Baltoy",
+    "Geracao": "3ª",
+    "No": "#343",
+    "Tipo": "Terrestre / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヤジロン | Yajiron",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Claydol",
+    "Geracao": "3ª",
+    "No": "#344",
+    "Tipo": "Terrestre / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ネンドール | Nendōru",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Lileep",
+    "Geracao": "3ª",
+    "No": "#345",
+    "Tipo": "Pedra / Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "リリーラ | Rirīra",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Cradily",
+    "Geracao": "3ª",
+    "No": "#346",
+    "Tipo": "Pedra / Grama",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ユレイドル | Yureidoru",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Anorith",
+    "Geracao": "3ª",
+    "No": "#347",
+    "Tipo": "Pedra / Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アノプス | Anopusu",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Armaldo",
+    "Geracao": "3ª",
+    "No": "#348",
+    "Tipo": "Pedra / Inseto",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アーマルド | Āmarudo",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Feebas",
+    "Geracao": "3ª",
+    "No": "#349",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヒンバス | Hinbasu",
+    "StatusBase": "200"
+  },
+  {
+    "Name": "Milotic",
+    "Geracao": "3ª",
+    "No": "#350",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ミロカロス | Mirokarosu",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Castform",
+    "Geracao": "3ª",
+    "No": "#351",
+    "Tipo": "Normal | Fogo | Água | Gelo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ポワルン | Powarun",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Kecleon",
+    "Geracao": "3ª",
+    "No": "#352",
+    "Tipo": "Normal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "カクレオン | Kakureon",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Shuppet",
+    "Geracao": "3ª",
+    "No": "#353",
+    "Tipo": "Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "カゲボウズ | Kagebōzu",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Banette",
+    "Geracao": "3ª",
+    "No": "#354",
+    "Tipo": "Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ジュペッタ | Jupetta",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Duskull",
+    "Geracao": "3ª",
+    "No": "#355",
+    "Tipo": "Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ヨマワル | Yomawaru",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Dusclops",
+    "Geracao": "3ª",
+    "No": "#356",
+    "Tipo": "Fantasma",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "サマヨール | Samayōru",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Tropius",
+    "Geracao": "3ª",
+    "No": "#357",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "トロピウス | Toropiusu",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Chimecho",
+    "Geracao": "3ª",
+    "No": "#358",
+    "Tipo": "Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "チリーン | Chirīn",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Absol",
+    "Geracao": "3ª",
+    "No": "#359",
+    "Tipo": "Sombrio",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "アブソル | Abusoru",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Wynaut",
+    "Geracao": "3ª",
+    "No": "#360",
+    "Tipo": "Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ソーナノ | Sōnano",
+    "StatusBase": "260"
+  },
+  {
+    "Name": "Snorunt",
+    "Geracao": "3ª",
+    "No": "#361",
+    "Tipo": "Gelo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ユキワラシ | Yukiwarashi",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Glalie",
+    "Geracao": "3ª",
+    "No": "#362",
+    "Tipo": "Gelo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "オニゴーリ | Onigōri",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Spheal",
+    "Geracao": "3ª",
+    "No": "#363",
+    "Tipo": "Gelo / Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "タマザラシ | Tamazarashi",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Sealeo",
+    "Geracao": "3ª",
+    "No": "#364",
+    "Tipo": "Gelo / Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "トドグラー | Todogurā",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Walrein",
+    "Geracao": "3ª",
+    "No": "#365",
+    "Tipo": "Gelo / Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "トドゼルガ | Todozeruga",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Clamperl",
+    "Geracao": "3ª",
+    "No": "#366",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "パールル | Pāruru",
+    "StatusBase": "345"
+  },
+  {
+    "Name": "Huntail",
+    "Geracao": "3ª",
+    "No": "#367",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ハンテール | Hantēru",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Gorebyss",
+    "Geracao": "3ª",
+    "No": "#368",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "サクラビス | Sakurabisu",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Relicanth",
+    "Geracao": "3ª",
+    "No": "#369",
+    "Tipo": "Água / Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ジーランス | Jīransu",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Luvdisc",
+    "Geracao": "3ª",
+    "No": "#370",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラブカス | Rabukasu",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Bagon",
+    "Geracao": "3ª",
+    "No": "#371",
+    "Tipo": "Dragão",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "タツベイ | Tatsubei",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Shelgon",
+    "Geracao": "3ª",
+    "No": "#372",
+    "Tipo": "Dragão",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "コモルー | Komorū",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Salamence",
+    "Geracao": "3ª",
+    "No": "#373",
+    "Tipo": "Dragão / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ボーマンダ | Bōmanda",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Beldum",
+    "Geracao": "3ª",
+    "No": "#374",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ダンバル | Danbaru",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Metang",
+    "Geracao": "3ª",
+    "No": "#375",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "メタング | Metangu",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Metagross",
+    "Geracao": "3ª",
+    "No": "#376",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "メタグロス | Metagurosu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "RegiPedra",
+    "Geracao": "3ª",
+    "No": "#377",
+    "Tipo": "Pedra",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "レジロック | Rejirokku",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "RegGelo",
+    "Geracao": "3ª",
+    "No": "#378",
+    "Tipo": "Gelo",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "レジアイス | Rejiaisu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "RegiMetal",
+    "Geracao": "3ª",
+    "No": "#379",
+    "Tipo": "Metal",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "レジスチル | Rejisuchiru",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Latias",
+    "Geracao": "3ª",
+    "No": "#380",
+    "Tipo": "Dragão / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラティアス | Ratiasu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Latios",
+    "Geracao": "3ª",
+    "No": "#381",
+    "Tipo": "Dragão / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ラティオス | Ratiosu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Kyogre",
+    "Geracao": "3ª",
+    "No": "#382",
+    "Tipo": "Água",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "カイオーガ | Kaiōga",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Terrestreon",
+    "Geracao": "3ª",
+    "No": "#383",
+    "Tipo": "Terrestre",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "グラードン | Gurādon",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Rayquaza",
+    "Geracao": "3ª",
+    "No": "#384",
+    "Tipo": "Dragão / Voador",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "レックウザ | Rekkūza",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Jirachi",
+    "Geracao": "3ª",
+    "No": "#385",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "ジラーチ | Jirāchi",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Deoxys",
+    "Geracao": "3ª",
+    "No": "#386",
+    "Tipo": "Psiquico",
+    "Regiao": "Hoenn",
+    "NomeOriginal": "デオキシス | Deokishisu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Turtwig",
+    "Geracao": "4ª",
+    "No": "#387",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ナエトル | Naetoru",
+    "StatusBase": "318"
+  },
+  {
+    "Name": "Grotle",
+    "Geracao": "4ª",
+    "No": "#388",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ハヤシガメ | Hayashigame",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Torterra",
+    "Geracao": "4ª",
+    "No": "#389",
+    "Tipo": "Grama / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドダイトス | Dodaitosu",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Chimchar",
+    "Geracao": "4ª",
+    "No": "#390",
+    "Tipo": "Fogo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ヒコザル | Hikozaru",
+    "StatusBase": "309"
+  },
+  {
+    "Name": "Monferno",
+    "Geracao": "4ª",
+    "No": "#391",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "モウカザル | Mōkazaru",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Infernape",
+    "Geracao": "4ª",
+    "No": "#392",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ゴウカザル | Gōkazaru",
+    "StatusBase": "534"
+  },
+  {
+    "Name": "Piplup",
+    "Geracao": "4ª",
+    "No": "#393",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ポッチャマ | Potchama",
+    "StatusBase": "314"
+  },
+  {
+    "Name": "Prinplup",
+    "Geracao": "4ª",
+    "No": "#394",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ポッタイシ | Pottaishi",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Empoleon",
+    "Geracao": "4ª",
+    "No": "#395",
+    "Tipo": "Água / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "エンペルト | Enperuto",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Starly",
+    "Geracao": "4ª",
+    "No": "#396",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ムックル | Mukkuru",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Staravia",
+    "Geracao": "4ª",
+    "No": "#397",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ムクバード | Mukubādo",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Staraptor",
+    "Geracao": "4ª",
+    "No": "#398",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ムクホーク | Mukuhōku",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Bidoof",
+    "Geracao": "4ª",
+    "No": "#399",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ビッパ | Bippa",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Bibarel",
+    "Geracao": "4ª",
+    "No": "#400",
+    "Tipo": "Normal / Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ビーダル | Bīdaru",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Kricketot",
+    "Geracao": "4ª",
+    "No": "#401",
+    "Tipo": "Inseto",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "コロボーシ | Korobōshi",
+    "StatusBase": "194"
+  },
+  {
+    "Name": "Kricketune",
+    "Geracao": "4ª",
+    "No": "#402",
+    "Tipo": "Inseto",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "コロトック | Korotokku",
+    "StatusBase": "384"
+  },
+  {
+    "Name": "Shinx",
+    "Geracao": "4ª",
+    "No": "#403",
+    "Tipo": "Elétrico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "コリンク | Korinku",
+    "StatusBase": "263"
+  },
+  {
+    "Name": "Luxio",
+    "Geracao": "4ª",
+    "No": "#404",
+    "Tipo": "Elétrico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ルクシオ | Rukushio",
+    "StatusBase": "363"
+  },
+  {
+    "Name": "Luxray",
+    "Geracao": "4ª",
+    "No": "#405",
+    "Tipo": "Elétrico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "レントラー | Rentorā",
+    "StatusBase": "523"
+  },
+  {
+    "Name": "Budew",
+    "Geracao": "4ª",
+    "No": "#406",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "スボミー | Subomī",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Roserade",
+    "Geracao": "4ª",
+    "No": "#407",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ロズレイド | Rozureido",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Cranidos",
+    "Geracao": "4ª",
+    "No": "#408",
+    "Tipo": "Pedra",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ズガイドス | Zugaidosu",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Rampardos",
+    "Geracao": "4ª",
+    "No": "#409",
+    "Tipo": "Pedra",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ラムパルド | Ramuparudo",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Shieldon",
+    "Geracao": "4ª",
+    "No": "#410",
+    "Tipo": "Pedra / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "タテトプス | Tatetopusu",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Bastiodon",
+    "Geracao": "4ª",
+    "No": "#411",
+    "Tipo": "Pedra / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "トリデプス | Toridepusu",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Burmy",
+    "Geracao": "4ª",
+    "No": "#412",
+    "Tipo": "Inseto",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミノムッチ | Minomutchi",
+    "StatusBase": "224"
+  },
+  {
+    "Name": "Wormadam",
+    "Geracao": "4ª",
+    "No": "#413",
+    "Tipo": "Inseto / Grama | Inseto / Terrestre | Inseto / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミノマダム | Minomadamu",
+    "StatusBase": "424"
+  },
+  {
+    "Name": "Mothim",
+    "Geracao": "4ª",
+    "No": "#414",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ガーメイル | Gāmeiru",
+    "StatusBase": "424"
+  },
+  {
+    "Name": "Combee",
+    "Geracao": "4ª",
+    "No": "#415",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミツハニー | Mitsuhanī",
+    "StatusBase": "244"
+  },
+  {
+    "Name": "Vespiquen",
+    "Geracao": "4ª",
+    "No": "#416",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ビークイン | Bīkuin",
+    "StatusBase": "474"
+  },
+  {
+    "Name": "Pachirisu",
+    "Geracao": "4ª",
+    "No": "#417",
+    "Tipo": "Elétrico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "パチリス | Pachirisu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Buizel",
+    "Geracao": "4ª",
+    "No": "#418",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ブイゼル | Buizeru",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Floatzel",
+    "Geracao": "4ª",
+    "No": "#419",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "フローゼル | Furōzeru",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Cherubi",
+    "Geracao": "4ª",
+    "No": "#420",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "チェリンボ | Cherinbo",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Cherrim",
+    "Geracao": "4ª",
+    "No": "#421",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "チェリム | Cherimu",
+    "StatusBase": "450"
+  },
+  {
+    "Name": "Shellos",
+    "Geracao": "4ª",
+    "No": "#422",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "カラナクシ | Karanakushi",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Gastrodon",
+    "Geracao": "4ª",
+    "No": "#423",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "トリトドン | Toritodon",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Ambipom",
+    "Geracao": "4ª",
+    "No": "#424",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "エテボース | Etebōsu",
+    "StatusBase": "482"
+  },
+  {
+    "Name": "Drifloon",
+    "Geracao": "4ª",
+    "No": "#425",
+    "Tipo": "Fantasma / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "フワンテ | Fuwante",
+    "StatusBase": "348"
+  },
+  {
+    "Name": "Drifblim",
+    "Geracao": "4ª",
+    "No": "#426",
+    "Tipo": "Fantasma / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "フワライド | Fuwaraido",
+    "StatusBase": "498"
+  },
+  {
+    "Name": "Buneary",
+    "Geracao": "4ª",
+    "No": "#427",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミミロル | Mimiroru",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Lopunny",
+    "Geracao": "4ª",
+    "No": "#428",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミミロップ | Mimiroppu",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Mismagius",
+    "Geracao": "4ª",
+    "No": "#429",
+    "Tipo": "Fantasma",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ムウマージ | Mūmāji",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Honchkrow",
+    "Geracao": "4ª",
+    "No": "#430",
+    "Tipo": "Sombrio / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドンカラス | Donkarasu",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Glameow",
+    "Geracao": "4ª",
+    "No": "#431",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ニャルマー | Nyarumā",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Purugly",
+    "Geracao": "4ª",
+    "No": "#432",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ブニャット | Bunyatto",
+    "StatusBase": "452"
+  },
+  {
+    "Name": "Chingling",
+    "Geracao": "4ª",
+    "No": "#433",
+    "Tipo": "Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "リーシャン | Rīshan",
+    "StatusBase": "285"
+  },
+  {
+    "Name": "Stunky",
+    "Geracao": "4ª",
+    "No": "#434",
+    "Tipo": "Venenoso / Sombrio",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "スカンプー | Sukanpū",
+    "StatusBase": "329"
+  },
+  {
+    "Name": "Skuntank",
+    "Geracao": "4ª",
+    "No": "#435",
+    "Tipo": "Venenoso / Sombrio",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "スカタンク | Sukatanku",
+    "StatusBase": "479"
+  },
+  {
+    "Name": "Bronzor",
+    "Geracao": "4ª",
+    "No": "#436",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドーミラー | Dōmirā",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Bronzong",
+    "Geracao": "4ª",
+    "No": "#437",
+    "Tipo": "Metal / Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドータクン | Dōtakun",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Bonsly",
+    "Geracao": "4ª",
+    "No": "#438",
+    "Tipo": "Pedra",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ウソハチ | Usohachi",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Mime Jr.",
+    "Geracao": "4ª",
+    "No": "#439",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "マネネ | Manene",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Happiny",
+    "Geracao": "4ª",
+    "No": "#440",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ピンプク | Pinpuku",
+    "StatusBase": "220"
+  },
+  {
+    "Name": "Chatot",
+    "Geracao": "4ª",
+    "No": "#441",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ペラップ | Perappu",
+    "StatusBase": "411"
+  },
+  {
+    "Name": "Spiritomb",
+    "Geracao": "4ª",
+    "No": "#442",
+    "Tipo": "Fantasma / Sombrio",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ミカルゲ | Mikaruge",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Gible",
+    "Geracao": "4ª",
+    "No": "#443",
+    "Tipo": "Dragão / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "フカマル | Fukamaru",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Gabite",
+    "Geracao": "4ª",
+    "No": "#444",
+    "Tipo": "Dragão / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ガバイト | Gabaito",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Garchomp",
+    "Geracao": "4ª",
+    "No": "#445",
+    "Tipo": "Dragão / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ガブリアス | Gaburiasu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Munchlax",
+    "Geracao": "4ª",
+    "No": "#446",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ゴンベ | Gonbe",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Riolu",
+    "Geracao": "4ª",
+    "No": "#447",
+    "Tipo": "Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "リオル | Rioru",
+    "StatusBase": "285"
+  },
+  {
+    "Name": "Lucario",
+    "Geracao": "4ª",
+    "No": "#448",
+    "Tipo": "Lutador / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ルカリオ | Rukario",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Hippopotas",
+    "Geracao": "4ª",
+    "No": "#449",
+    "Tipo": "Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ヒポポタス | Hipopotasu",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Hippowdon",
+    "Geracao": "4ª",
+    "No": "#450",
+    "Tipo": "Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "カバルドン | Kabarudon",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Skorupi",
+    "Geracao": "4ª",
+    "No": "#451",
+    "Tipo": "Venenoso / Inseto",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "スコルピ | Sukorupi",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Drapion",
+    "Geracao": "4ª",
+    "No": "#452",
+    "Tipo": "Venenoso / Sombrio",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドラピオン | Dorapion",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Croagunk",
+    "Geracao": "4ª",
+    "No": "#453",
+    "Tipo": "Venenoso / Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "グレッグル | Guregguru",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Toxicroak",
+    "Geracao": "4ª",
+    "No": "#454",
+    "Tipo": "Venenoso / Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドクロッグ | Dokuroggu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Carnivine",
+    "Geracao": "4ª",
+    "No": "#455",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "マスキッパ | Masukippa",
+    "StatusBase": "454"
+  },
+  {
+    "Name": "Finneon",
+    "Geracao": "4ª",
+    "No": "#456",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ケイコウオ | Keiko'uo",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Lumineon",
+    "Geracao": "4ª",
+    "No": "#457",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ネオラント | Neoranto",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Mantyke",
+    "Geracao": "4ª",
+    "No": "#458",
+    "Tipo": "Água / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "タマンタ | Tamanta",
+    "StatusBase": "345"
+  },
+  {
+    "Name": "Snover",
+    "Geracao": "4ª",
+    "No": "#459",
+    "Tipo": "Grama / Gelo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ユキカブリ | Yukikaburi",
+    "StatusBase": "334"
+  },
+  {
+    "Name": "Abomasnow",
+    "Geracao": "4ª",
+    "No": "#460",
+    "Tipo": "Grama / Gelo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ユキノオー | Yukinoō",
+    "StatusBase": "494"
+  },
+  {
+    "Name": "Weavile",
+    "Geracao": "4ª",
+    "No": "#461",
+    "Tipo": "Sombrio / Gelo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "マニューラ | Manyūra",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Magnezone",
+    "Geracao": "4ª",
+    "No": "#462",
+    "Tipo": "Elétrico / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ジバコイル | Jibakoiru",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Lickilicky",
+    "Geracao": "4ª",
+    "No": "#463",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ベロベルト | Beroberuto",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Rhyperior",
+    "Geracao": "4ª",
+    "No": "#464",
+    "Tipo": "Terrestre / Pedra",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ドサイドン | Dosaidon",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Tangrowth",
+    "Geracao": "4ª",
+    "No": "#465",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "モジャンボ | Mojanbo",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Electivire",
+    "Geracao": "4ª",
+    "No": "#466",
+    "Tipo": "Elétrico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "エレキブル | Erekiburu",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Magmortar",
+    "Geracao": "4ª",
+    "No": "#467",
+    "Tipo": "Fogo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ブーバーン | Būbān",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Togekiss",
+    "Geracao": "4ª",
+    "No": "#468",
+    "Tipo": "Fada / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "トゲキッス | Togekissu",
+    "StatusBase": "545"
+  },
+  {
+    "Name": "Yanmega",
+    "Geracao": "4ª",
+    "No": "#469",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "メガヤンマ | Megayanma",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Leafeon",
+    "Geracao": "4ª",
+    "No": "#470",
+    "Tipo": "Grama",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "リーフィア | Rīfia",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Glaceon",
+    "Geracao": "4ª",
+    "No": "#471",
+    "Tipo": "Gelo",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "グレイシア | Gureishia",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Gliscor",
+    "Geracao": "4ª",
+    "No": "#472",
+    "Tipo": "Terrestre / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "グライオン | Guraion",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Mamoswine",
+    "Geracao": "4ª",
+    "No": "#473",
+    "Tipo": "Gelo / Terrestre",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "マンムー | Manmū",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Porygon-Z",
+    "Geracao": "4ª",
+    "No": "#474",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ポリゴンＺ | Porigon Zetto",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Gallade",
+    "Geracao": "4ª",
+    "No": "#475",
+    "Tipo": "Psiquico / Lutador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "エルレイド | Erureido",
+    "StatusBase": "518"
+  },
+  {
+    "Name": "Probopass",
+    "Geracao": "4ª",
+    "No": "#476",
+    "Tipo": "Pedra / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ダイノーズ | Dainōzu",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Dusknoir",
+    "Geracao": "4ª",
+    "No": "#477",
+    "Tipo": "Fantasma",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ヨノワール | Yonowāru",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Froslass",
+    "Geracao": "4ª",
+    "No": "#478",
+    "Tipo": "Gelo / Fantasma",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ユキメノコ | Yukimenoko",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Rotom",
+    "Geracao": "4ª",
+    "No": "#479",
+    "Tipo": "Elétrico / Fantasma | Elétrico / Voador | Elétrico / Gelo | Elétrico / Fogo | Elétrico / Grama | Elétrico / Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ロトム | Rotomu",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Uxie",
+    "Geracao": "4ª",
+    "No": "#480",
+    "Tipo": "Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ユクシー | Yukushī",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Mesprit",
+    "Geracao": "4ª",
+    "No": "#481",
+    "Tipo": "Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "エムリット | Emuritto",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Azelf",
+    "Geracao": "4ª",
+    "No": "#482",
+    "Tipo": "Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "アグノム | Agunomu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Dialga",
+    "Geracao": "4ª",
+    "No": "#483",
+    "Tipo": "Metal / Dragão",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ディアルガ | Diaruga",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Palkia",
+    "Geracao": "4ª",
+    "No": "#484",
+    "Tipo": "Água / Dragão",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "パルキア | Parukia",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Heatran",
+    "Geracao": "4ª",
+    "No": "#485",
+    "Tipo": "Fogo / Metal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ヒードラン | Hīdoran",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Regigigas",
+    "Geracao": "4ª",
+    "No": "#486",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "レジギガス | Rejigigasu",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Giratina",
+    "Geracao": "4ª",
+    "No": "#487",
+    "Tipo": "Fantasma / Dragão",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ギラティナ | Giratina",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Cresselia",
+    "Geracao": "4ª",
+    "No": "#488",
+    "Tipo": "Psiquico",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "クレセリア | Kureseria",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Phione",
+    "Geracao": "4ª",
+    "No": "#489",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "フィオネ | Fione",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Manaphy",
+    "Geracao": "4ª",
+    "No": "#490",
+    "Tipo": "Água",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "マナフィ | Manafi",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Sombriorai",
+    "Geracao": "4ª",
+    "No": "#491",
+    "Tipo": "Sombrio",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "ダークライ | Dākurai",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Shaymin",
+    "Geracao": "4ª",
+    "No": "#492",
+    "Tipo": "Grama | Grama / Voador",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "シェイミ | Sheimi",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Arceus",
+    "Geracao": "4ª",
+    "No": "#493",
+    "Tipo": "Normal",
+    "Regiao": "Sinnoh",
+    "NomeOriginal": "アルセウス | Aruseusu",
+    "StatusBase": "720"
+  },
+  {
+    "Name": "Victini",
+    "Geracao": "5ª",
+    "No": "#494",
+    "Tipo": "Psiquico / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ビクティニ | Bikutini",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Snivy",
+    "Geracao": "5ª",
+    "No": "#495",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ツタージャ | Tsutāja",
+    "StatusBase": "308"
+  },
+  {
+    "Name": "Servine",
+    "Geracao": "5ª",
+    "No": "#496",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ジャノビー | Janobī",
+    "StatusBase": "413"
+  },
+  {
+    "Name": "Serperior",
+    "Geracao": "5ª",
+    "No": "#497",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ジャローダ | Jarōda",
+    "StatusBase": "528"
+  },
+  {
+    "Name": "Tepig",
+    "Geracao": "5ª",
+    "No": "#498",
+    "Tipo": "Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ポカブ | Pokabu",
+    "StatusBase": "308"
+  },
+  {
+    "Name": "Pignite",
+    "Geracao": "5ª",
+    "No": "#499",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "チャオブー | Chaobū",
+    "StatusBase": "418"
+  },
+  {
+    "Name": "Emboar",
+    "Geracao": "5ª",
+    "No": "#500",
+    "Tipo": "Fogo / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "エンブオー | Enbuō",
+    "StatusBase": "528"
+  },
+  {
+    "Name": "Oshawott",
+    "Geracao": "5ª",
+    "No": "#501",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "ミジュマル | Mijumaru",
+    "StatusBase": "308"
+  },
+  {
+    "Name": "Dewott",
+    "Geracao": "5ª",
+    "No": "#502",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "フタチマル | Futachimaru",
+    "StatusBase": "413"
+  },
+  {
+    "Name": "Samurott",
+    "Geracao": "5ª",
+    "No": "#503",
+    "Tipo": "Água | Água / Sombrio",
+    "Regiao": "Unova | Hisui",
+    "NomeOriginal": "ダイケンキ | Daikenki",
+    "StatusBase": "528"
+  },
+  {
+    "Name": "Patrat",
+    "Geracao": "5ª",
+    "No": "#504",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ミネズミ | Minezumi",
+    "StatusBase": "255"
+  },
+  {
+    "Name": "Watchog",
+    "Geracao": "5ª",
+    "No": "#505",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ミルホッグ | Miruhoggu",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Lillipup",
+    "Geracao": "5ª",
+    "No": "#506",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヨーテリー | Yōterī",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Herdier",
+    "Geracao": "5ª",
+    "No": "#507",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ハーデリア | Hāderia",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Stoutland",
+    "Geracao": "5ª",
+    "No": "#508",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ムーランド | Mūrando",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Purrloin",
+    "Geracao": "5ª",
+    "No": "#509",
+    "Tipo": "Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "チョロネコ | Choroneko",
+    "StatusBase": "281"
+  },
+  {
+    "Name": "Liepard",
+    "Geracao": "5ª",
+    "No": "#510",
+    "Tipo": "Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "レパルダス | Reparudasu",
+    "StatusBase": "446"
+  },
+  {
+    "Name": "Pansage",
+    "Geracao": "5ª",
+    "No": "#511",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヤナップ | Yanappu",
+    "StatusBase": "316"
+  },
+  {
+    "Name": "Simisage",
+    "Geracao": "5ª",
+    "No": "#512",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヤナッキー | Yanakkī",
+    "StatusBase": "498"
+  },
+  {
+    "Name": "Pansear",
+    "Geracao": "5ª",
+    "No": "#513",
+    "Tipo": "Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "バオップ | Baoppu",
+    "StatusBase": "316"
+  },
+  {
+    "Name": "Simisear",
+    "Geracao": "5ª",
+    "No": "#514",
+    "Tipo": "Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "バオッキー | Baokkī",
+    "StatusBase": "498"
+  },
+  {
+    "Name": "Panpour",
+    "Geracao": "5ª",
+    "No": "#515",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヒヤップ | Hiyappu",
+    "StatusBase": "316"
+  },
+  {
+    "Name": "Simipour",
+    "Geracao": "5ª",
+    "No": "#516",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヒヤッキー | Hiyakkī",
+    "StatusBase": "498"
+  },
+  {
+    "Name": "Munna",
+    "Geracao": "5ª",
+    "No": "#517",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ムンナ | Munna",
+    "StatusBase": "292"
+  },
+  {
+    "Name": "Musharna",
+    "Geracao": "5ª",
+    "No": "#518",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ムシャーナ | Mushāna",
+    "StatusBase": "487"
+  },
+  {
+    "Name": "Pidove",
+    "Geracao": "5ª",
+    "No": "#519",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "マメパト | Mamepato",
+    "StatusBase": "264"
+  },
+  {
+    "Name": "Tranquill",
+    "Geracao": "5ª",
+    "No": "#520",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ハトーボー | Hatōbō",
+    "StatusBase": "358"
+  },
+  {
+    "Name": "Unfezant",
+    "Geracao": "5ª",
+    "No": "#521",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ケンホロウ | Kenhorō",
+    "StatusBase": "488"
+  },
+  {
+    "Name": "Blitzle",
+    "Geracao": "5ª",
+    "No": "#522",
+    "Tipo": "Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "シママ | Shimama",
+    "StatusBase": "295"
+  },
+  {
+    "Name": "Zebstrika",
+    "Geracao": "5ª",
+    "No": "#523",
+    "Tipo": "Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゼブライカ | Zeburaika",
+    "StatusBase": "497"
+  },
+  {
+    "Name": "Roggenrola",
+    "Geracao": "5ª",
+    "No": "#524",
+    "Tipo": "Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "ダンゴロ | Dangoro",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Boldore",
+    "Geracao": "5ª",
+    "No": "#525",
+    "Tipo": "Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "ガントル | Gantoru",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Gigalith",
+    "Geracao": "5ª",
+    "No": "#526",
+    "Tipo": "Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "ギガイアス | Gigaiasu",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Woobat",
+    "Geracao": "5ª",
+    "No": "#527",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "コロモリ | Koromori",
+    "StatusBase": "323"
+  },
+  {
+    "Name": "Swoobat",
+    "Geracao": "5ª",
+    "No": "#528",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ココロモリ | Kokoromori",
+    "StatusBase": "425"
+  },
+  {
+    "Name": "Drilbur",
+    "Geracao": "5ª",
+    "No": "#529",
+    "Tipo": "Terrestre",
+    "Regiao": "Unova",
+    "NomeOriginal": "モグリュー | Moguryū",
+    "StatusBase": "328"
+  },
+  {
+    "Name": "Excadrill",
+    "Geracao": "5ª",
+    "No": "#530",
+    "Tipo": "Terrestre / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ドリュウズ | Doryūzu",
+    "StatusBase": "508"
+  },
+  {
+    "Name": "Audino",
+    "Geracao": "5ª",
+    "No": "#531",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "タブンネ | Tabunne",
+    "StatusBase": "445"
+  },
+  {
+    "Name": "Timburr",
+    "Geracao": "5ª",
+    "No": "#532",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ドッコラー | Dokkorā",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Gurdurr",
+    "Geracao": "5ª",
+    "No": "#533",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ドテッコツ | Dotekkotsu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Conkeldurr",
+    "Geracao": "5ª",
+    "No": "#534",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ローブシン | Rōbushin",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Tympole",
+    "Geracao": "5ª",
+    "No": "#535",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "オタマロ | Otamaro",
+    "StatusBase": "294"
+  },
+  {
+    "Name": "Palpitoad",
+    "Geracao": "5ª",
+    "No": "#536",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Unova",
+    "NomeOriginal": "ガマガル | Gamagaru",
+    "StatusBase": "384"
+  },
+  {
+    "Name": "Seismitoad",
+    "Geracao": "5ª",
+    "No": "#537",
+    "Tipo": "Água / Terrestre",
+    "Regiao": "Unova",
+    "NomeOriginal": "ガマゲロゲ | Gamageroge",
+    "StatusBase": "509"
+  },
+  {
+    "Name": "Throh",
+    "Geracao": "5ª",
+    "No": "#538",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ナゲキ | Nageki",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Sawk",
+    "Geracao": "5ª",
+    "No": "#539",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ダゲキ | Dageki",
+    "StatusBase": "465"
+  },
+  {
+    "Name": "Sewaddle",
+    "Geracao": "5ª",
+    "No": "#540",
+    "Tipo": "Inseto / Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "クルミル | Kurumiru",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Swadloon",
+    "Geracao": "5ª",
+    "No": "#541",
+    "Tipo": "Inseto / Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "クルマユ | Kurumayu",
+    "StatusBase": "380"
+  },
+  {
+    "Name": "Leavanny",
+    "Geracao": "5ª",
+    "No": "#542",
+    "Tipo": "Inseto / Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "ハハコモリ | Hahakomori",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Venipede",
+    "Geracao": "5ª",
+    "No": "#543",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "フシデ | Fushide",
+    "StatusBase": "260"
+  },
+  {
+    "Name": "Whirlipede",
+    "Geracao": "5ª",
+    "No": "#544",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "ホイーガ | Hoīga",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Scolipede",
+    "Geracao": "5ª",
+    "No": "#545",
+    "Tipo": "Inseto / Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "ペンドラー | Pendorā",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Cottonee",
+    "Geracao": "5ª",
+    "No": "#546",
+    "Tipo": "Grama / Fada",
+    "Regiao": "Unova",
+    "NomeOriginal": "モンメン | Monmen",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Whimsicott",
+    "Geracao": "5ª",
+    "No": "#547",
+    "Tipo": "Grama / Fada",
+    "Regiao": "Unova",
+    "NomeOriginal": "エルフーン | Erufūn",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Petilil",
+    "Geracao": "5ª",
+    "No": "#548",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "チュリネ | Churine",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Lilligant",
+    "Geracao": "5ª",
+    "No": "#549",
+    "Tipo": "Grama | Grama / Lutador",
+    "Regiao": "Unova | Hisui",
+    "NomeOriginal": "ドレディア | Doredia",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Basculin",
+    "Geracao": "5ª",
+    "No": "#550",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "バスラオ | Basurao",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Sandile",
+    "Geracao": "5ª",
+    "No": "#551",
+    "Tipo": "Terrestre / Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "メグロコ | Meguroko",
+    "StatusBase": "292"
+  },
+  {
+    "Name": "Krokorok",
+    "Geracao": "5ª",
+    "No": "#552",
+    "Tipo": "Terrestre / Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "ワルビル | Warubiru",
+    "StatusBase": "351"
+  },
+  {
+    "Name": "Krookodile",
+    "Geracao": "5ª",
+    "No": "#553",
+    "Tipo": "Terrestre / Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "ワルビアル | Warubiaru",
+    "StatusBase": "519"
+  },
+  {
+    "Name": "Darumaka",
+    "Geracao": "5ª",
+    "No": "#554",
+    "Tipo": "Fogo | Gelo",
+    "Regiao": "Unova | Galar",
+    "NomeOriginal": "ダルマッカ | Darumakka",
+    "StatusBase": "315"
+  },
+  {
+    "Name": "Darmanitan",
+    "Geracao": "5ª",
+    "No": "#555",
+    "Tipo": "Fogo | Fogo / Psiquico | Gelo | Gelo / Fogo",
+    "Regiao": "Unova | Galar",
+    "NomeOriginal": "ヒヒダルマ | Hihidaruma",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Maractus",
+    "Geracao": "5ª",
+    "No": "#556",
+    "Tipo": "Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "マラカッチ | Marakatchi",
+    "StatusBase": "461"
+  },
+  {
+    "Name": "Dwebble",
+    "Geracao": "5ª",
+    "No": "#557",
+    "Tipo": "Inseto / Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "イシズマイ | Ishizumai",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Crustle",
+    "Geracao": "5ª",
+    "No": "#558",
+    "Tipo": "Inseto / Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "イワパレス | Iwaparesu",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Scraggy",
+    "Geracao": "5ª",
+    "No": "#559",
+    "Tipo": "Sombrio / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ズルッグ | Zuruggu",
+    "StatusBase": "348"
+  },
+  {
+    "Name": "Scrafty",
+    "Geracao": "5ª",
+    "No": "#560",
+    "Tipo": "Sombrio / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ズルズキン | Zuruzukin",
+    "StatusBase": "488"
+  },
+  {
+    "Name": "Sigilyph",
+    "Geracao": "5ª",
+    "No": "#561",
+    "Tipo": "Psiquico / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "シンボラー | Shinborā",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Yamask",
+    "Geracao": "5ª",
+    "No": "#562",
+    "Tipo": "Fantasma | Terrestre / Fantasma",
+    "Regiao": "Unova | Galar",
+    "NomeOriginal": "デスマス | Desumasu",
+    "StatusBase": "303"
+  },
+  {
+    "Name": "Cofagrigus",
+    "Geracao": "5ª",
+    "No": "#563",
+    "Tipo": "Fantasma",
+    "Regiao": "Unova",
+    "NomeOriginal": "デスカーン | Desukān",
+    "StatusBase": "483"
+  },
+  {
+    "Name": "Tirtouga",
+    "Geracao": "5ª",
+    "No": "#564",
+    "Tipo": "Água / Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "プロトーガ | Purotōga",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Carracosta",
+    "Geracao": "5ª",
+    "No": "#565",
+    "Tipo": "Água / Pedra",
+    "Regiao": "Unova",
+    "NomeOriginal": "アバゴーラ | Abagōra",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Archen",
+    "Geracao": "5ª",
+    "No": "#566",
+    "Tipo": "Pedra / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "アーケン | Āken",
+    "StatusBase": "401"
+  },
+  {
+    "Name": "Archeops",
+    "Geracao": "5ª",
+    "No": "#567",
+    "Tipo": "Pedra / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "アーケオス | Ākeosu",
+    "StatusBase": "567"
+  },
+  {
+    "Name": "Trubbish",
+    "Geracao": "5ª",
+    "No": "#568",
+    "Tipo": "Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヤブクロン | Yabukuron",
+    "StatusBase": "329"
+  },
+  {
+    "Name": "Garbodor",
+    "Geracao": "5ª",
+    "No": "#569",
+    "Tipo": "Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "ダストダス | Dasutodasu",
+    "StatusBase": "474"
+  },
+  {
+    "Name": "Zorua",
+    "Geracao": "5ª",
+    "No": "#570",
+    "Tipo": "Sombrio ! Normal / Fantasma",
+    "Regiao": "Unova | Hisui",
+    "NomeOriginal": "ゾロア | Zoroa",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Zoroark",
+    "Geracao": "5ª",
+    "No": "#571",
+    "Tipo": "Sombrio ! Normal / Fantasma",
+    "Regiao": "Unova | Hisui",
+    "NomeOriginal": "ゾロアーク | Zoroāku",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Minccino",
+    "Geracao": "5ª",
+    "No": "#572",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "チラーミィ | Chirāmī",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Cinccino",
+    "Geracao": "5ª",
+    "No": "#573",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "チラチーノ | Chirachīno",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Gothita",
+    "Geracao": "5ª",
+    "No": "#574",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゴチム | Gochimu",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Gothorita",
+    "Geracao": "5ª",
+    "No": "#575",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゴチミル | Gochimiru",
+    "StatusBase": "390"
+  },
+  {
+    "Name": "Gothitelle",
+    "Geracao": "5ª",
+    "No": "#576",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゴチルゼル | Gochiruzeru",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Solosis",
+    "Geracao": "5ª",
+    "No": "#577",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ユニラン | Yuniran",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Duosion",
+    "Geracao": "5ª",
+    "No": "#578",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ダブラン | Daburan",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Reuniclus",
+    "Geracao": "5ª",
+    "No": "#579",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ランクルス | Rankurusu",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Ducklett",
+    "Geracao": "5ª",
+    "No": "#580",
+    "Tipo": "Água / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "コアルヒー | Koaruhī",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Swanna",
+    "Geracao": "5ª",
+    "No": "#581",
+    "Tipo": "Água / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "スワンナ | Suwanna",
+    "StatusBase": "473"
+  },
+  {
+    "Name": "Vanillite",
+    "Geracao": "5ª",
+    "No": "#582",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "バニプッチ | Baniputchi",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Vanillish",
+    "Geracao": "5ª",
+    "No": "#583",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "バニリッチ | Baniritchi",
+    "StatusBase": "395"
+  },
+  {
+    "Name": "Vanilluxe",
+    "Geracao": "5ª",
+    "No": "#584",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "バイバニラ | Baibanira",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Deerling",
+    "Geracao": "5ª",
+    "No": "#585",
+    "Tipo": "Normal / Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "シキジカ | Shikijika",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Sawsbuck",
+    "Geracao": "5ª",
+    "No": "#586",
+    "Tipo": "Normal / Grama",
+    "Regiao": "Unova",
+    "NomeOriginal": "メブキジカ | Mebukijika",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Emolga",
+    "Geracao": "5ª",
+    "No": "#587",
+    "Tipo": "Elétrico / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "エモンガ | Emonga",
+    "StatusBase": "428"
+  },
+  {
+    "Name": "Karrablast",
+    "Geracao": "5ª",
+    "No": "#588",
+    "Tipo": "Inseto",
+    "Regiao": "Unova",
+    "NomeOriginal": "カブルモ | Kaburumo",
+    "StatusBase": "315"
+  },
+  {
+    "Name": "Escavalier",
+    "Geracao": "5ª",
+    "No": "#589",
+    "Tipo": "Inseto / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "シュバルゴ | Shubarugo",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Foongus",
+    "Geracao": "5ª",
+    "No": "#590",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "タマゲタケ | Tamagetake",
+    "StatusBase": "294"
+  },
+  {
+    "Name": "Amoonguss",
+    "Geracao": "5ª",
+    "No": "#591",
+    "Tipo": "Grama / Venenoso",
+    "Regiao": "Unova",
+    "NomeOriginal": "モロバレル | Morobareru",
+    "StatusBase": "464"
+  },
+  {
+    "Name": "Frillish",
+    "Geracao": "5ª",
+    "No": "#592",
+    "Tipo": "Água / Fantasma",
+    "Regiao": "Unova",
+    "NomeOriginal": "プルリル | Pururiru",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "JellGelont",
+    "Geracao": "5ª",
+    "No": "#593",
+    "Tipo": "Água / Fantasma",
+    "Regiao": "Unova",
+    "NomeOriginal": "ブルンゲル | Burungeru",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Alomomola",
+    "Geracao": "5ª",
+    "No": "#594",
+    "Tipo": "Água",
+    "Regiao": "Unova",
+    "NomeOriginal": "ママンボウ | Mamanbō",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Joltik",
+    "Geracao": "5ª",
+    "No": "#595",
+    "Tipo": "Inseto / Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "バチュル | Bachuru",
+    "StatusBase": "319"
+  },
+  {
+    "Name": "Galvantula",
+    "Geracao": "5ª",
+    "No": "#596",
+    "Tipo": "Inseto / Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "デンチュラ | Denchura",
+    "StatusBase": "472"
+  },
+  {
+    "Name": "Ferroseed",
+    "Geracao": "5ª",
+    "No": "#597",
+    "Tipo": "Grama / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "テッシード | Tesshīdo",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Ferrothorn",
+    "Geracao": "5ª",
+    "No": "#598",
+    "Tipo": "Grama / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ナットレイ | Nattorei",
+    "StatusBase": "489"
+  },
+  {
+    "Name": "Klink",
+    "Geracao": "5ª",
+    "No": "#599",
+    "Tipo": "Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ギアル | Giaru",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Klang",
+    "Geracao": "5ª",
+    "No": "#600",
+    "Tipo": "Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ギギアル | Gigiaru",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Klinklang",
+    "Geracao": "5ª",
+    "No": "#601",
+    "Tipo": "Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ギギギアル | Gigigiaru",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Tynamo",
+    "Geracao": "5ª",
+    "No": "#602",
+    "Tipo": "Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "シビシラス | Shibishirasu",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Eelektrik",
+    "Geracao": "5ª",
+    "No": "#603",
+    "Tipo": "Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "シビビール | Shibibīru",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Eelektross",
+    "Geracao": "5ª",
+    "No": "#604",
+    "Tipo": "Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "シビルドン | Shibirudon",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Elgyem",
+    "Geracao": "5ª",
+    "No": "#605",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "リグレー | Rigurē",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Beheeyem",
+    "Geracao": "5ª",
+    "No": "#606",
+    "Tipo": "Psiquico",
+    "Regiao": "Unova",
+    "NomeOriginal": "オーベム | Ōbemu",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Litwick",
+    "Geracao": "5ª",
+    "No": "#607",
+    "Tipo": "Fantasma / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ヒトモシ | Hitomoshi",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Lampent",
+    "Geracao": "5ª",
+    "No": "#608",
+    "Tipo": "Fantasma / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ランプラー | Ranpurā",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Chandelure",
+    "Geracao": "5ª",
+    "No": "#609",
+    "Tipo": "Fantasma / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "シャンデラ | Shandera",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Axew",
+    "Geracao": "5ª",
+    "No": "#610",
+    "Tipo": "Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "キバゴ | Kibago",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Fraxure",
+    "Geracao": "5ª",
+    "No": "#611",
+    "Tipo": "Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "オノンド | Onondo",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Haxorus",
+    "Geracao": "5ª",
+    "No": "#612",
+    "Tipo": "Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "オノノクス | Ononokusu",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Cubchoo",
+    "Geracao": "5ª",
+    "No": "#613",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "クマシュン | Kumashun",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Beartic",
+    "Geracao": "5ª",
+    "No": "#614",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ツンベアー | Tsunbeā",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Cryogonal",
+    "Geracao": "5ª",
+    "No": "#615",
+    "Tipo": "Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "フリージオ | Furījio",
+    "StatusBase": "515"
+  },
+  {
+    "Name": "Shelmet",
+    "Geracao": "5ª",
+    "No": "#616",
+    "Tipo": "Inseto",
+    "Regiao": "Unova",
+    "NomeOriginal": "チョボマキ | Chobomaki",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Accelgor",
+    "Geracao": "5ª",
+    "No": "#617",
+    "Tipo": "Inseto",
+    "Regiao": "Unova",
+    "NomeOriginal": "アギルダー | Agirudā",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Stunfisk",
+    "Geracao": "5ª",
+    "No": "#618",
+    "Tipo": "Terrestre / Elétrico | Terrestre / Metal",
+    "Regiao": "Unova | Galar",
+    "NomeOriginal": "マッギョ | Maggyo",
+    "StatusBase": "471"
+  },
+  {
+    "Name": "Mienfoo",
+    "Geracao": "5ª",
+    "No": "#619",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "コジョフー | Kojofū",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Mienshao",
+    "Geracao": "5ª",
+    "No": "#620",
+    "Tipo": "Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "コジョンド | Kojondo",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Druddigon",
+    "Geracao": "5ª",
+    "No": "#621",
+    "Tipo": "Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "クリムガン | Kurimugan",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Golett",
+    "Geracao": "5ª",
+    "No": "#622",
+    "Tipo": "Terrestre / Fantasma",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゴビット | Gobitto",
+    "StatusBase": "303"
+  },
+  {
+    "Name": "Golurk",
+    "Geracao": "5ª",
+    "No": "#623",
+    "Tipo": "Terrestre / Fantasma",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゴルーグ | Gorūgu",
+    "StatusBase": "483"
+  },
+  {
+    "Name": "Pawniard",
+    "Geracao": "5ª",
+    "No": "#624",
+    "Tipo": "Sombrio / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "コマタナ | Komatana",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Bisharp",
+    "Geracao": "5ª",
+    "No": "#625",
+    "Tipo": "Sombrio / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "キリキザン | Kirikizan",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Bouffalant",
+    "Geracao": "5ª",
+    "No": "#626",
+    "Tipo": "Normal",
+    "Regiao": "Unova",
+    "NomeOriginal": "バッフロン | Baffuron",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Rufflet",
+    "Geracao": "5ª",
+    "No": "#627",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ワシボン | Washibon",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Braviary",
+    "Geracao": "5ª",
+    "No": "#628",
+    "Tipo": "Normal / Voador | Psiquico / Voador",
+    "Regiao": "Unova | Hisui",
+    "NomeOriginal": "ウォーグル | Wōguru",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Vullaby",
+    "Geracao": "5ª",
+    "No": "#629",
+    "Tipo": "Sombrio / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "バルチャイ | Baruchai",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Mandibuzz",
+    "Geracao": "5ª",
+    "No": "#630",
+    "Tipo": "Sombrio / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "バルジーナ | Barujīna",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Heatmor",
+    "Geracao": "5ª",
+    "No": "#631",
+    "Tipo": "Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "クイタラン | Kuitaran",
+    "StatusBase": "484"
+  },
+  {
+    "Name": "Durant",
+    "Geracao": "5ª",
+    "No": "#632",
+    "Tipo": "Inseto / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "アイアント | Aianto",
+    "StatusBase": "484"
+  },
+  {
+    "Name": "Deino",
+    "Geracao": "5ª",
+    "No": "#633",
+    "Tipo": "Sombrio / Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "モノズ | Monozu",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Zweilous",
+    "Geracao": "5ª",
+    "No": "#634",
+    "Tipo": "Sombrio / Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "ジヘッド | Jiheddo",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Hydreigon",
+    "Geracao": "5ª",
+    "No": "#635",
+    "Tipo": "Sombrio / Dragão",
+    "Regiao": "Unova",
+    "NomeOriginal": "サザンドラ | Sazandora",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Larvesta",
+    "Geracao": "5ª",
+    "No": "#636",
+    "Tipo": "Inseto / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "メラルバ | Meraruba",
+    "StatusBase": "360"
+  },
+  {
+    "Name": "Volcarona",
+    "Geracao": "5ª",
+    "No": "#637",
+    "Tipo": "Inseto / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "ウルガモス | Urugamosu",
+    "StatusBase": "550"
+  },
+  {
+    "Name": "Cobalion",
+    "Geracao": "5ª",
+    "No": "#638",
+    "Tipo": "Metal / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "コバルオン | Kobaruon",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Terrakion",
+    "Geracao": "5ª",
+    "No": "#639",
+    "Tipo": "Pedra / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "テラキオン | Terakion",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Virizion",
+    "Geracao": "5ª",
+    "No": "#640",
+    "Tipo": "Grama / Sombrio",
+    "Regiao": "Unova",
+    "NomeOriginal": "ビリジオン | Birijion",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Tornadus",
+    "Geracao": "5ª",
+    "No": "#641",
+    "Tipo": "Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "トルネロス | Torunerosu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Thundurus",
+    "Geracao": "5ª",
+    "No": "#642",
+    "Tipo": "Elétrico / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ボルトロス | Borutorosu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Reshiram",
+    "Geracao": "5ª",
+    "No": "#643",
+    "Tipo": "Dragão / Fogo",
+    "Regiao": "Unova",
+    "NomeOriginal": "レシラム | Reshiramu",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Zekrom",
+    "Geracao": "5ª",
+    "No": "#644",
+    "Tipo": "Dragão / Elétrico",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゼクロム | Zekuromu",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Landorus",
+    "Geracao": "5ª",
+    "No": "#645",
+    "Tipo": "Terrestre / Voador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ランドロス | Randorosu",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Kyurem",
+    "Geracao": "5ª",
+    "No": "#646",
+    "Tipo": "Dragão / Gelo",
+    "Regiao": "Unova",
+    "NomeOriginal": "キュレム | Kyuremu",
+    "StatusBase": "660"
+  },
+  {
+    "Name": "Keldeo",
+    "Geracao": "5ª",
+    "No": "#647",
+    "Tipo": "Água / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "ケルディオ | Kerudio",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Meloetta",
+    "Geracao": "5ª",
+    "No": "#648",
+    "Tipo": "Normal / Psiquico | Normal / Lutador",
+    "Regiao": "Unova",
+    "NomeOriginal": "メロエッタ | Meroetta",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Genesect",
+    "Geracao": "5ª",
+    "No": "#649",
+    "Tipo": "Inseto / Metal",
+    "Regiao": "Unova",
+    "NomeOriginal": "ゲノセクト | Genosekuto",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Chespin",
+    "Geracao": "6ª",
+    "No": "#650",
+    "Tipo": "Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ハリマロン | Harimaron",
+    "StatusBase": "313"
+  },
+  {
+    "Name": "Quilladin",
+    "Geracao": "6ª",
+    "No": "#651",
+    "Tipo": "Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ハリボーグ | Haribōgu",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Chesnaught",
+    "Geracao": "6ª",
+    "No": "#652",
+    "Tipo": "Grama / Sombrio",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ブリガロン | Burigaron",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Fennekin",
+    "Geracao": "6ª",
+    "No": "#653",
+    "Tipo": "Fogo",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フォッコ | Fokko",
+    "StatusBase": "307"
+  },
+  {
+    "Name": "Braixen",
+    "Geracao": "6ª",
+    "No": "#654",
+    "Tipo": "Fogo",
+    "Regiao": "Kalos",
+    "NomeOriginal": "テールナー | Tērunā",
+    "StatusBase": "409"
+  },
+  {
+    "Name": "Delphox",
+    "Geracao": "6ª",
+    "No": "#655",
+    "Tipo": "Fogo / Psiquico",
+    "Regiao": "Kalos",
+    "NomeOriginal": "マフォクシー | Mafokushī",
+    "StatusBase": "534"
+  },
+  {
+    "Name": "Froakie",
+    "Geracao": "6ª",
+    "No": "#656",
+    "Tipo": "Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ケロマツ | Keromatsu",
+    "StatusBase": "314"
+  },
+  {
+    "Name": "Frogadier",
+    "Geracao": "6ª",
+    "No": "#657",
+    "Tipo": "Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ゲコガシラ | Gekogashira",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Greninja",
+    "Geracao": "6ª",
+    "No": "#658",
+    "Tipo": "Água / Sombrio",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ゲッコウガ | Gekkōga",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Bunnelby",
+    "Geracao": "6ª",
+    "No": "#659",
+    "Tipo": "Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ホルビー | Horubī",
+    "StatusBase": "237"
+  },
+  {
+    "Name": "Diggersby",
+    "Geracao": "6ª",
+    "No": "#660",
+    "Tipo": "Normal / Terrestre",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ホルード | Horūdo",
+    "StatusBase": "423"
+  },
+  {
+    "Name": "Fletchling",
+    "Geracao": "6ª",
+    "No": "#661",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ヤヤコマ | Yayakoma",
+    "StatusBase": "278"
+  },
+  {
+    "Name": "Fletchinder",
+    "Geracao": "6ª",
+    "No": "#662",
+    "Tipo": "Fogo / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ヒノヤコマ | Hinoyakoma",
+    "StatusBase": "382"
+  },
+  {
+    "Name": "Talonflame",
+    "Geracao": "6ª",
+    "No": "#663",
+    "Tipo": "Fogo / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ファイアロー | Faiarō",
+    "StatusBase": "499"
+  },
+  {
+    "Name": "ScatterInseto",
+    "Geracao": "6ª",
+    "No": "#664",
+    "Tipo": "Inseto",
+    "Regiao": "Kalos",
+    "NomeOriginal": "コフキムシ | Kofukimushi",
+    "StatusBase": "200"
+  },
+  {
+    "Name": "Spewpa",
+    "Geracao": "6ª",
+    "No": "#665",
+    "Tipo": "Inseto",
+    "Regiao": "Kalos",
+    "NomeOriginal": "コフーライ | Kofūrai",
+    "StatusBase": "213"
+  },
+  {
+    "Name": "Vivillon",
+    "Geracao": "6ª",
+    "No": "#666",
+    "Tipo": "Inseto / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ビビヨン | Bibiyon",
+    "StatusBase": "411"
+  },
+  {
+    "Name": "Litleo",
+    "Geracao": "6ª",
+    "No": "#667",
+    "Tipo": "Fogo / Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "シシコ | Shishiko",
+    "StatusBase": "369"
+  },
+  {
+    "Name": "Pyroar",
+    "Geracao": "6ª",
+    "No": "#668",
+    "Tipo": "Fogo / Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "カエンジシ | Kaenjishi",
+    "StatusBase": "507"
+  },
+  {
+    "Name": "Flabébé",
+    "Geracao": "6ª",
+    "No": "#669",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フラベベ | Furabebe",
+    "StatusBase": "303"
+  },
+  {
+    "Name": "Floette",
+    "Geracao": "6ª",
+    "No": "#670",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フラエッテ | Furaette",
+    "StatusBase": "371"
+  },
+  {
+    "Name": "Florges",
+    "Geracao": "6ª",
+    "No": "#671",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フラージェス | Furājesu",
+    "StatusBase": "552"
+  },
+  {
+    "Name": "Skiddo",
+    "Geracao": "6ª",
+    "No": "#672",
+    "Tipo": "Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "メェークル | Mēkuru",
+    "StatusBase": "350"
+  },
+  {
+    "Name": "Gogoat",
+    "Geracao": "6ª",
+    "No": "#673",
+    "Tipo": "Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ゴーゴート | Gōgōto",
+    "StatusBase": "531"
+  },
+  {
+    "Name": "Pancham",
+    "Geracao": "6ª",
+    "No": "#674",
+    "Tipo": "Lutador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ヤンチャム | Yanchamu",
+    "StatusBase": "348"
+  },
+  {
+    "Name": "Pangoro",
+    "Geracao": "6ª",
+    "No": "#675",
+    "Tipo": "Lutador / Sombrio",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ゴロンダ | Goronda",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Furfrou",
+    "Geracao": "6ª",
+    "No": "#676",
+    "Tipo": "Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "トリミアン | Torimian",
+    "StatusBase": "472"
+  },
+  {
+    "Name": "Espurr",
+    "Geracao": "6ª",
+    "No": "#677",
+    "Tipo": "Psiquico",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ニャスパー | Nyasupā",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Meowstic",
+    "Geracao": "6ª",
+    "No": "#678",
+    "Tipo": "Psiquico",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ニャオニクス | Nyaonikusu",
+    "StatusBase": "466"
+  },
+  {
+    "Name": "Honedge",
+    "Geracao": "6ª",
+    "No": "#679",
+    "Tipo": "Metal / Fantasma",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ヒトツキ | Hitotsuki",
+    "StatusBase": "325"
+  },
+  {
+    "Name": "Doublade",
+    "Geracao": "6ª",
+    "No": "#680",
+    "Tipo": "Metal / Fantasma",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ニダンギル | Nidangiru",
+    "StatusBase": "448"
+  },
+  {
+    "Name": "Aegislash",
+    "Geracao": "6ª",
+    "No": "#681",
+    "Tipo": "Metal / Fantasma",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ギルガルド | Girugarudo",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Spritzee",
+    "Geracao": "6ª",
+    "No": "#682",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "シュシュプ | Shushupu",
+    "StatusBase": "341"
+  },
+  {
+    "Name": "Aromatisse",
+    "Geracao": "6ª",
+    "No": "#683",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フレフワン | Furefuwan",
+    "StatusBase": "462"
+  },
+  {
+    "Name": "Swirlix",
+    "Geracao": "6ª",
+    "No": "#684",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ペロッパフ | Peroppafu",
+    "StatusBase": "341"
+  },
+  {
+    "Name": "Slurpuff",
+    "Geracao": "6ª",
+    "No": "#685",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ペロリーム | Perorīmu",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Inkay",
+    "Geracao": "6ª",
+    "No": "#686",
+    "Tipo": "Sombrio / Psiquico",
+    "Regiao": "Kalos",
+    "NomeOriginal": "マーイーカ | Māīka",
+    "StatusBase": "288"
+  },
+  {
+    "Name": "Malamar",
+    "Geracao": "6ª",
+    "No": "#687",
+    "Tipo": "Sombrio / Psiquico",
+    "Regiao": "Kalos",
+    "NomeOriginal": "カラマネロ | Karamanero",
+    "StatusBase": "482"
+  },
+  {
+    "Name": "Binacle",
+    "Geracao": "6ª",
+    "No": "#688",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "カメテテ | Kametete",
+    "StatusBase": "306"
+  },
+  {
+    "Name": "Barbaracle",
+    "Geracao": "6ª",
+    "No": "#689",
+    "Tipo": "Pedra / Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ガメノデス | Gamenodesu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Skrelp",
+    "Geracao": "6ª",
+    "No": "#690",
+    "Tipo": "Venenoso / Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "クズモー | Kuzumō",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Dragalge",
+    "Geracao": "6ª",
+    "No": "#691",
+    "Tipo": "Venenoso / Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ドラミドロ | Doramidoro",
+    "StatusBase": "494"
+  },
+  {
+    "Name": "Clauncher",
+    "Geracao": "6ª",
+    "No": "#692",
+    "Tipo": "Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ウデッポウ | Udeppō",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Clawitzer",
+    "Geracao": "6ª",
+    "No": "#693",
+    "Tipo": "Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ブロスター | Burosutā",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Helioptile",
+    "Geracao": "6ª",
+    "No": "#694",
+    "Tipo": "Elétrico / Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "エリキテル | Erikiteru",
+    "StatusBase": "289"
+  },
+  {
+    "Name": "Heliolisk",
+    "Geracao": "6ª",
+    "No": "#695",
+    "Tipo": "Elétrico / Normal",
+    "Regiao": "Kalos",
+    "NomeOriginal": "エレザード | Erezādo",
+    "StatusBase": "481"
+  },
+  {
+    "Name": "Tyrunt",
+    "Geracao": "6ª",
+    "No": "#696",
+    "Tipo": "Pedra / Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "チゴラス | Chigorasu",
+    "StatusBase": "362"
+  },
+  {
+    "Name": "Tyrantrum",
+    "Geracao": "6ª",
+    "No": "#697",
+    "Tipo": "Pedra / Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ガチゴラス | Gachigorasu",
+    "StatusBase": "521"
+  },
+  {
+    "Name": "Amaura",
+    "Geracao": "6ª",
+    "No": "#698",
+    "Tipo": "Pedra / Gelo",
+    "Regiao": "Kalos",
+    "NomeOriginal": "アマルス | Amarusu",
+    "StatusBase": "362"
+  },
+  {
+    "Name": "Aurorus",
+    "Geracao": "6ª",
+    "No": "#699",
+    "Tipo": "Pedra / Gelo",
+    "Regiao": "Kalos",
+    "NomeOriginal": "アマルルガ | Amaruruga",
+    "StatusBase": "521"
+  },
+  {
+    "Name": "Sylveon",
+    "Geracao": "6ª",
+    "No": "#700",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ニンフィア | Ninfia",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Hawlucha",
+    "Geracao": "6ª",
+    "No": "#701",
+    "Tipo": "Lutador / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ルチャブル | Ruchaburu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Dedenne",
+    "Geracao": "6ª",
+    "No": "#702",
+    "Tipo": "Elétrico / Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "デデンネ | Dedenne",
+    "StatusBase": "431"
+  },
+  {
+    "Name": "Carbink",
+    "Geracao": "6ª",
+    "No": "#703",
+    "Tipo": "Pedra / Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "メレシー | Mereshī",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Goomy",
+    "Geracao": "6ª",
+    "No": "#704",
+    "Tipo": "Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ヌメラ | Numera",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Sliggoo",
+    "Geracao": "6ª",
+    "No": "#705",
+    "Tipo": "Dragão | Metal / Dragão",
+    "Regiao": "Kalos | Hisui",
+    "NomeOriginal": "ヌメイル | Numeiru",
+    "StatusBase": "452"
+  },
+  {
+    "Name": "Goodra",
+    "Geracao": "6ª",
+    "No": "#706",
+    "Tipo": "Dragão | Metal / Dragão",
+    "Regiao": "Kalos | Hisui",
+    "NomeOriginal": "ヌメルゴン | Numerugon",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Klefki",
+    "Geracao": "6ª",
+    "No": "#707",
+    "Tipo": "Metal / Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "クレッフィ | Kureffi",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Phantump",
+    "Geracao": "6ª",
+    "No": "#708",
+    "Tipo": "Fantasma / Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ボクレー | Bokurē",
+    "StatusBase": "309"
+  },
+  {
+    "Name": "Trevenant",
+    "Geracao": "6ª",
+    "No": "#709",
+    "Tipo": "Fantasma / Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "オーロット | Ōrotto",
+    "StatusBase": "474"
+  },
+  {
+    "Name": "Pumpkaboo",
+    "Geracao": "6ª",
+    "No": "#710",
+    "Tipo": "Fantasma / Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "バケッチャ | Baketcha",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Gourgeist",
+    "Geracao": "6ª",
+    "No": "#711",
+    "Tipo": "Fantasma / Grama",
+    "Regiao": "Kalos",
+    "NomeOriginal": "パンプジン | Panpujin",
+    "StatusBase": "494"
+  },
+  {
+    "Name": "Bergmite",
+    "Geracao": "6ª",
+    "No": "#712",
+    "Tipo": "Gelo",
+    "Regiao": "Kalos",
+    "NomeOriginal": "カチコール | Kachikōru",
+    "StatusBase": "304"
+  },
+  {
+    "Name": "Avalugg",
+    "Geracao": "6ª",
+    "No": "#713",
+    "Tipo": "Gelo | Gelo / Pedray",
+    "Regiao": "Kalos | Hisui",
+    "NomeOriginal": "クレベース | Kurebēsu",
+    "StatusBase": "514"
+  },
+  {
+    "Name": "Noibat",
+    "Geracao": "6ª",
+    "No": "#714",
+    "Tipo": "Voador / Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "オンバット | Onbatto",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Noivern",
+    "Geracao": "6ª",
+    "No": "#715",
+    "Tipo": "Voador / Dragão",
+    "Regiao": "Kalos",
+    "NomeOriginal": "オンバーン | Onbān",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Xerneas",
+    "Geracao": "6ª",
+    "No": "#716",
+    "Tipo": "Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ゼルネアス | Zeruneasu",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Yveltal",
+    "Geracao": "6ª",
+    "No": "#717",
+    "Tipo": "Sombrio / Voador",
+    "Regiao": "Kalos",
+    "NomeOriginal": "イベルタル | Iberutaru",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Zygarde",
+    "Geracao": "6ª",
+    "No": "#718",
+    "Tipo": "Dragão / Terrestre",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ジガルデ | Jigarude",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Diancie",
+    "Geracao": "6ª",
+    "No": "#719",
+    "Tipo": "Pedra / Fada",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ディアンシー | Dianshī",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Hoopa",
+    "Geracao": "6ª",
+    "No": "#720",
+    "Tipo": "Psiquico / Fantasma | Psiquico / Sombrio",
+    "Regiao": "Kalos",
+    "NomeOriginal": "フーパ | Fūpa",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Volcanion",
+    "Geracao": "6ª",
+    "No": "#721",
+    "Tipo": "Fogo / Água",
+    "Regiao": "Kalos",
+    "NomeOriginal": "ボルケニオン | Borukenion",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Rowlet",
+    "Geracao": "7ª",
+    "No": "#722",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "モクロー | Mokurō",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Dartrix",
+    "Geracao": "7ª",
+    "No": "#723",
+    "Tipo": "Grama / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "フクスロー | Fukusurō",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Decidueye",
+    "Geracao": "7ª",
+    "No": "#724",
+    "Tipo": "Grama / Fantasma | Grama / Lutador",
+    "Regiao": "Alola | Hisui",
+    "NomeOriginal": "ジュナイパー | Junaipā",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Litten",
+    "Geracao": "7ª",
+    "No": "#725",
+    "Tipo": "Fogo",
+    "Regiao": "Alola",
+    "NomeOriginal": "ニャビー | Nyabī",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Torracat",
+    "Geracao": "7ª",
+    "No": "#726",
+    "Tipo": "Fogo",
+    "Regiao": "Alola",
+    "NomeOriginal": "ニャヒート | Nyahīto",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Incineroar",
+    "Geracao": "7ª",
+    "No": "#727",
+    "Tipo": "Fogo / Sombrio",
+    "Regiao": "Alola",
+    "NomeOriginal": "ガオガエン | Gaogaen",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Popplio",
+    "Geracao": "7ª",
+    "No": "#728",
+    "Tipo": "Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "アシマリ | Ashimari",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Brionne",
+    "Geracao": "7ª",
+    "No": "#729",
+    "Tipo": "Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "オシャマリ | Oshamari",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Primarina",
+    "Geracao": "7ª",
+    "No": "#730",
+    "Tipo": "Água / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "アシレーヌ | Ashirēnu",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Pikipek",
+    "Geracao": "7ª",
+    "No": "#731",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ツツケラ | Tsutsukera",
+    "StatusBase": "265"
+  },
+  {
+    "Name": "Trumbeak",
+    "Geracao": "7ª",
+    "No": "#732",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ケララッパ | Kerarappa",
+    "StatusBase": "355"
+  },
+  {
+    "Name": "Toucannon",
+    "Geracao": "7ª",
+    "No": "#733",
+    "Tipo": "Normal / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ドデカバシ | Dodekabashi",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Yungoos",
+    "Geracao": "7ª",
+    "No": "#734",
+    "Tipo": "Normal",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヤングース | Yangūsu",
+    "StatusBase": "253"
+  },
+  {
+    "Name": "Gumshoos",
+    "Geracao": "7ª",
+    "No": "#735",
+    "Tipo": "Normal",
+    "Regiao": "Alola",
+    "NomeOriginal": "デカグース | Dekagūsu",
+    "StatusBase": "418"
+  },
+  {
+    "Name": "Grubbin",
+    "Geracao": "7ª",
+    "No": "#736",
+    "Tipo": "Inseto",
+    "Regiao": "Alola",
+    "NomeOriginal": "アゴジムシ | Agojimushi",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "CharjaInseto",
+    "Geracao": "7ª",
+    "No": "#737",
+    "Tipo": "Inseto / Elétrico",
+    "Regiao": "Alola",
+    "NomeOriginal": "デンヂムシ | Denjimushi",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Vikavolt",
+    "Geracao": "7ª",
+    "No": "#738",
+    "Tipo": "Inseto / Elétrico",
+    "Regiao": "Alola",
+    "NomeOriginal": "クワガノン | Kuwaganon",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Crabrawler",
+    "Geracao": "7ª",
+    "No": "#739",
+    "Tipo": "Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "マケンカニ | Makenkani",
+    "StatusBase": "338"
+  },
+  {
+    "Name": "Crabominable",
+    "Geracao": "7ª",
+    "No": "#740",
+    "Tipo": "Lutador / Gelo",
+    "Regiao": "Alola",
+    "NomeOriginal": "ケケンカニ | Kekenkani",
+    "StatusBase": "478"
+  },
+  {
+    "Name": "Oricorio",
+    "Geracao": "7ª",
+    "No": "#741",
+    "Tipo": "Fogo / Voador | Elétrico / Voador | Psiquico / Voador | Fantasma / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "オドリドリ | Odoridori",
+    "StatusBase": "476"
+  },
+  {
+    "Name": "Cutiefly",
+    "Geracao": "7ª",
+    "No": "#742",
+    "Tipo": "Inseto / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "アブリー | Aburī",
+    "StatusBase": "304"
+  },
+  {
+    "Name": "Ribombee",
+    "Geracao": "7ª",
+    "No": "#743",
+    "Tipo": "Inseto / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "アブリボン | Aburibon",
+    "StatusBase": "464"
+  },
+  {
+    "Name": "Pedraruff",
+    "Geracao": "7ª",
+    "No": "#744",
+    "Tipo": "Pedra",
+    "Regiao": "Alola",
+    "NomeOriginal": "イワンコ | Iwanko",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Lycanroc",
+    "Geracao": "7ª",
+    "No": "#745",
+    "Tipo": "Pedra",
+    "Regiao": "Alola",
+    "NomeOriginal": "ルガルガン | Rugarugan",
+    "StatusBase": "487"
+  },
+  {
+    "Name": "Wishiwashi",
+    "Geracao": "7ª",
+    "No": "#746",
+    "Tipo": "Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヨワシ | Yowashi",
+    "StatusBase": "175"
+  },
+  {
+    "Name": "Mareanie",
+    "Geracao": "7ª",
+    "No": "#747",
+    "Tipo": "Venenoso / Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヒドイデ | Hidoide",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Toxapex",
+    "Geracao": "7ª",
+    "No": "#748",
+    "Tipo": "Venenoso / Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "ドヒドイデ | Dohidoide",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Mudbray",
+    "Geracao": "7ª",
+    "No": "#749",
+    "Tipo": "Terrestre",
+    "Regiao": "Alola",
+    "NomeOriginal": "ドロバンコ | Dorobanko",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Mudsdale",
+    "Geracao": "7ª",
+    "No": "#750",
+    "Tipo": "Terrestre",
+    "Regiao": "Alola",
+    "NomeOriginal": "バンバドロ | Banbadoro",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Dewpider",
+    "Geracao": "7ª",
+    "No": "#751",
+    "Tipo": "Água / Inseto",
+    "Regiao": "Alola",
+    "NomeOriginal": "シズクモ | Shizukumo",
+    "StatusBase": "269"
+  },
+  {
+    "Name": "Araquanid",
+    "Geracao": "7ª",
+    "No": "#752",
+    "Tipo": "Água / Inseto",
+    "Regiao": "Alola",
+    "NomeOriginal": "オニシズクモ | Onishizukumo",
+    "StatusBase": "454"
+  },
+  {
+    "Name": "Fomantis",
+    "Geracao": "7ª",
+    "No": "#753",
+    "Tipo": "Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "カリキリ | Karikiri",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Lurantis",
+    "Geracao": "7ª",
+    "No": "#754",
+    "Tipo": "Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "ラランテス | Rarantesu",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Morelull",
+    "Geracao": "7ª",
+    "No": "#755",
+    "Tipo": "Grama / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "ネマシュ | Nemashu",
+    "StatusBase": "285"
+  },
+  {
+    "Name": "Shiinotic",
+    "Geracao": "7ª",
+    "No": "#756",
+    "Tipo": "Grama / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "マシェード | Mashēdo",
+    "StatusBase": "405"
+  },
+  {
+    "Name": "Salandit",
+    "Geracao": "7ª",
+    "No": "#757",
+    "Tipo": "Venenoso / Fogo",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヤトウモリ | Yatōmori",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Salazzle",
+    "Geracao": "7ª",
+    "No": "#758",
+    "Tipo": "Venenoso / Fogo",
+    "Regiao": "Alola",
+    "NomeOriginal": "エンニュート | Ennyūto",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Stufful",
+    "Geracao": "7ª",
+    "No": "#759",
+    "Tipo": "Normal / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヌイコグマ | Nuikoguma",
+    "StatusBase": "340"
+  },
+  {
+    "Name": "Bewear",
+    "Geracao": "7ª",
+    "No": "#760",
+    "Tipo": "Normal / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "キテルグマ | Kiteruguma",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Bounsweet",
+    "Geracao": "7ª",
+    "No": "#761",
+    "Tipo": "Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "アマカジ | Amakaji",
+    "StatusBase": "210"
+  },
+  {
+    "Name": "Steenee",
+    "Geracao": "7ª",
+    "No": "#762",
+    "Tipo": "Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "アママイコ | Amamaiko",
+    "StatusBase": "290"
+  },
+  {
+    "Name": "Tsareena",
+    "Geracao": "7ª",
+    "No": "#763",
+    "Tipo": "Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "アマージョ | Amājo",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Comfey",
+    "Geracao": "7ª",
+    "No": "#764",
+    "Tipo": "Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "キュワワー | Kyuwawā",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Oranguru",
+    "Geracao": "7ª",
+    "No": "#765",
+    "Tipo": "Normal / Psiquico",
+    "Regiao": "Alola",
+    "NomeOriginal": "ヤレユータン | Yareyūtan",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Passimian",
+    "Geracao": "7ª",
+    "No": "#766",
+    "Tipo": "Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ナゲツケサル | Nagetsukesaru",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Wimpod",
+    "Geracao": "7ª",
+    "No": "#767",
+    "Tipo": "Inseto / Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "コソクムシ | Kosokumushi",
+    "StatusBase": "230"
+  },
+  {
+    "Name": "Golisopod",
+    "Geracao": "7ª",
+    "No": "#768",
+    "Tipo": "Inseto / Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "グソクムシャ | Gusokumusha",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Sandygast",
+    "Geracao": "7ª",
+    "No": "#769",
+    "Tipo": "Fantasma / Terrestre",
+    "Regiao": "Alola",
+    "NomeOriginal": "スナバァ | Sunabā",
+    "StatusBase": "320"
+  },
+  {
+    "Name": "Palossand",
+    "Geracao": "7ª",
+    "No": "#770",
+    "Tipo": "Fantasma / Terrestre",
+    "Regiao": "Alola",
+    "NomeOriginal": "シロデスナ | Shirodesuna",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Pyukumuku",
+    "Geracao": "7ª",
+    "No": "#771",
+    "Tipo": "Água",
+    "Regiao": "Alola",
+    "NomeOriginal": "ナマコブシ | Namakobushi",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Type: Null",
+    "Geracao": "7ª",
+    "No": "#772",
+    "Tipo": "Normal",
+    "Regiao": "Alola",
+    "NomeOriginal": "タイプ：ヌル | Taipu:Nuru",
+    "StatusBase": "534"
+  },
+  {
+    "Name": "Silvally",
+    "Geracao": "7ª",
+    "No": "#773",
+    "Tipo": "Normal",
+    "Regiao": "Alola",
+    "NomeOriginal": "シルヴァディ | Shiruvadi",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Minior",
+    "Geracao": "7ª",
+    "No": "#774",
+    "Tipo": "Pedra / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "メテノ | Meteno",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Komala",
+    "Geracao": "7ª",
+    "No": "#775",
+    "Tipo": "Normal",
+    "Regiao": "Alola",
+    "NomeOriginal": "ネッコアラ | Nekkoara",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Turtonator",
+    "Geracao": "7ª",
+    "No": "#776",
+    "Tipo": "Fogo / Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "バクガメス | Bakugamesu",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Togedemaru",
+    "Geracao": "7ª",
+    "No": "#777",
+    "Tipo": "Elétrico / Metal",
+    "Regiao": "Alola",
+    "NomeOriginal": "トゲデマル | Togedemaru",
+    "StatusBase": "435"
+  },
+  {
+    "Name": "Mimikyu",
+    "Geracao": "7ª",
+    "No": "#778",
+    "Tipo": "Fantasma / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "ミミッキュ | Mimikkyu",
+    "StatusBase": "476"
+  },
+  {
+    "Name": "Bruxish",
+    "Geracao": "7ª",
+    "No": "#779",
+    "Tipo": "Água / Psiquico",
+    "Regiao": "Alola",
+    "NomeOriginal": "ハギギシリ | Hagigishiri",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Drampa",
+    "Geracao": "7ª",
+    "No": "#780",
+    "Tipo": "Normal / Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "ジジーロン | Jijīron",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Dhelmise",
+    "Geracao": "7ª",
+    "No": "#781",
+    "Tipo": "Fantasma / Grama",
+    "Regiao": "Alola",
+    "NomeOriginal": "ダダリン | Dadarin",
+    "StatusBase": "517"
+  },
+  {
+    "Name": "Jangmo-o",
+    "Geracao": "7ª",
+    "No": "#782",
+    "Tipo": "Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "ジャラコ | Jarako",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Hakamo-o",
+    "Geracao": "7ª",
+    "No": "#783",
+    "Tipo": "Dragão / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ジャランゴ | Jarango",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Kommo-o",
+    "Geracao": "7ª",
+    "No": "#784",
+    "Tipo": "Dragão / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "ジャラランガ | Jararanga",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Tapu Koko",
+    "Geracao": "7ª",
+    "No": "#785",
+    "Tipo": "Elétrico / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "カプ・コケコ | Kapu Kokeko",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Tapu Lele",
+    "Geracao": "7ª",
+    "No": "#786",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "カプ・テテフ | Kapu Tetefu",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Tapu Bulu",
+    "Geracao": "7ª",
+    "No": "#787",
+    "Tipo": "Grama / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "カプ・ブルル | Kapu Bururu",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Tapu Fini",
+    "Geracao": "7ª",
+    "No": "#788",
+    "Tipo": "Água / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "カプ・レヒレ | Kapu Rehire",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Cosmog",
+    "Geracao": "7ª",
+    "No": "#789",
+    "Tipo": "Psiquico",
+    "Regiao": "Alola",
+    "NomeOriginal": "コスモッグ | Kosumoggu",
+    "StatusBase": "200"
+  },
+  {
+    "Name": "Cosmoem",
+    "Geracao": "7ª",
+    "No": "#790",
+    "Tipo": "Psiquico",
+    "Regiao": "Alola",
+    "NomeOriginal": "コスモウム | Kosumoumu",
+    "StatusBase": "400"
+  },
+  {
+    "Name": "Solgaleo",
+    "Geracao": "7ª",
+    "No": "#791",
+    "Tipo": "Psiquico / Metal",
+    "Regiao": "Alola",
+    "NomeOriginal": "ソルガレオ | Sorugareo",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Lunala",
+    "Geracao": "7ª",
+    "No": "#792",
+    "Tipo": "Psiquico / Fantasma",
+    "Regiao": "Alola",
+    "NomeOriginal": "ルナアーラ | Runaāra",
+    "StatusBase": "680"
+  },
+  {
+    "Name": "Nihilego",
+    "Geracao": "7ª",
+    "No": "#793",
+    "Tipo": "Pedra / Venenoso",
+    "Regiao": "Alola",
+    "NomeOriginal": "ウツロイド | Utsuroido",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Buzzwole",
+    "Geracao": "7ª",
+    "No": "#794",
+    "Tipo": "Inseto / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "マッシブーン | Masshibūn",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Pheromosa",
+    "Geracao": "7ª",
+    "No": "#795",
+    "Tipo": "Inseto / Lutador",
+    "Regiao": "Alola",
+    "NomeOriginal": "フェローチェ | Ferōche",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Xurkitree",
+    "Geracao": "7ª",
+    "No": "#796",
+    "Tipo": "Elétrico",
+    "Regiao": "Alola",
+    "NomeOriginal": "デンジュモク | Denjumoku",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "CeleMetala",
+    "Geracao": "7ª",
+    "No": "#797",
+    "Tipo": "Metal / Voador",
+    "Regiao": "Alola",
+    "NomeOriginal": "テッカグヤ | Tekkaguya",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Kartana",
+    "Geracao": "7ª",
+    "No": "#798",
+    "Tipo": "Grama / Metal",
+    "Regiao": "Alola",
+    "NomeOriginal": "カミツルギ | Kamitsurugi",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Guzzlord",
+    "Geracao": "7ª",
+    "No": "#799",
+    "Tipo": "Sombrio / Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "アクジキング | Akujikingu",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Necrozma",
+    "Geracao": "7ª",
+    "No": "#800",
+    "Tipo": "Psiquico | Psiquico / Metal | Psiquico / Fantasma | Psiquico / Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "ネクロズマ | Nekurozuma",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Magearna",
+    "Geracao": "7ª",
+    "No": "#801",
+    "Tipo": "Metal / Fada",
+    "Regiao": "Alola",
+    "NomeOriginal": "マギアナ | Magiana",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Marshadow",
+    "Geracao": "7ª",
+    "No": "#802",
+    "Tipo": "Lutador / Fantasma",
+    "Regiao": "Alola",
+    "NomeOriginal": "マーシャドー | Māshadō",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Poipole",
+    "Geracao": "7ª",
+    "No": "#803",
+    "Tipo": "Venenoso",
+    "Regiao": "Alola",
+    "NomeOriginal": "ベベノム | Bebenomu",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Naganadel",
+    "Geracao": "7ª",
+    "No": "#804",
+    "Tipo": "Venenoso / Dragão",
+    "Regiao": "Alola",
+    "NomeOriginal": "アーゴヨン | Āgoyon",
+    "StatusBase": "540"
+  },
+  {
+    "Name": "Stakataka",
+    "Geracao": "7ª",
+    "No": "#805",
+    "Tipo": "Pedra / Metal",
+    "Regiao": "Alola",
+    "NomeOriginal": "ツンデツンデ | Tsundetsunde",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Blacephalon",
+    "Geracao": "7ª",
+    "No": "#806",
+    "Tipo": "Fogo / Fantasma",
+    "Regiao": "Alola",
+    "NomeOriginal": "ズガドーン | Zugadōn",
+    "StatusBase": "570"
+  },
+  {
+    "Name": "Zeraora",
+    "Geracao": "7ª",
+    "No": "#807",
+    "Tipo": "Elétrico",
+    "Regiao": "Alola",
+    "NomeOriginal": "ゼラオラ | Zeraora",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Meltan",
+    "Geracao": "7ª",
+    "No": "#808",
+    "Tipo": "Metal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "メルタン | Merutan",
+    "StatusBase": "300"
+  },
+  {
+    "Name": "Melmetal",
+    "Geracao": "7ª",
+    "No": "#809",
+    "Tipo": "Metal",
+    "Regiao": "Kanto",
+    "NomeOriginal": "メルメタル | Merumetaru",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Grookey",
+    "Geracao": "8ª",
+    "No": "#810",
+    "Tipo": "Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "サルノリ | Sarunori",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Thwackey",
+    "Geracao": "8ª",
+    "No": "#811",
+    "Tipo": "Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "バチンキー | Bachinkī",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Rillaboom",
+    "Geracao": "8ª",
+    "No": "#812",
+    "Tipo": "Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "ゴリランダー | Gorirandā",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Scorbunny",
+    "Geracao": "8ª",
+    "No": "#813",
+    "Tipo": "Fogo",
+    "Regiao": "Galar",
+    "NomeOriginal": "ヒバニー | Hibanī",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Raboot",
+    "Geracao": "8ª",
+    "No": "#814",
+    "Tipo": "Fogo",
+    "Regiao": "Galar",
+    "NomeOriginal": "ラビフット | Rabifutto",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Cinderace",
+    "Geracao": "8ª",
+    "No": "#815",
+    "Tipo": "Fogo",
+    "Regiao": "Galar",
+    "NomeOriginal": "エースバーン | Ēsubān",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Sobble",
+    "Geracao": "8ª",
+    "No": "#816",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "メッソン | Messon",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Drizzile",
+    "Geracao": "8ª",
+    "No": "#817",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "ジメレオン | Jimereon",
+    "StatusBase": "420"
+  },
+  {
+    "Name": "Inteleon",
+    "Geracao": "8ª",
+    "No": "#818",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "インテレオン | Intereon",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Skwovet",
+    "Geracao": "8ª",
+    "No": "#819",
+    "Tipo": "Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ホシガリス | Hoshigarisu",
+    "StatusBase": "275"
+  },
+  {
+    "Name": "Greedent",
+    "Geracao": "8ª",
+    "No": "#820",
+    "Tipo": "Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ヨクバリス | Yokubarisu",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Rookidee",
+    "Geracao": "8ª",
+    "No": "#821",
+    "Tipo": "Voador",
+    "Regiao": "Galar",
+    "NomeOriginal": "ココガラ | Kokogara",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Corvisquire",
+    "Geracao": "8ª",
+    "No": "#822",
+    "Tipo": "Voador",
+    "Regiao": "Galar",
+    "NomeOriginal": "アオガラス | Aogarasu",
+    "StatusBase": "365"
+  },
+  {
+    "Name": "Corviknight",
+    "Geracao": "8ª",
+    "No": "#823",
+    "Tipo": "Voador / Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "アーマーガア | Āmāgā",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "BlipInseto",
+    "Geracao": "8ª",
+    "No": "#824",
+    "Tipo": "Inseto",
+    "Regiao": "Galar",
+    "NomeOriginal": "サッチムシ | Satchimushi",
+    "StatusBase": "180"
+  },
+  {
+    "Name": "Dottler",
+    "Geracao": "8ª",
+    "No": "#825",
+    "Tipo": "Inseto / Psiquico",
+    "Regiao": "Galar",
+    "NomeOriginal": "レドームシ | Redōmushi",
+    "StatusBase": "335"
+  },
+  {
+    "Name": "Orbeetle",
+    "Geracao": "8ª",
+    "No": "#826",
+    "Tipo": "Inseto / Psiquico",
+    "Regiao": "Galar",
+    "NomeOriginal": "イオルブ | Iorubu",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Nickit",
+    "Geracao": "8ª",
+    "No": "#827",
+    "Tipo": "Sombrio",
+    "Regiao": "Galar",
+    "NomeOriginal": "クスネ | Kusune",
+    "StatusBase": "245"
+  },
+  {
+    "Name": "Thievul",
+    "Geracao": "8ª",
+    "No": "#828",
+    "Tipo": "Sombrio",
+    "Regiao": "Galar",
+    "NomeOriginal": "フォクスライ | Fokusurai",
+    "StatusBase": "455"
+  },
+  {
+    "Name": "Gossifleur",
+    "Geracao": "8ª",
+    "No": "#829",
+    "Tipo": "Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "ヒメンカ | Himenka",
+    "StatusBase": "250"
+  },
+  {
+    "Name": "Eldegoss",
+    "Geracao": "8ª",
+    "No": "#830",
+    "Tipo": "Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "ワタシラガ | Watashiraga",
+    "StatusBase": "460"
+  },
+  {
+    "Name": "Wooloo",
+    "Geracao": "8ª",
+    "No": "#831",
+    "Tipo": "Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ウールー | Ūrū",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Dubwool",
+    "Geracao": "8ª",
+    "No": "#832",
+    "Tipo": "Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "バイウールー | Baiūrū",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Chewtle",
+    "Geracao": "8ª",
+    "No": "#833",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "カムカメ | Kamukame",
+    "StatusBase": "284"
+  },
+  {
+    "Name": "Drednaw",
+    "Geracao": "8ª",
+    "No": "#834",
+    "Tipo": "Água / Pedra",
+    "Regiao": "Galar",
+    "NomeOriginal": "カジリガメ | Kajirigame",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Yamper",
+    "Geracao": "8ª",
+    "No": "#835",
+    "Tipo": "Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "ワンパチ | Wanpachi",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Boltund",
+    "Geracao": "8ª",
+    "No": "#836",
+    "Tipo": "Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "パルスワン | Parusuwan",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Rolycoly",
+    "Geracao": "8ª",
+    "No": "#837",
+    "Tipo": "Pedra",
+    "Regiao": "Galar",
+    "NomeOriginal": "タンドン | Tandon",
+    "StatusBase": "240"
+  },
+  {
+    "Name": "Carkol",
+    "Geracao": "8ª",
+    "No": "#838",
+    "Tipo": "Pedra / Fogo",
+    "Regiao": "Galar",
+    "NomeOriginal": "トロッゴン | Toroggon",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Coalossal",
+    "Geracao": "8ª",
+    "No": "#839",
+    "Tipo": "Pedra / Fogo",
+    "Regiao": "Galar",
+    "NomeOriginal": "セキタンザン | Sekitanzan",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Applin",
+    "Geracao": "8ª",
+    "No": "#840",
+    "Tipo": "Grama / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "カジッチュ | Kajitchu",
+    "StatusBase": "260"
+  },
+  {
+    "Name": "Flapple",
+    "Geracao": "8ª",
+    "No": "#841",
+    "Tipo": "Grama / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "アップリュー | Appuryū",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Appletun",
+    "Geracao": "8ª",
+    "No": "#842",
+    "Tipo": "Grama / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "タルップル | Taruppuru",
+    "StatusBase": "485"
+  },
+  {
+    "Name": "Silicobra",
+    "Geracao": "8ª",
+    "No": "#843",
+    "Tipo": "Terrestre",
+    "Regiao": "Galar",
+    "NomeOriginal": "スナヘビ | Sunahebi",
+    "StatusBase": "315"
+  },
+  {
+    "Name": "Sandaconda",
+    "Geracao": "8ª",
+    "No": "#844",
+    "Tipo": "Terrestre",
+    "Regiao": "Galar",
+    "NomeOriginal": "サダイジャ | Sadaija",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Cramorant",
+    "Geracao": "8ª",
+    "No": "#845",
+    "Tipo": "Voador / Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "ウッウ | U'u",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Arrokuda",
+    "Geracao": "8ª",
+    "No": "#846",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "サシカマス | Sashikamasu",
+    "StatusBase": "280"
+  },
+  {
+    "Name": "Barraskewda",
+    "Geracao": "8ª",
+    "No": "#847",
+    "Tipo": "Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "カマスジョー | Kamasujō",
+    "StatusBase": "490"
+  },
+  {
+    "Name": "Toxel",
+    "Geracao": "8ª",
+    "No": "#848",
+    "Tipo": "Venenoso / Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "エレズン | Erezun",
+    "StatusBase": "242"
+  },
+  {
+    "Name": "Toxtricity",
+    "Geracao": "8ª",
+    "No": "#849",
+    "Tipo": "Venenoso / Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "ストリンダー | Sutorindā",
+    "StatusBase": "502"
+  },
+  {
+    "Name": "Sizzlipede",
+    "Geracao": "8ª",
+    "No": "#850",
+    "Tipo": "Fogo / Inseto",
+    "Regiao": "Galar",
+    "NomeOriginal": "ヤクデ | Yakude",
+    "StatusBase": "305"
+  },
+  {
+    "Name": "Centiskorch",
+    "Geracao": "8ª",
+    "No": "#851",
+    "Tipo": "Fogo / Inseto",
+    "Regiao": "Galar",
+    "NomeOriginal": "マルヤクデ | Maruyakude",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Clobbopus",
+    "Geracao": "8ª",
+    "No": "#852",
+    "Tipo": "Lutador",
+    "Regiao": "Galar",
+    "NomeOriginal": "タタッコ | Tatakko",
+    "StatusBase": "310"
+  },
+  {
+    "Name": "Grapploct",
+    "Geracao": "8ª",
+    "No": "#853",
+    "Tipo": "Lutador",
+    "Regiao": "Galar",
+    "NomeOriginal": "オトスパス | Otosupasu",
+    "StatusBase": "480"
+  },
+  {
+    "Name": "Sinistea",
+    "Geracao": "8ª",
+    "No": "#854",
+    "Tipo": "Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "ヤバチャ | Yabacha",
+    "StatusBase": "308"
+  },
+  {
+    "Name": "Polteageist",
+    "Geracao": "8ª",
+    "No": "#855",
+    "Tipo": "Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "ポットデス | Pottodesu",
+    "StatusBase": "508"
+  },
+  {
+    "Name": "Hatenna",
+    "Geracao": "8ª",
+    "No": "#856",
+    "Tipo": "Psiquico",
+    "Regiao": "Galar",
+    "NomeOriginal": "ミブリム | Miburimu",
+    "StatusBase": "265"
+  },
+  {
+    "Name": "Hattrem",
+    "Geracao": "8ª",
+    "No": "#857",
+    "Tipo": "Psiquico",
+    "Regiao": "Galar",
+    "NomeOriginal": "テブリム | Teburimu",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Hatterene",
+    "Geracao": "8ª",
+    "No": "#858",
+    "Tipo": "Psiquico / Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "ブリムオン | Burimuon",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Impidimp",
+    "Geracao": "8ª",
+    "No": "#859",
+    "Tipo": "Sombrio / Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "ベロバー | Berobā",
+    "StatusBase": "265"
+  },
+  {
+    "Name": "Morgrem",
+    "Geracao": "8ª",
+    "No": "#860",
+    "Tipo": "Sombrio / Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "ギモー | Gimō",
+    "StatusBase": "370"
+  },
+  {
+    "Name": "Grimmsnarl",
+    "Geracao": "8ª",
+    "No": "#861",
+    "Tipo": "Sombrio / Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "オーロンゲ | Ōronge",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Obstagoon",
+    "Geracao": "8ª",
+    "No": "#862",
+    "Tipo": "Sombrio / Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "タチフサグマ | Tachifusaguma",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Perrserker",
+    "Geracao": "8ª",
+    "No": "#863",
+    "Tipo": "Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ニャイキング | Nyaikingu",
+    "StatusBase": "440"
+  },
+  {
+    "Name": "Cursola",
+    "Geracao": "8ª",
+    "No": "#864",
+    "Tipo": "Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "サニゴーン | Sanigōn",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Sirfetch'd",
+    "Geracao": "8ª",
+    "No": "#865",
+    "Tipo": "Lutador",
+    "Regiao": "Galar",
+    "NomeOriginal": "ネギガナイト | Negiganaito",
+    "StatusBase": "507"
+  },
+  {
+    "Name": "Mr. Rime",
+    "Geracao": "8ª",
+    "No": "#866",
+    "Tipo": "Gelo / Psiquico",
+    "Regiao": "Galar",
+    "NomeOriginal": "バリコオル | Barikōru",
+    "StatusBase": "520"
+  },
+  {
+    "Name": "Runerigus",
+    "Geracao": "8ª",
+    "No": "#867",
+    "Tipo": "Terrestre / Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "デスバーン | Desubān",
+    "StatusBase": "483"
+  },
+  {
+    "Name": "Milcery",
+    "Geracao": "8ª",
+    "No": "#868",
+    "Tipo": "Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "マホミル | Mahomiru",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Alcremie",
+    "Geracao": "8ª",
+    "No": "#869",
+    "Tipo": "Fada",
+    "Regiao": "Galar",
+    "NomeOriginal": "マホイップ | Mahoippu",
+    "StatusBase": "495"
+  },
+  {
+    "Name": "Falinks",
+    "Geracao": "8ª",
+    "No": "#870",
+    "Tipo": "Lutador",
+    "Regiao": "Galar",
+    "NomeOriginal": "タイレーツ | Tairētsu",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Pincurchin",
+    "Geracao": "8ª",
+    "No": "#871",
+    "Tipo": "Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "バチンウニ | Bachin'uni",
+    "StatusBase": "435"
+  },
+  {
+    "Name": "Snom",
+    "Geracao": "8ª",
+    "No": "#872",
+    "Tipo": "Gelo / Inseto",
+    "Regiao": "Galar",
+    "NomeOriginal": "ユキハミ | Yukihami",
+    "StatusBase": "185"
+  },
+  {
+    "Name": "Frosmoth",
+    "Geracao": "8ª",
+    "No": "#873",
+    "Tipo": "Gelo / Inseto",
+    "Regiao": "Galar",
+    "NomeOriginal": "モスノウ | Mosunō",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Stonjourner",
+    "Geracao": "8ª",
+    "No": "#874",
+    "Tipo": "Pedra",
+    "Regiao": "Galar",
+    "NomeOriginal": "イシヘンジン | Ishihenjin",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Eiscue",
+    "Geracao": "8ª",
+    "No": "#875",
+    "Tipo": "Gelo",
+    "Regiao": "Galar",
+    "NomeOriginal": "コオリッポ | Kōrippo",
+    "StatusBase": "470"
+  },
+  {
+    "Name": "Indeedee",
+    "Geracao": "8ª",
+    "No": "#876",
+    "Tipo": "Psiquico / Normal",
+    "Regiao": "Galar",
+    "NomeOriginal": "イエッサン | Iessan",
+    "StatusBase": "475"
+  },
+  {
+    "Name": "Morpeko",
+    "Geracao": "8ª",
+    "No": "#877",
+    "Tipo": "Elétrico / Sombrio | Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "モルペコ | Morupeko",
+    "StatusBase": "436"
+  },
+  {
+    "Name": "Cufant",
+    "Geracao": "8ª",
+    "No": "#878",
+    "Tipo": "Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ゾウドウ | Zōdō",
+    "StatusBase": "330"
+  },
+  {
+    "Name": "Copperajah",
+    "Geracao": "8ª",
+    "No": "#879",
+    "Tipo": "Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ダイオウドウ | Daiōdō",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Dracozolt",
+    "Geracao": "8ª",
+    "No": "#880",
+    "Tipo": "Elétrico / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "パッチラゴン | Patchiragon",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Arctozolt",
+    "Geracao": "8ª",
+    "No": "#881",
+    "Tipo": "Elétrico / Gelo",
+    "Regiao": "Galar",
+    "NomeOriginal": "パッチルドン | Patchirudon",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Dracovish",
+    "Geracao": "8ª",
+    "No": "#882",
+    "Tipo": "Água / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "ウオノラゴン | Uonoragon",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Arctovish",
+    "Geracao": "8ª",
+    "No": "#883",
+    "Tipo": "Água / Gelo",
+    "Regiao": "Galar",
+    "NomeOriginal": "ウオチルドン | Uochirudon",
+    "StatusBase": "505"
+  },
+  {
+    "Name": "Duraludon",
+    "Geracao": "8ª",
+    "No": "#884",
+    "Tipo": "Metal / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "ジュラルドン | Jurarudon",
+    "StatusBase": "535"
+  },
+  {
+    "Name": "Dreepy",
+    "Geracao": "8ª",
+    "No": "#885",
+    "Tipo": "Dragão / Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "ドラメシヤ | Dorameshiya",
+    "StatusBase": "270"
+  },
+  {
+    "Name": "Drakloak",
+    "Geracao": "8ª",
+    "No": "#886",
+    "Tipo": "Dragão / Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "ドロンチ | Doronchi",
+    "StatusBase": "410"
+  },
+  {
+    "Name": "Dragapult",
+    "Geracao": "8ª",
+    "No": "#887",
+    "Tipo": "Dragão / Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "ドラパルト | Doraparuto",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Zacian",
+    "Geracao": "8ª",
+    "No": "#888",
+    "Tipo": "Fada | Fada / Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ザシアン | Zashian",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Zamazenta",
+    "Geracao": "8ª",
+    "No": "#889",
+    "Tipo": "Lutador | Lutador / Metal",
+    "Regiao": "Galar",
+    "NomeOriginal": "ザマゼンタ | Zamazenta",
+    "StatusBase": "670"
+  },
+  {
+    "Name": "Eternatus",
+    "Geracao": "8ª",
+    "No": "#890",
+    "Tipo": "Venenoso / Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "ムゲンダイナ | Mugendaina",
+    "StatusBase": "690"
+  },
+  {
+    "Name": "Kubfu",
+    "Geracao": "8ª",
+    "No": "#891",
+    "Tipo": "Lutador",
+    "Regiao": "Galar",
+    "NomeOriginal": "ダクマ | Dakuma",
+    "StatusBase": "385"
+  },
+  {
+    "Name": "Urshifu",
+    "Geracao": "8ª",
+    "No": "#892",
+    "Tipo": "Lutador / Sombrio | Lutador / Água",
+    "Regiao": "Galar",
+    "NomeOriginal": "ウーラオス | Ūraosu",
+    "StatusBase": "550"
+  },
+  {
+    "Name": "Zarude",
+    "Geracao": "8ª",
+    "No": "#893",
+    "Tipo": "Sombrio / Grama",
+    "Regiao": "Galar",
+    "NomeOriginal": "ザルード | Zarūdo",
+    "StatusBase": "600"
+  },
+  {
+    "Name": "Regieleki",
+    "Geracao": "8ª",
+    "No": "#894",
+    "Tipo": "Elétrico",
+    "Regiao": "Galar",
+    "NomeOriginal": "レジエレキ | Rejiereki",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Regidrago",
+    "Geracao": "8ª",
+    "No": "#895",
+    "Tipo": "Dragão",
+    "Regiao": "Galar",
+    "NomeOriginal": "レジドラゴ | Rejidorago",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Glastrier",
+    "Geracao": "8ª",
+    "No": "#896",
+    "Tipo": "Gelo",
+    "Regiao": "Galar",
+    "NomeOriginal": "ブリザポス | Burizaposu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Spectrier",
+    "Geracao": "8ª",
+    "No": "#897",
+    "Tipo": "Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "レイスポス | Reisuposu",
+    "StatusBase": "580"
+  },
+  {
+    "Name": "Calyrex",
+    "Geracao": "8ª",
+    "No": "#898",
+    "Tipo": "Psiquico / Grama | Psiquico / Gelo | Psiquico / Fantasma",
+    "Regiao": "Galar",
+    "NomeOriginal": "バドレックス | Badorekkusu",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Wyrdeer",
+    "Geracao": "8ª",
+    "No": "#899",
+    "Tipo": "Normal / Psiquico",
+    "Regiao": "Hisui",
+    "NomeOriginal": "アヤシシ | Ayashishi",
+    "StatusBase": "525"
+  },
+  {
+    "Name": "Kleavor",
+    "Geracao": "8ª",
+    "No": "#900",
+    "Tipo": "Inseto / Pedra",
+    "Regiao": "Hisui",
+    "NomeOriginal": "バサギリ | Basagiri",
+    "StatusBase": "500"
+  },
+  {
+    "Name": "Ursaluna",
+    "Geracao": "8ª",
+    "No": "#901",
+    "Tipo": "Terrestre / Normal",
+    "Regiao": "Hisui",
+    "NomeOriginal": "ガチグマ | Gachiguma",
+    "StatusBase": "550"
+  },
+  {
+    "Name": "Basculegion",
+    "Geracao": "8ª",
+    "No": "#902",
+    "Tipo": "Água / Fantasma",
+    "Regiao": "Hisui",
+    "NomeOriginal": "イダイトウ | Idaitō",
+    "StatusBase": "530"
+  },
+  {
+    "Name": "Sneasler",
+    "Geracao": "8ª",
+    "No": "#903",
+    "Tipo": "Lutador / Venenoso",
+    "Regiao": "Hisui",
+    "NomeOriginal": "オオニューラ | Ōnyūra",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Overqwil",
+    "Geracao": "8ª",
+    "No": "#904",
+    "Tipo": "Sombrio / Venenoso",
+    "Regiao": "Hisui",
+    "NomeOriginal": "ハリーマン | Harīman",
+    "StatusBase": "510"
+  },
+  {
+    "Name": "Enamorus",
+    "Geracao": "8ª",
+    "No": "#905",
+    "Tipo": "Fada / Voador",
+    "Regiao": "Hisui",
+    "NomeOriginal": "ラブトロス | Rabutorosu",
+    "StatusBase": "580"
+  }
+]

@@ -1,7 +1,15 @@
-import { client } from "./config";
+import { client } from './config';
 import { TopReplies } from './utils/TopReplies';
+import pokedex from './utils/pokedex.json';
 
 const TopRepliesLength = TopReplies.length;
+
+function getPokemon(pokemonName: string) {
+  const teste = pokedex.find(
+    pokemon => pokemon.Name === pokemonName
+  );
+  return teste;
+}
 
 client.connect();
 
@@ -52,6 +60,21 @@ client.on('message', (channel, tags, message, self) => {
     message.toLowerCase().includes("tente capturar usando !pokecatch")
   ) {
     client.say(channel, "!spawn");
+
+    // Aqui vai falar um pouco sobre o pokemon
+    const mensagem = message.split(" ");
+    // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome"
+    const pokemon = getPokemon(mensagem[2]);
+
+    if (pokemon) {
+      const resposta =
+        `${pokemon.Name}, (Nome original: ${pokemon.NomeOriginal}). Pokémon da ${pokemon.Geracao} geração, região de ${pokemon.Regiao}.
+        Tem os tipos ${pokemon.Tipo} e a base de seus status é ${pokemon.StatusBase}`
+
+      setTimeout(() => {
+        client.say(channel, resposta);
+      }, 2000);
+    }
 
     // Aqui vai avisar quando passar 70 segundos da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
     setTimeout(() => {
