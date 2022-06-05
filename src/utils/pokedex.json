@@ -1363,7 +1363,7 @@
     "Geracao": "2ª",
     "No": "#152",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "チコリータ | Chikorīta",
     "StatusBase": "318"
   },
@@ -1372,7 +1372,7 @@
     "Geracao": "2ª",
     "No": "#153",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ベイリーフ | Beirīfu",
     "StatusBase": "405"
   },
@@ -1381,7 +1381,7 @@
     "Geracao": "2ª",
     "No": "#154",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "メガニウム | Meganiumu",
     "StatusBase": "525"
   },
@@ -1390,7 +1390,7 @@
     "Geracao": "2ª",
     "No": "#155",
     "Tipo": "Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヒノアラシ | Hinoarashi",
     "StatusBase": "309"
   },
@@ -1399,7 +1399,7 @@
     "Geracao": "2ª",
     "No": "#156",
     "Tipo": "Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マグマラシ | Magumarashi",
     "StatusBase": "405"
   },
@@ -1408,7 +1408,7 @@
     "Geracao": "2ª",
     "No": "#157",
     "Tipo": "Fogo | Fogo / Fantasma",
-    "Regiao": "Jotho | Hisui",
+    "Regiao": "Johto | Hisui",
     "NomeOriginal": "バクフーン | Bakufūn",
     "StatusBase": "534"
   },
@@ -1417,7 +1417,7 @@
     "Geracao": "2ª",
     "No": "#158",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ワニノコ | Waninoko",
     "StatusBase": "314"
   },
@@ -1426,7 +1426,7 @@
     "Geracao": "2ª",
     "No": "#159",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "アリゲイツ | Arigeitsu",
     "StatusBase": "405"
   },
@@ -1435,7 +1435,7 @@
     "Geracao": "2ª",
     "No": "#160",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "オーダイル | Ōdairu",
     "StatusBase": "530"
   },
@@ -1444,7 +1444,7 @@
     "Geracao": "2ª",
     "No": "#161",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "オタチ | Otachi",
     "StatusBase": "215"
   },
@@ -1453,7 +1453,7 @@
     "Geracao": "2ª",
     "No": "#162",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "オオタチ | Ōtachi",
     "StatusBase": "415"
   },
@@ -1462,7 +1462,7 @@
     "Geracao": "2ª",
     "No": "#163",
     "Tipo": "Normal / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ホーホー | Hōhō",
     "StatusBase": "262"
   },
@@ -1471,7 +1471,7 @@
     "Geracao": "2ª",
     "No": "#164",
     "Tipo": "Normal / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヨルノズク | Yorunozuku",
     "StatusBase": "452"
   },
@@ -1480,7 +1480,7 @@
     "Geracao": "2ª",
     "No": "#165",
     "Tipo": "Inseto / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "レディバ | Rediba",
     "StatusBase": "265"
   },
@@ -1489,7 +1489,7 @@
     "Geracao": "2ª",
     "No": "#166",
     "Tipo": "Inseto / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "レディアン | Redian",
     "StatusBase": "390"
   },
@@ -1498,7 +1498,7 @@
     "Geracao": "2ª",
     "No": "#167",
     "Tipo": "Inseto / Venenoso",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "イトマル | Itomaru",
     "StatusBase": "250"
   },
@@ -1507,7 +1507,7 @@
     "Geracao": "2ª",
     "No": "#168",
     "Tipo": "Inseto / Venenoso",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "アリアドス | Ariadosu",
     "StatusBase": "400"
   },
@@ -1516,7 +1516,7 @@
     "Geracao": "2ª",
     "No": "#169",
     "Tipo": "Venenoso / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "クロバット | Kurobatto",
     "StatusBase": "535"
   },
@@ -1525,7 +1525,7 @@
     "Geracao": "2ª",
     "No": "#170",
     "Tipo": "Água / Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "チョンチー | Chonchī",
     "StatusBase": "330"
   },
@@ -1534,7 +1534,7 @@
     "Geracao": "2ª",
     "No": "#171",
     "Tipo": "Água / Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ランターン | Rantān",
     "StatusBase": "460"
   },
@@ -1543,7 +1543,7 @@
     "Geracao": "2ª",
     "No": "#172",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ピチュー | Pichū",
     "StatusBase": "205"
   },
@@ -1552,7 +1552,7 @@
     "Geracao": "2ª",
     "No": "#173",
     "Tipo": "Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ピィ | Pī",
     "StatusBase": "218"
   },
@@ -1561,7 +1561,7 @@
     "Geracao": "2ª",
     "No": "#174",
     "Tipo": "Normal / Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ププリン | Pupurin",
     "StatusBase": "210"
   },
@@ -1570,7 +1570,7 @@
     "Geracao": "2ª",
     "No": "#175",
     "Tipo": "Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "トゲピー | Togepī",
     "StatusBase": "245"
   },
@@ -1579,7 +1579,7 @@
     "Geracao": "2ª",
     "No": "#176",
     "Tipo": "Fada / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "トゲチック | Togechikku",
     "StatusBase": "405"
   },
@@ -1588,7 +1588,7 @@
     "Geracao": "2ª",
     "No": "#177",
     "Tipo": "Psiquico / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ネイティ | Neiti",
     "StatusBase": "320"
   },
@@ -1597,7 +1597,7 @@
     "Geracao": "2ª",
     "No": "#178",
     "Tipo": "Psiquico / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ネイティオ | Neitio",
     "StatusBase": "470"
   },
@@ -1606,7 +1606,7 @@
     "Geracao": "2ª",
     "No": "#179",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "メリープ | Merīpu",
     "StatusBase": "280"
   },
@@ -1615,7 +1615,7 @@
     "Geracao": "2ª",
     "No": "#180",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "モココ | Mokoko",
     "StatusBase": "365"
   },
@@ -1624,7 +1624,7 @@
     "Geracao": "2ª",
     "No": "#181",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "デンリュウ | Denryū",
     "StatusBase": "510"
   },
@@ -1633,7 +1633,7 @@
     "Geracao": "2ª",
     "No": "#182",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "キレイハナ | Kireihana",
     "StatusBase": "490"
   },
@@ -1642,7 +1642,7 @@
     "Geracao": "2ª",
     "No": "#183",
     "Tipo": "Água / Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マリル | Mariru",
     "StatusBase": "250"
   },
@@ -1651,7 +1651,7 @@
     "Geracao": "2ª",
     "No": "#184",
     "Tipo": "Água / Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マリルリ | Mariruri",
     "StatusBase": "420"
   },
@@ -1660,7 +1660,7 @@
     "Geracao": "2ª",
     "No": "#185",
     "Tipo": "Pedra",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ウソッキー | Usokkī",
     "StatusBase": "410"
   },
@@ -1669,7 +1669,7 @@
     "Geracao": "2ª",
     "No": "#186",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ニョロトノ | Nyorotono",
     "StatusBase": "500"
   },
@@ -1678,7 +1678,7 @@
     "Geracao": "2ª",
     "No": "#187",
     "Tipo": "Grama / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ハネッコ | Hanekko",
     "StatusBase": "250"
   },
@@ -1687,7 +1687,7 @@
     "Geracao": "2ª",
     "No": "#188",
     "Tipo": "Grama / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ポポッコ | Popokko",
     "StatusBase": "340"
   },
@@ -1696,7 +1696,7 @@
     "Geracao": "2ª",
     "No": "#189",
     "Tipo": "Grama / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ワタッコ | Watakko",
     "StatusBase": "460"
   },
@@ -1705,7 +1705,7 @@
     "Geracao": "2ª",
     "No": "#190",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "エイパム | Eipamu",
     "StatusBase": "360"
   },
@@ -1714,7 +1714,7 @@
     "Geracao": "2ª",
     "No": "#191",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヒマナッツ | Himanattsu",
     "StatusBase": "180"
   },
@@ -1723,7 +1723,7 @@
     "Geracao": "2ª",
     "No": "#192",
     "Tipo": "Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "キマワリ | Kimawari",
     "StatusBase": "425"
   },
@@ -1732,7 +1732,7 @@
     "Geracao": "2ª",
     "No": "#193",
     "Tipo": "Inseto / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヤンヤンマ | Yan'yanma",
     "StatusBase": "390"
   },
@@ -1741,7 +1741,7 @@
     "Geracao": "2ª",
     "No": "#194",
     "Tipo": "Água / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ウパー | Upā",
     "StatusBase": "210"
   },
@@ -1750,7 +1750,7 @@
     "Geracao": "2ª",
     "No": "#195",
     "Tipo": "Água / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヌオー | Nuō",
     "StatusBase": "430"
   },
@@ -1759,7 +1759,7 @@
     "Geracao": "2ª",
     "No": "#196",
     "Tipo": "Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "エーフィ | Ēfi",
     "StatusBase": "525"
   },
@@ -1768,7 +1768,7 @@
     "Geracao": "2ª",
     "No": "#197",
     "Tipo": "Sombrio",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ブラッキー | Burakkī",
     "StatusBase": "525"
   },
@@ -1777,7 +1777,7 @@
     "Geracao": "2ª",
     "No": "#198",
     "Tipo": "Sombrio / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヤミカラス | Yamikarasu",
     "StatusBase": "405"
   },
@@ -1786,7 +1786,7 @@
     "Geracao": "2ª",
     "No": "#199",
     "Tipo": "Água / Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヤドキング | Yadokingu",
     "StatusBase": "490"
   },
@@ -1795,7 +1795,7 @@
     "Geracao": "2ª",
     "No": "#200",
     "Tipo": "Fantasma",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ムウマ | Mūma",
     "StatusBase": "435"
   },
@@ -1804,7 +1804,7 @@
     "Geracao": "2ª",
     "No": "#201",
     "Tipo": "Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "アンノーン | Annōn",
     "StatusBase": "336"
   },
@@ -1813,7 +1813,7 @@
     "Geracao": "2ª",
     "No": "#202",
     "Tipo": "Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ソーナンス | Sōnansu",
     "StatusBase": "405"
   },
@@ -1822,7 +1822,7 @@
     "Geracao": "2ª",
     "No": "#203",
     "Tipo": "Normal / Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "キリンリキ | Kirinriki",
     "StatusBase": "455"
   },
@@ -1831,7 +1831,7 @@
     "Geracao": "2ª",
     "No": "#204",
     "Tipo": "Inseto",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "クヌギダマ | Kunugidama",
     "StatusBase": "290"
   },
@@ -1840,7 +1840,7 @@
     "Geracao": "2ª",
     "No": "#205",
     "Tipo": "Inseto / Metal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "フォレトス | Foretosu",
     "StatusBase": "465"
   },
@@ -1849,7 +1849,7 @@
     "Geracao": "2ª",
     "No": "#206",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ノコッチ | Nokotchi",
     "StatusBase": "415"
   },
@@ -1858,7 +1858,7 @@
     "Geracao": "2ª",
     "No": "#207",
     "Tipo": "Terrestre / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "グライガー | Guraigā",
     "StatusBase": "430"
   },
@@ -1867,7 +1867,7 @@
     "Geracao": "2ª",
     "No": "#208",
     "Tipo": "Metal / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ハガネール | Haganēru",
     "StatusBase": "510"
   },
@@ -1876,7 +1876,7 @@
     "Geracao": "2ª",
     "No": "#209",
     "Tipo": "Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ブルー | Burū",
     "StatusBase": "300"
   },
@@ -1885,7 +1885,7 @@
     "Geracao": "2ª",
     "No": "#210",
     "Tipo": "Fada",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "グランブル | Guranburu",
     "StatusBase": "450"
   },
@@ -1894,7 +1894,7 @@
     "Geracao": "2ª",
     "No": "#211",
     "Tipo": "Água / Venenoso | Sombrio / Venenoso",
-    "Regiao": "Jotho | Hisui",
+    "Regiao": "Johto | Hisui",
     "NomeOriginal": "ハリーセン | Harīsen",
     "StatusBase": "440"
   },
@@ -1903,7 +1903,7 @@
     "Geracao": "2ª",
     "No": "#212",
     "Tipo": "Inseto / Metal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ハッサム | Hassamu",
     "StatusBase": "500"
   },
@@ -1912,7 +1912,7 @@
     "Geracao": "2ª",
     "No": "#213",
     "Tipo": "Inseto / Pedra",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ツボツボ | Tsubotsubo",
     "StatusBase": "505"
   },
@@ -1921,7 +1921,7 @@
     "Geracao": "2ª",
     "No": "#214",
     "Tipo": "Inseto / Lutador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヘラクロス | Herakurosu",
     "StatusBase": "500"
   },
@@ -1930,7 +1930,7 @@
     "Geracao": "2ª",
     "No": "#215",
     "Tipo": "Sombrio / Gelo | Lutador / Venenoso",
-    "Regiao": "Jotho | Hisui",
+    "Regiao": "Johto | Hisui",
     "NomeOriginal": "ニューラ | Nyūra",
     "StatusBase": "430"
   },
@@ -1939,7 +1939,7 @@
     "Geracao": "2ª",
     "No": "#216",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヒメグマ | Himeguma",
     "StatusBase": "330"
   },
@@ -1948,7 +1948,7 @@
     "Geracao": "2ª",
     "No": "#217",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "リングマ | Ringuma",
     "StatusBase": "500"
   },
@@ -1957,7 +1957,7 @@
     "Geracao": "2ª",
     "No": "#218",
     "Tipo": "Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マグマッグ | Magumaggu",
     "StatusBase": "250"
   },
@@ -1966,7 +1966,7 @@
     "Geracao": "2ª",
     "No": "#219",
     "Tipo": "Fogo / Pedra",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マグカルゴ | Magukarugo",
     "StatusBase": "430"
   },
@@ -1975,7 +1975,7 @@
     "Geracao": "2ª",
     "No": "#220",
     "Tipo": "Gelo / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ウリムー | Urimū",
     "StatusBase": "250"
   },
@@ -1984,7 +1984,7 @@
     "Geracao": "2ª",
     "No": "#221",
     "Tipo": "Gelo / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "イノムー | Inomū",
     "StatusBase": "450"
   },
@@ -1993,7 +1993,7 @@
     "Geracao": "2ª",
     "No": "#222",
     "Tipo": "Água / Pedra | Fantasma",
-    "Regiao": "Jotho | Galar",
+    "Regiao": "Johto | Galar",
     "NomeOriginal": "サニーゴ | Sanīgo",
     "StatusBase": "410"
   },
@@ -2002,7 +2002,7 @@
     "Geracao": "2ª",
     "No": "#223",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "テッポウオ | Teppouo",
     "StatusBase": "300"
   },
@@ -2011,7 +2011,7 @@
     "Geracao": "2ª",
     "No": "#224",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "オクタン | Okutan",
     "StatusBase": "480"
   },
@@ -2020,7 +2020,7 @@
     "Geracao": "2ª",
     "No": "#225",
     "Tipo": "Gelo / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "デリバード | Deribādo",
     "StatusBase": "330"
   },
@@ -2029,7 +2029,7 @@
     "Geracao": "2ª",
     "No": "#226",
     "Tipo": "Água / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "マンタイン | Mantain",
     "StatusBase": "485"
   },
@@ -2038,7 +2038,7 @@
     "Geracao": "2ª",
     "No": "#227",
     "Tipo": "Metal / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "エアームド | Eāmudo",
     "StatusBase": "465"
   },
@@ -2047,7 +2047,7 @@
     "Geracao": "2ª",
     "No": "#228",
     "Tipo": "Sombrio / Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "デルビル | Derubiru",
     "StatusBase": "330"
   },
@@ -2056,7 +2056,7 @@
     "Geracao": "2ª",
     "No": "#229",
     "Tipo": "Sombrio / Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヘルガー | Herugā",
     "StatusBase": "500"
   },
@@ -2065,7 +2065,7 @@
     "Geracao": "2ª",
     "No": "#230",
     "Tipo": "Água / Dragão",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "キングドラ | Kingudora",
     "StatusBase": "540"
   },
@@ -2074,7 +2074,7 @@
     "Geracao": "2ª",
     "No": "#231",
     "Tipo": "Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ゴマゾウ | Gomazō",
     "StatusBase": "330"
   },
@@ -2083,7 +2083,7 @@
     "Geracao": "2ª",
     "No": "#232",
     "Tipo": "Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ドンファン | Donfan",
     "StatusBase": "500"
   },
@@ -2092,7 +2092,7 @@
     "Geracao": "2ª",
     "No": "#233",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ポリゴン２ | Porigon Tsū",
     "StatusBase": "515"
   },
@@ -2101,7 +2101,7 @@
     "Geracao": "2ª",
     "No": "#234",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "オドシシ | Odoshishi",
     "StatusBase": "465"
   },
@@ -2110,7 +2110,7 @@
     "Geracao": "2ª",
     "No": "#235",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ドーブル | Dōburu",
     "StatusBase": "250"
   },
@@ -2119,7 +2119,7 @@
     "Geracao": "2ª",
     "No": "#236",
     "Tipo": "Lutador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "バルキー | Barukī",
     "StatusBase": "210"
   },
@@ -2128,7 +2128,7 @@
     "Geracao": "2ª",
     "No": "#237",
     "Tipo": "Lutador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "カポエラー | Kapoerā",
     "StatusBase": "455"
   },
@@ -2137,7 +2137,7 @@
     "Geracao": "2ª",
     "No": "#238",
     "Tipo": "Gelo / Psiquico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ムチュール | Muchūru",
     "StatusBase": "305"
   },
@@ -2146,7 +2146,7 @@
     "Geracao": "2ª",
     "No": "#239",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "エレキッド | Erekiddo",
     "StatusBase": "360"
   },
@@ -2155,7 +2155,7 @@
     "Geracao": "2ª",
     "No": "#240",
     "Tipo": "Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ブビィ | Bubī",
     "StatusBase": "365"
   },
@@ -2164,7 +2164,7 @@
     "Geracao": "2ª",
     "No": "#241",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ミルタンク | Mirutanku",
     "StatusBase": "490"
   },
@@ -2173,7 +2173,7 @@
     "Geracao": "2ª",
     "No": "#242",
     "Tipo": "Normal",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ハピナス | Hapinasu",
     "StatusBase": "540"
   },
@@ -2182,7 +2182,7 @@
     "Geracao": "2ª",
     "No": "#243",
     "Tipo": "Elétrico",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ライコウ | Raikō",
     "StatusBase": "580"
   },
@@ -2191,7 +2191,7 @@
     "Geracao": "2ª",
     "No": "#244",
     "Tipo": "Fogo",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "エンテイ | Entei",
     "StatusBase": "580"
   },
@@ -2200,7 +2200,7 @@
     "Geracao": "2ª",
     "No": "#245",
     "Tipo": "Água",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "スイクン | Suikun",
     "StatusBase": "580"
   },
@@ -2209,7 +2209,7 @@
     "Geracao": "2ª",
     "No": "#246",
     "Tipo": "Pedra / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ヨーギラス | Yōgirasu",
     "StatusBase": "300"
   },
@@ -2218,7 +2218,7 @@
     "Geracao": "2ª",
     "No": "#247",
     "Tipo": "Pedra / Terrestre",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "サナギラス | Sanagirasu",
     "StatusBase": "410"
   },
@@ -2227,7 +2227,7 @@
     "Geracao": "2ª",
     "No": "#248",
     "Tipo": "Pedra / Sombrio",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "バンギラス | Bangirasu",
     "StatusBase": "600"
   },
@@ -2236,7 +2236,7 @@
     "Geracao": "2ª",
     "No": "#249",
     "Tipo": "Psiquico / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ルギア | Rugia",
     "StatusBase": "680"
   },
@@ -2245,7 +2245,7 @@
     "Geracao": "2ª",
     "No": "#250",
     "Tipo": "Fogo / Voador",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "ホウオウ | Hōō",
     "StatusBase": "680"
   },
@@ -2254,7 +2254,7 @@
     "Geracao": "2ª",
     "No": "#251",
     "Tipo": "Psiquico / Grama",
-    "Regiao": "Jotho",
+    "Regiao": "Johto",
     "NomeOriginal": "セレビィ | Serebī",
     "StatusBase": "600"
   },
