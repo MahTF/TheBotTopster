@@ -20,7 +20,7 @@ const client = config.client({
     'toroma_hiuga',
     'Projet1504',
     'Fabits04',
-    'DonBael'
+    'Don_Bael'
   ]
 });
 

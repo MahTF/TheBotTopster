@@ -51,11 +51,7 @@ client.on('message', (channel, tags, message, self) => {
 
   //#region Comando !spawn
   /// Este comando serve para resgatar um som na live de Gata_amaldicoada quando um user digita uma mensagem Específica
-  if ((
-    channel === "#gata_amaldicoada" ||
-    channel === "#manukitanuki" ||
-    channel === "#donbael"
-  ) &&
+  if (
     tags.username === "pokemoncommunitygame" &&
     message.toLowerCase().includes("tente capturar usando !pokecatch")
   ) {
@@ -69,7 +65,7 @@ client.on('message', (channel, tags, message, self) => {
     if (pokemon) {
       const resposta =
         `${pokemon.Name}, (Nome original: ${pokemon.NomeOriginal}). Pokémon da ${pokemon.Geracao} geração, região de ${pokemon.Regiao}.
-        Tem os tipos ${pokemon.Tipo} e a base de seus status é ${pokemon.StatusBase}`
+        Tem o(s) tipo(s) ${pokemon.Tipo} e a base de seus status é ${pokemon.StatusBase}`
 
       setTimeout(() => {
         client.say(channel, resposta);
