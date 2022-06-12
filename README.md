@@ -105,12 +105,15 @@ O tema do bot é uma brincadeira com os amigos do desenvolvedor.
 ### Uma olhada rápida no que está dentro de `./src`.
 
     ./src
+     ├── commands
      ├── config
      ├── utils
 
-1.  **`config`**: nesta pasta está as configurações iniciais do bot, como sua autenticação e em quais canais deve aparecer.
+1.  **`commands`**: nesta pasta está os comandos que o bot irá executar.
 
-2.  **`utils`**: aqui está as respostas que o bot dá ao ser acionado.
+2.  **`config`**: nesta pasta está as configurações iniciais do bot, como sua autenticação e em quais canais deve aparecer.
+
+3.  **`utils`**: aqui está as respostas que o bot dá ao ser acionado.
 
 ## :memo: Licença
 
