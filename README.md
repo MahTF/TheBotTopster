@@ -114,6 +114,7 @@ O tema do bot é uma brincadeira com os amigos do desenvolvedor.
 2.  **`config`**: nesta pasta está as configurações iniciais do bot, como sua autenticação e em quais canais deve aparecer.
 
 3.  **`utils`**: aqui está as respostas que o bot dá ao ser acionado.
+  > O arquivo [pokedex.json](/src/utils/pokedex.json) foi cedido por [Don_Bael](https://twitch.tv/don_bael)
 
 ## :memo: Licença
 

@@ -15,23 +15,25 @@ const TopReplies = [
   'Não tem nada mais Lek Topzera do que viajar pra São Paulo de férias todo mês',
   'Todo Lek Topster que eu conheço tem um Fox, sabia?',
   'Tá top, tá top, tá é muita onda, essa live tá bombando e eu sou muito top!',
-  // mahtfTop é um emote de inscrito do canal de MahTF
-  'Você já disse a @ManukiTanuki que é topster hoje? mahtfTop',
+  // mahtfTop é um emote de inscrito do canal de MahTF, inscrição acabou.
+  // 'Você já disse a @ManukiTanuki que é topster hoje? mahtfTop',
   'Você sabia que a Lady Gaga fez uma música pro filme TOP Gun: Maverick?',
   'Somente pessoas tops chegaram até aqui',
   'E aí? Vamo numa baladinha top?',
   'Você me deixou sem palavras, então vou mandar um ª pra você',
   'Sabe o que seria top agora? Uma coquinha gelada.',
-  'Eu sou um bot Topster, caso queira me remover do seu canal, ou adicionar-lo em seu canal, fale com @mahtf',
+  'Eu sou um bot Topster, caso queira me remover do seu canal, ou adicionar-lo em seu canal, fale com @mahtf por sussurro',
   'Passou mal porque não consome Top Therm. Por @GuiFernandes1607',
   'Meus jogos preferidos são sTOP e TOP Gear. Por @GuiFernandes1607',
   'Por quê ela tem cabelo grande? Porque TOP é TUDO! Por @GuiFernandes1607',
   'Maior bruxo da história é o Harry Topper. Por @GuiFernandes1607',
-  'Minha série favorita é HearthstTOPer. Por @Loester_10control',
+  'Minha série favorita é HearthstTOPper. Por @Loester_10control',
   'Seu topete não sai da minha cabeça',
   'Sempre que eu penso no meu TOP 3, você está la!',
   'Você sabe quais são os Pokémon\'s Favoritos de Manukita? . . . KabuTOPs e HitmonTOP. Por @Gata_Amaldicoada',
   'Nada é mais top que você!',
+  'Caso você tenha tenha uma frase bem topster, mande por sussurro para @mahtf',
+  '@MahTF está cada dia adicionando novas frases, mas não é um trabalho fácil.',
 ]
 
 export { TopReplies };
