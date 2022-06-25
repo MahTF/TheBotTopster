@@ -34,6 +34,9 @@ const TopReplies = [
   'Nada é mais top que você!',
   'Caso você tenha tenha uma frase bem topster, mande por sussurro para @mahtf',
   '@MahTF está cada dia adicionando novas frases, mas não é um trabalho fácil.',
+  'Muito top né?',
+  '@nome, eu achei que isso foi top também, acredita?',
+  'topssímo de mais!',
 ]
 
 export { TopReplies };

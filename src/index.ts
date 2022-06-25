@@ -5,5 +5,5 @@ import { SpawnCommand } from './commands/SpawnCommand';
 client.connect();
 
 // Chamando os comandos para poderem ser executados
-// TopCommand;
-// SpawnCommand;
+TopCommand;
+SpawnCommand;
