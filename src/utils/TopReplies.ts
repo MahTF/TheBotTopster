@@ -37,6 +37,12 @@ const TopReplies = [
   'Muito top né?',
   '@nome, eu achei que isso foi top também, acredita?',
   'topssímo de mais!',
+  'Beba água e seja top você também!',
+  'Você pode ser top, mas tão top, mas tão top, que... esqueci o que ia dizer, mas era algo bem top',
+  'Se alguém tenta destopizar você, essa pessoa não te merece, seja top!',
+  'Qual foi a coisa mais top de hoje? Você, é claro!',
+  'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @lukezitto_',
+  'Você é mais top que uma estátua grega feita em mármore.',
 ]
 
 export { TopReplies };
