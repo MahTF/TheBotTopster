@@ -43,6 +43,7 @@ const TopReplies = [
   'Qual foi a coisa mais top de hoje? Você, é claro!',
   'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @lukezitto_',
   'Você é mais top que uma estátua grega feita em mármore.',
+  'Qual é o romance que manukita topster mais ama? HeartstTOPper. por @f00xes',
 ]
 
 export { TopReplies };
