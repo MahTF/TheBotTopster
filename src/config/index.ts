@@ -23,6 +23,7 @@ const client = config.client({
     'Don_Bael',
     'f00xes',
     'gueltz',
+    'SirMelonius',
   ]
 });
 
