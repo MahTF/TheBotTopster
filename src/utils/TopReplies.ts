@@ -44,6 +44,11 @@ const TopReplies = [
   'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @lukezitto_',
   'Você é mais top que uma estátua grega feita em mármore.',
   'Qual é o romance que manukita topster mais ama? HeartstTOPper. por @f00xes',
+  'Já tomou seu lactopurga recentemente?',
+  'Ei. . .  tu é top né? Por @Gata_amaldicoada',
+  'Dica THOP: Você sabia que é top visitar seu dentista a cada 06 meses?',
+  'Quem é a pessoa mais top? Para o cego, é a luz :sunny: Para o faminto, é o pão :bread: Para o sedento, é a fonte de água :droplet: Para o morto, é a vida :herb: Para o enfermo, é a cura :syringe: Para o prisioneiro, é a liberdade :butterfly: Para o solitário, é o companheiro :two_men_holding_hands: Para o viajante, é o caminho :person_running: Para mim, é você!',
+  'Oi pessoa belíssima na minha tela, tudo topster?',
 ]
 
 export { TopReplies };

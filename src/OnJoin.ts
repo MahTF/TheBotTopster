@@ -1,8 +1,6 @@
 import { client } from "./config";
 
 const OnJoin = client.once('join', () => {
-  console.log(new Date());
-
   setTimeout(() => {
     const channels = client.getChannels();
     channels.forEach(channel => {
