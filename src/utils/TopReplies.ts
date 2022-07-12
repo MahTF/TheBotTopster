@@ -49,6 +49,9 @@ const TopReplies = [
   'Dica THOP: Você sabia que é top visitar seu dentista a cada 06 meses?',
   'Quem é a pessoa mais top? Para o cego, é a luz :sunny: Para o faminto, é o pão :bread: Para o sedento, é a fonte de água :droplet: Para o morto, é a vida :herb: Para o enfermo, é a cura :syringe: Para o prisioneiro, é a liberdade :butterfly: Para o solitário, é o companheiro :two_men_holding_hands: Para o viajante, é o caminho :person_running: Para mim, é você!',
   'Oi pessoa belíssima na minha tela, tudo topster?',
+  'Quando foi sua últíma consulta com um ortopedista?',
+  'Chat, você sabia que @nome é topster? Não? Agora tá sabendo!',
+  'Me diz uma frase bem top agora, por favor!',
 ]
 
 export { TopReplies };
