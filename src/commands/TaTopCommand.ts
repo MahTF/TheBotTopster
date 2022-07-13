@@ -8,7 +8,6 @@ const userToVerify = "ManukiTanuki";
 
 const TaTopCommand = client.on('message', (channel, tags) => {
   if (
-    channel === "#ricky_cezar" &&
     tags.username === userToVerify.toLowerCase() &&
     UserSaid == false
   ) {
@@ -20,6 +19,6 @@ const TaTopCommand = client.on('message', (channel, tags) => {
       UserSaid = false;
     }, hourInMs);
   }
-})
+});
 
 export { TaTopCommand };
