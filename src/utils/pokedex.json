@@ -3033,7 +3033,7 @@
     "StatusBase": "460"
   },
   {
-    "Name": "SolPedra",
+    "Name": "Solrock",
     "Geracao": "3ª",
     "No": "#338",
     "Tipo": "Pedra / Psiquico",
@@ -3384,7 +3384,7 @@
     "StatusBase": "600"
   },
   {
-    "Name": "RegiPedra",
+    "Name": "Regirock",
     "Geracao": "3ª",
     "No": "#377",
     "Tipo": "Pedra",
