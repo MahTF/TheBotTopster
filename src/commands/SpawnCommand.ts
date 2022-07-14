@@ -15,7 +15,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
 
     if (pokemon) {
       const resposta =
-        `${pokemon.Name}, (Nome original: ${pokemon.NomeOriginal}). Pokémon da ${pokemon.Geracao} geração, região de ${pokemon.Regiao}.
+        `#${pokemon.No}: ${pokemon.Name}, (Nome original: ${pokemon.NomeOriginal}). Pokémon da ${pokemon.Geracao} geração, região de ${pokemon.Regiao}.
         Tem o(s) tipo(s) ${pokemon.Tipo} e a base de seus status é ${pokemon.StatusBase}`
 
       setTimeout(() => {
