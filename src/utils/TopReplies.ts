@@ -52,6 +52,10 @@ const TopReplies = [
   'Quando foi sua últíma consulta com um ortopedista?',
   'Chat, você sabia que @nome é topster? Não? Agora tá sabendo!',
   'Me diz uma frase bem top agora, por favor!',
+  ':top:',
+  'Aí você foi muito mais que top, você foi topíssimo!',
+  'E ai @nome, tudo topster?',
+  'Eu cansei de conversa fiada, agora eu quero é um papo top com você @nome!',
 ]
 
 export { TopReplies };
