@@ -5,7 +5,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
     tags.username === "pokemoncommunitygame" &&
     (message.toLowerCase().includes("twitchlit") ||
-      message.toLowerCase().includes("jonasw5Bone"))
+      message.toLowerCase().includes("jonasw5bone"))
   ) {
     client.say(channel, "!spawn");
 
