@@ -4,13 +4,14 @@ import { getPokemon } from '../utils/getPokemonFuncion';
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
     tags.username === "pokemoncommunitygame" &&
-    message.toLowerCase().includes("twitchlit")
+    (message.toLowerCase().includes("twitchlit") ||
+      message.toLowerCase().includes("jonasw5Bone"))
   ) {
     client.say(channel, "!spawn");
 
     // Aqui vai falar um pouco sobre o pokemon
     const mensagem = message.split(" ");
-    // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome"
+    // O bot sempre começa sua mensagem com "TwitchLit (ou jonasw5Bone) Um PokemonNome"
     const pokemon = getPokemon(mensagem[2]);
 
     if (pokemon) {
