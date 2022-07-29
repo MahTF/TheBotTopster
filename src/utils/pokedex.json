@@ -306,7 +306,7 @@
     "StatusBase": "505"
   },
   {
-    "Name": "CleFada",
+    "Name": "Clefairy",
     "Geracao": "1ª",
     "No": "#035",
     "Tipo": "Fada",
@@ -1323,7 +1323,7 @@
     "StatusBase": "300"
   },
   {
-    "Name": "Dragãoair",
+    "Name": "Dragonair",
     "Geracao": "1ª",
     "No": "#148",
     "Tipo": "Dragão",
@@ -1332,7 +1332,7 @@
     "StatusBase": "420"
   },
   {
-    "Name": "Dragãoite",
+    "Name": "Dragonite",
     "Geracao": "1ª",
     "No": "#149",
     "Tipo": "Dragão / Voador",
@@ -3393,7 +3393,7 @@
     "StatusBase": "580"
   },
   {
-    "Name": "RegGelo",
+    "Name": "Regice",
     "Geracao": "3ª",
     "No": "#378",
     "Tipo": "Gelo",
@@ -3402,7 +3402,7 @@
     "StatusBase": "580"
   },
   {
-    "Name": "RegiMetal",
+    "Name": "Registeel",
     "Geracao": "3ª",
     "No": "#379",
     "Tipo": "Metal",
@@ -4410,7 +4410,7 @@
     "StatusBase": "600"
   },
   {
-    "Name": "Sombriorai",
+    "Name": "Darkrai",
     "Geracao": "4ª",
     "No": "#491",
     "Tipo": "Sombrio",
@@ -5328,7 +5328,7 @@
     "StatusBase": "335"
   },
   {
-    "Name": "JellGelont",
+    "Name": "Jellicent",
     "Geracao": "5ª",
     "No": "#593",
     "Tipo": "Água / Fantasma",
@@ -5967,7 +5967,7 @@
     "StatusBase": "499"
   },
   {
-    "Name": "ScatterInseto",
+    "Name": "Scatterbug",
     "Geracao": "6ª",
     "No": "#664",
     "Tipo": "Inseto",
@@ -6624,7 +6624,7 @@
     "StatusBase": "300"
   },
   {
-    "Name": "CharjaInseto",
+    "Name": "Charjabug",
     "Geracao": "7ª",
     "No": "#737",
     "Tipo": "Inseto / Elétrico",
