@@ -56,6 +56,8 @@ const TopReplies = [
   'Aí você foi muito mais que top, você foi topíssimo!',
   'E ai @nome, tudo topster?',
   'Eu cansei de conversa fiada, agora eu quero é um papo top com você @nome!',
+  'Festa top tem que ter camarote, gata... Se não tem ala vip eu nem entro! Por: @ricky_cezar',
+  'VillaMix ontem foi top de mais, cê tinha que ver',
 ]
 
 export { TopReplies };
