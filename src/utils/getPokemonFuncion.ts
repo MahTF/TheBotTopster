@@ -1,10 +1,18 @@
 import pokedex from '../utils/pokedex.json';
 
-function getPokemon(pokemonName: string) {
-  const teste = pokedex.find(
-    pokemon => pokemon.Name === pokemonName
+function getPokemonByName(pokemonName: string) {
+  const pokemon = pokedex.find(
+    pokemon => pokemon.Name.toLowerCase() === pokemonName.toLowerCase()
   );
-  return teste;
+  return pokemon;
 }
 
-export { getPokemon };
+function getPokemonByNumber(pokemonNumber: number) {
+  const pokemonNo = `#${pokemonNumber}`;
+  const pokemon = pokedex.find(
+    pokemon => pokemon.No === pokemonNo
+  );
+  return pokemon;
+}
+
+export { getPokemonByName, getPokemonByNumber };

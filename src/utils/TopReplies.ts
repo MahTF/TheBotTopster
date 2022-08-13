@@ -58,6 +58,7 @@ const TopReplies = [
   'Eu cansei de conversa fiada, agora eu quero é um papo top com você @nome!',
   'Festa top tem que ter camarote, gata... Se não tem ala vip eu nem entro! Por: @ricky_cezar',
   'VillaMix ontem foi top de mais, cê tinha que ver',
+  'O sofrimento do streamer é topster para o chat e o enche de entreterimento!',
 ]
 
 export { TopReplies };

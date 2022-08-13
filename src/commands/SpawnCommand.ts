@@ -1,18 +1,17 @@
 import { client } from '../config';
-import { getPokemon } from '../utils/getPokemonFuncion';
+import { getPokemonByName } from '../utils/getPokemonFuncion';
 
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
     tags.username === "pokemoncommunitygame" &&
-    (message.toLowerCase().includes("twitchlit") ||
-      message.toLowerCase().includes("jonasw5bone"))
+    message.toLowerCase().includes("twitchlit")
   ) {
     client.say(channel, "!spawn");
 
     // Aqui vai falar um pouco sobre o pokemon
     const mensagem = message.split(" ");
     // O bot sempre começa sua mensagem com "TwitchLit (ou jonasw5Bone) Um PokemonNome"
-    const pokemon = getPokemon(mensagem[2]);
+    const pokemon = getPokemonByName(mensagem[2]);
 
     if (pokemon) {
       const resposta =
@@ -22,12 +21,20 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
       setTimeout(() => {
         client.say(channel, resposta);
       }, 2000);
-    }
 
-    // Aqui vai avisar quando passar 70 segundos da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
-    setTimeout(() => {
-      client.say(channel, "O Pokémon está para fugir, você tem mais 10 segundos aproximadamente");
-    }, 70000);
+      // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
+      setTimeout(() => {
+        client.say(channel, `:watch: O ${pokemon.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! :watch:`);
+      }, 70000);
+
+    } else {
+      client.say(channel, `🤖: Desculpe, não achei \"${mensagem[2]}\" na minha pokedex. NotLikeThis`);
+
+      // Aviso de quando não encontrou o pokémon
+      setTimeout(() => {
+        client.say(channel, `O Pokémon está para fugir, você tem mais 10 segundos aproximadamente!`);
+      }, 70000);
+    }
   }
 });
 
