@@ -10,7 +10,11 @@ const TaTopCommand = client.on('message', (channel, tags) => {
     tags.username === userToVerify.toLowerCase() &&
     UserSaid == false
   ) {
-    client.say(channel, '!tatop');
+    if (channel === "#manukitanuki") {
+      client.say(channel, '!manu');
+    } else {
+      client.say(channel, '!tatop');
+    }
     UserSaid = true;
 
     setTimeout(() => {

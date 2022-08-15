@@ -24,7 +24,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
 
       // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
       setTimeout(() => {
-        client.say(channel, `:watch: O ${pokemon.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! :watch:`);
+        client.say(channel, `⏱️ O ${pokemon.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! ⏱️`);
       }, 70000);
 
     } else {
