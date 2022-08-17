@@ -1,9 +1,11 @@
 import { client } from '../config';
 import { getPokemonByName } from '../utils/getPokemonFuncion';
+import { PokemonMissions } from '../utils/PokemonMissions';
 
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
-    tags.username === "pokemoncommunitygame" &&
+    //tags.username === "pokemoncommunitygame" &&
+    tags.username === "mahtf" &&
     message.toLowerCase().includes("twitchlit")
   ) {
     client.say(channel, "!spawn");
@@ -21,6 +23,10 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
       setTimeout(() => {
         client.say(channel, resposta);
       }, 2000);
+
+      setTimeout(() => {
+        PokemonMissions(channel, pokemon);
+      }, 5000);
 
       // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
       setTimeout(() => {
