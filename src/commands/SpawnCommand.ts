@@ -4,8 +4,7 @@ import { PokemonMissions } from '../utils/PokemonMissions';
 
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
-    //tags.username === "pokemoncommunitygame" &&
-    tags.username === "mahtf" &&
+    tags.username === "pokemoncommunitygame" &&
     message.toLowerCase().includes("twitchlit")
   ) {
     client.say(channel, "!spawn");

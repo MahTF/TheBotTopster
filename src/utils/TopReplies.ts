@@ -59,6 +59,9 @@ const TopReplies = [
   'Festa top tem que ter camarote, gata... Se não tem ala vip eu nem entro! Por: @ricky_cezar',
   'VillaMix ontem foi top de mais, cê tinha que ver',
   'O sofrimento do streamer é topster para o chat e o enche de entreterimento!',
+  'Você é top de mais!',
+  'Só mais um episódio da sua topzeirisse, por favor!',
+  'Me falaram que aqui é o ambiente mais top de todos!',
 ]
 
 export { TopReplies };
