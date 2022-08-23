@@ -63,6 +63,9 @@ const TopReplies = [
   'Só mais um episódio da sua topzeirisse, por favor!',
   'Me falaram que aqui é o ambiente mais top de todos!',
   'Lavar as mãos é top de mais!',
-]
+  'Ei, bora ali? Eu super topo!',
+  'Eu ouvi dizer que você topa muitas coisas, bora topar mais uma?',
+  'Hoje a gente tá só com assuntos top de mais, não é mesmo?',
+];
 
 export { TopReplies };
