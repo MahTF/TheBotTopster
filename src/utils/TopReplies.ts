@@ -27,7 +27,7 @@ const TopReplies = [
   'Meus jogos preferidos são sTOP e TOP Gear. Por @GuiFernandes1607',
   'Por quê ela tem cabelo grande? Porque TOP é TUDO! Por @GuiFernandes1607',
   'Maior bruxo da história é o Harry Topper. Por @GuiFernandes1607',
-  'Minha série favorita é HearthstTOPper. Por @Loester_10control',
+  'Minha série favorita é HearthsTOPper. Por @Loester_10control',
   'Seu topete não sai da minha cabeça',
   'Sempre que eu penso no meu TOP 3, você está la!',
   'Você sabe quais são os Pokémon\'s Favoritos de Manukita? . . . KabuTOPs e HitmonTOP. Por @Gata_Amaldicoada',
@@ -66,6 +66,7 @@ const TopReplies = [
   'Ei, bora ali? Eu super topo!',
   'Eu ouvi dizer que você topa muitas coisas, bora topar mais uma?',
   'Hoje a gente tá só com assuntos top de mais, não é mesmo?',
+  'Voa lek, maior satisfação te encontrar aqui. Sextou?',
 ];
 
 export { TopReplies };
