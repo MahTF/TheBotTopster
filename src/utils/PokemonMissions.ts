@@ -12,7 +12,7 @@ type Pokemon = {
 
 /* Missão Semanal
  * Data final: Domingo, 05 de Setembro de 2022 00:00 GMT
- * Missão 1: Trocar pokémons do tipo Grama para ganhar 03 Net Balls
+ * Missão 1: Trocar pokémons do tipo Inseto para ganhar 03 Net Balls
  * Missão 2: Pegar pokémons do tipo Lutador para ganhar 01 Empty Disk
  * Missões adicionais não estão com tipo/estado do pokémon
  */
@@ -22,16 +22,16 @@ function PokemonMissions(channel: string, pokemon: Pokemon) {
   const DateNow = new Date();
 
   if (deadLine > DateNow) {
-    if (pokemon.Tipo.toLowerCase().includes("grama")) {
+    if (pokemon.Tipo.toLowerCase().includes("inseto")) {
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui ou pode possuir o tipo Grama, capture-o e troque-o para ganhar 03 Net Balls!`
+        `${pokemon.Name} é um Pokémon que possui ou pode possuir o tipo Inseto, capture-o e troque-o para ganhar 03 Net Balls!`
       );
 
       if (pokemon.Tipo.toLowerCase().includes("lutador")) {
         client.action(
           channel,
-          `${pokemon.Name} é possivelmente um pokemon que está nas duas missões. É lutador e grama.`
+          `${pokemon.Name} é possivelmente um pokemon que está nas duas missões. É lutador e inseto.`
         )
       }
     }
