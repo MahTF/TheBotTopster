@@ -67,6 +67,9 @@ const TopReplies = [
   'Eu ouvi dizer que você topa muitas coisas, bora topar mais uma?',
   'Hoje a gente tá só com assuntos top de mais, não é mesmo?',
   'Voa lek, maior satisfação te encontrar aqui. Sextou?',
+  'Subtember chegou e sabe o que é mais top? #HypeTrain',
+  'Subs são tops de mais!',
+  'To tão titi, cadê um Hype train bem top?',
 ];
 
 export { TopReplies };
