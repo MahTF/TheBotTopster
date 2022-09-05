@@ -20,7 +20,7 @@ const TaTopCommand = client.on('message', (channel, tags) => {
     setTimeout(() => {
       client.say(channel, `Alguém viu o @${userToVerify} por aí? Quero um papo topster com ele`);
       UserSaid = false;
-    }, (minuteInMs * 30));
+    }, (minuteInMs * 29));
   }
 });
 

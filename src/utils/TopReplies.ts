@@ -70,6 +70,10 @@ const TopReplies = [
   'Subtember chegou e sabe o que é mais top? #HypeTrain',
   'Subs são tops de mais!',
   'To tão titi, cadê um Hype train bem top?',
+  'I think I lost my top hat!',
+  'Qual é a coisa mais top que você fez hoje?',
+  'Esse jogo é top de mais, né?',
+  'Estou com vontade de jogar um Top Gear, topa?',
 ];
 
 export { TopReplies };
