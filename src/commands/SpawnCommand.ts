@@ -5,14 +5,30 @@ import { PokemonMissions } from '../utils/PokemonMissions';
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
     tags.username === "pokemoncommunitygame" &&
-    message.toLowerCase().includes("twitchlit")
+    (
+      message.toLowerCase().includes("twitchlit") ||
+      // 03 verificações adicionais devido ao evento que vai até dia 11 de setembro de 2022 19:00 GMT -03.
+      message.toLowerCase().includes("guzzlord") ||
+      message.toLowerCase().includes("xurkitree") ||
+      message.toLowerCase().includes("nihilego")
+    )
   ) {
     client.say(channel, "!spawn");
 
     // Aqui vai falar um pouco sobre o pokemon
     const mensagem = message.split(" ");
-    // O bot sempre começa sua mensagem com "TwitchLit (ou jonasw5Bone) Um PokemonNome"
+    // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome"
     const pokemon = getPokemonByName(mensagem[2]);
+
+    if (
+      message.toLowerCase().includes("guzzlord") ||
+      message.toLowerCase().includes("xurkitree") ||
+      message.toLowerCase().includes("nihilego")
+    ) {
+      setTimeout(() => {
+        client.say(channel, "Este pokémon está no Evento. Taque uma Beast Ball para ter 75% de chance de captura.");
+      }, 7000);
+    }
 
     if (pokemon) {
       const resposta =

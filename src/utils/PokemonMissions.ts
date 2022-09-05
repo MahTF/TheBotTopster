@@ -11,35 +11,60 @@ type Pokemon = {
 }
 
 /* Missão Semanal
- * Data final: Domingo, 05 de Setembro de 2022 00:00 GMT
- * Missão 1: Trocar pokémons do tipo Inseto para ganhar 03 Net Balls
- * Missão 2: Pegar pokémons do tipo Lutador para ganhar 01 Empty Disk
- * Missões adicionais não estão com tipo/estado do pokémon
+ * Data final: Domingo, 11 de Setembro de 2022 00:00 GMT
+ * Missão 1: Trocar pokémons do tipo Psiquico para ganhar um Espeon.
+ * Missão 2: Pegar pokémons do tipo Venenoso para ganhar 03 Cipher Ball.
+ * Missão 3, Evento: Trocar pokémons com 500 ou mais de base status para ganhar 01 Beast Ball.
+ * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
 function PokemonMissions(channel: string, pokemon: Pokemon) {
-  const deadLine = new Date(2022, 9, 5);
+  const deadLine = new Date(2022, 9, 11);
   const DateNow = new Date();
+  console.log(`Data atual: ${DateNow}, Deadline: ${deadLine}.`);
+
+  const statusBaseInNumber = Number(pokemon.StatusBase);
 
   if (deadLine > DateNow) {
-    if (pokemon.Tipo.toLowerCase().includes("inseto")) {
+    if (pokemon.Tipo.toLowerCase().includes("psiquico")) {
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui ou pode possuir o tipo Inseto, capture-o e troque-o para ganhar 03 Net Balls!`
+        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Psiquico, capture-o e troque-o para ganhar um Espeon!`
       );
 
-      if (pokemon.Tipo.toLowerCase().includes("lutador")) {
+      if (pokemon.Tipo.toLowerCase().includes("venenoso") && statusBaseInNumber < 500) {
         client.action(
           channel,
-          `${pokemon.Name} é possivelmente um pokemon que está nas duas missões. É lutador e inseto.`
-        )
+          `${pokemon.Name} é possivelmente um pokemon que está nas duas missões. É, ou possívelmente é, Psiquico e venenoso.`
+        );
+
+        if (statusBaseInNumber >= 500) {
+          client.action(
+            channel,
+            `É possível que ${pokemon.Name} esteja nas três missões. É, ou possívelmente é, Psiquico, venenoso e com status base de ${statusBaseInNumber}.`
+          );
+        }
       }
     }
 
-    if (pokemon.Tipo.toLowerCase().includes("lutador")) {
+    if (pokemon.Tipo.toLowerCase().includes("venenoso")) {
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui ou pode possuir o tipo Lutador, capture-o para adiquirir 01 Empty Disk!`
+        `${pokemon.Name} é um Pokémon que possui, ou pode possuir, o tipo Venenoso, capture-o para adiquirir 03 Cipher Ball!`
+      );
+
+      if (statusBaseInNumber >= 500) {
+        client.action(
+          channel,
+          `É possível que ${pokemon.Name} esteja nas duas missões. É, ou possívelmente é, Venenoso e com status base de ${statusBaseInNumber}.`
+        );
+      }
+    }
+
+    if (statusBaseInNumber >= 500) {
+      client.action(
+        channel,
+        `${pokemon.Name} possui o status base de ${statusBaseInNumber}. capture-o e troque-o para ganhar um Beast Ball! `
       );
     }
   }
