@@ -2,15 +2,23 @@ import { client } from '../config';
 import { getPokemonByName } from '../utils/getPokemonFuncion';
 import { PokemonMissions } from '../utils/PokemonMissions';
 
+type Pokemon = undefined | {
+  Name: string;
+  Geracao: string;
+  No: string;
+  Tipo: string;
+  Regiao: string;
+  NomeOriginal: string;
+  StatusBase: string;
+}
+
 const SpawnCommand = client.on('message', (channel, tags, message) => {
   if (
     tags.username === "pokemoncommunitygame" &&
     (
       message.toLowerCase().includes("twitchlit") ||
-      // 03 verificações adicionais devido ao evento que vai até dia 11 de setembro de 2022 19:00 GMT -03.
-      message.toLowerCase().includes("guzzlord") ||
-      message.toLowerCase().includes("xurkitree") ||
-      message.toLowerCase().includes("nihilego")
+      // Mensagem do evento começa com o emote duDudu
+      message.toLowerCase().includes("dududu")
     )
   ) {
     client.say(channel, "!spawn");
@@ -18,7 +26,14 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
     // Aqui vai falar um pouco sobre o pokemon
     const mensagem = message.split(" ");
     // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome"
-    const pokemon = getPokemonByName(mensagem[2]);
+    let pokemon: Pokemon;
+
+    if (message.toLowerCase().includes("twitchlit")) {
+      pokemon = getPokemonByName(mensagem[2]);
+    }
+    if (message.toLowerCase().includes("dududu")) {
+      pokemon = getPokemonByName(mensagem[26]);
+    }
 
     if (
       message.toLowerCase().includes("guzzlord") ||
@@ -26,8 +41,12 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
       message.toLowerCase().includes("nihilego")
     ) {
       setTimeout(() => {
-        client.say(channel, "Este pokémon está no Evento. Taque uma Beast Ball para ter 75% de chance de captura.");
+        client.say(channel, "Este pokémon está no Evento. Taque uma Beast Ball para ter 75% de chance de captura. Ele só tem 60 segundos!");
       }, 7000);
+
+      setTimeout(() => {
+        client.say(channel, `Você só tem por volta de 10 segundos para pegar ${mensagem[2]}`);
+      }, 45000);
     }
 
     if (pokemon) {
@@ -45,7 +64,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
 
       // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
       setTimeout(() => {
-        client.say(channel, `⏱️ O ${pokemon.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! ⏱️`);
+        client.say(channel, `⏱️ O ${pokemon?.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! ⏱️`);
       }, 70000);
 
     } else {

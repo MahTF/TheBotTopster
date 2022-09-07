@@ -11,21 +11,30 @@ type Pokemon = {
 }
 
 /* Missão Semanal
- * Data final: Domingo, 11 de Setembro de 2022 00:00 GMT
+ * Data final: Domingo, 11 de Setembro de 2022 19:00 GMT-3
  * Missão 1: Trocar pokémons do tipo Psiquico para ganhar um Espeon.
  * Missão 2: Pegar pokémons do tipo Venenoso para ganhar 03 Cipher Ball.
  * Missão 3, Evento: Trocar pokémons com 500 ou mais de base status para ganhar 01 Beast Ball.
  * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
-function PokemonMissions(channel: string, pokemon: Pokemon) {
-  const deadLine = new Date(2022, 9, 11);
+function PokemonMissions(channel: string, pokemon: Pokemon | undefined) {
+  const deadLine = new Date(2022, 9, 11, 19);
   const DateNow = new Date();
-  console.log(`Data atual: ${DateNow}, Deadline: ${deadLine}.`);
+  const ValidTime = deadLine >= DateNow;
+  console.log(
+    `Data atual: ${DateNow},
+    Deadline: ${deadLine}.
+    A condição está ${ValidTime}`
+  );
+
+  if (!pokemon) {
+    return;
+  }
 
   const statusBaseInNumber = Number(pokemon.StatusBase);
 
-  if (deadLine > DateNow) {
+  if (ValidTime) {
     if (pokemon.Tipo.toLowerCase().includes("psiquico")) {
       client.action(
         channel,
