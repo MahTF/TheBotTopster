@@ -1,18 +1,19 @@
 import pokedex from '../utils/pokedex.json';
+import { IPokemon } from './IPokemon';
 
-function getPokemonByName(pokemonName: string) {
+function getPokemonByName(pokemonName: string): IPokemon {
   const pokemon = pokedex.find(
     pokemon => pokemon.Name.toLowerCase() === pokemonName.toLowerCase()
   );
-  return pokemon;
+  return pokemon as IPokemon;
 }
 
-function getPokemonByNumber(pokemonNumber: number) {
+function getPokemonByNumber(pokemonNumber: number): IPokemon {
   const pokemonNo = `#${pokemonNumber}`;
   const pokemon = pokedex.find(
     pokemon => pokemon.No === pokemonNo
   );
-  return pokemon;
+  return pokemon as IPokemon;
 }
 
 export { getPokemonByName, getPokemonByNumber };

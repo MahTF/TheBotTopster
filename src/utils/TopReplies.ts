@@ -43,7 +43,7 @@ const TopReplies = [
   'Qual foi a coisa mais top de hoje? Você, é claro!',
   'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @lukezitto_',
   'Você é mais top que uma estátua grega feita em mármore.',
-  'Qual é o romance que manukita topster mais ama? HeartstTOPper. por @f00xes',
+  'Qual é o romance que manukita topster mais ama? HeartsTOPper. por @f00xes',
   'Já tomou seu lactopurga recentemente?',
   'Ei. . .  tu é top né? Por @Gata_amaldicoada',
   'Dica THOP: Você sabia que é top visitar seu dentista a cada 06 meses?',
