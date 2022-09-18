@@ -10,9 +10,11 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
     client.say(channel, "!spawn");
 
     // Aqui vai falar um pouco sobre o pokemon
-    const mensagem = message.split(" ");
-    // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome"
-    const pokemon = getPokemonByName(mensagem[2]);
+    // O bot sempre começa sua mensagem com "TwitchLit Um PokemonNome". Removo o que não é necessário e passo para função
+    const mensagemSemInicio = message.replace('TwitchLit Um ', '');
+    const [pokemonNaMensagem,] = mensagemSemInicio.split('selvagem');
+    // .trim pra tirar espaços desnecessários
+    const pokemon = getPokemonByName(pokemonNaMensagem.trim());
 
     if (pokemon) {
       const resposta =
@@ -33,7 +35,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
       }, 70000);
 
     } else {
-      client.say(channel, `🤖: Desculpe, não achei \"${mensagem[2]}\" na minha pokedex. NotLikeThis`);
+      client.say(channel, `🤖: Desculpe, não achei \"${pokemonNaMensagem.trim()}\" na minha pokedex. NotLikeThis`);
 
       // Aviso de quando não encontrou o pokémon
       setTimeout(() => {
