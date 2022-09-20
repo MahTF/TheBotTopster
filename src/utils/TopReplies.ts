@@ -74,6 +74,9 @@ const TopReplies = [
   'Qual é a coisa mais top que você fez hoje?',
   'Esse jogo é top de mais, né?',
   'Estou com vontade de jogar um Top Gear, topa?',
+  'Vocês viram que agora a Twitch paga com 50 doláres? TOP DE MAIS!',
+  'Qual é a coisa mais top desse momento?',
+  '!tatop ou !naotatop?',
 ];
 
 export { TopReplies };
