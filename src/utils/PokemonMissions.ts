@@ -8,9 +8,10 @@ import { IPokemon } from './IPokemon';
  * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
+// Mês: Inicia no 0, Janeiro: 0, Fevereiro: 1, ...
+const deadLine = new Date(2022, 8, 25, 19);
+
 function PokemonMissions(channel: string, pokemon: IPokemon) {
-  // Mês: Inicia no 0, Janeiro: 0, Fevereiro: 1, ...
-  const deadLine = new Date(2022, 8, 25, 19);
   const DateNow = new Date();
   const ValidTime = deadLine >= DateNow;
 

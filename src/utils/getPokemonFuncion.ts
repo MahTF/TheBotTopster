@@ -16,4 +16,11 @@ function getPokemonByNumber(pokemonNumber: number): IPokemon {
   return pokemon as IPokemon;
 }
 
-export { getPokemonByName, getPokemonByNumber };
+function getRandomPokemon(): IPokemon {
+  let index = Math.floor(Math.random() * pokedex.length);
+  const pokemonAleatorio = pokedex[index];
+
+  return pokemonAleatorio;
+}
+
+export { getPokemonByName, getPokemonByNumber, getRandomPokemon };

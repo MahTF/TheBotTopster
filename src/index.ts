@@ -3,6 +3,7 @@ import { OnJoin } from './OnJoin';
 import { TopCommand } from './commands/TopCommand';
 import { SpawnCommand } from './commands/SpawnCommand';
 import { TaTopCommand } from './commands/TaTopCommand';
+import { PkmDadosCommand } from './commands/PkmDadosCommand';
 
 client.connect();
 
@@ -13,3 +14,4 @@ OnJoin;
 TopCommand;
 SpawnCommand;
 TaTopCommand;
+PkmDadosCommand;
