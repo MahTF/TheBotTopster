@@ -2,12 +2,12 @@ import { client } from '../config';
 import { getPokemonByName, getRandomPokemon } from '../utils/getPokemonFuncion';
 import { PokeInfo } from '../utils/PokeInfo';
 
-const PkmDadosCommand = client.on('message', (channel, message, self) => {
+const PkmDadosCommand = client.on('message', (channel, tags, message, self) => {
   if (self) {
     return;
   }
 
-  if (message.toLowerCase().includes("!pkm")) {
+  if (message.toLowerCase().includes('!pkm')) {
     const apostrofo = message.replace('\'', '’');
     const pokemonNaMensagem = apostrofo.toLowerCase().replace("!pkm", '').trim();
 
@@ -16,7 +16,7 @@ const PkmDadosCommand = client.on('message', (channel, message, self) => {
       PokeInfo(channel, pokemon);
     } catch {
       const pokemonAleatorio = getRandomPokemon();
-      client.say(channel, `🤖 Desculpe, não achei \'${pokemonNaMensagem}\', tente usar !Pkm ${pokemonAleatorio.Name}`);
+      client.say(channel, `🤖: Me desculpe @${tags.username}, mas não consegui achar \'${pokemonNaMensagem}\', tente usar !Pkm ${pokemonAleatorio.Name}`);
     }
   }
 });
