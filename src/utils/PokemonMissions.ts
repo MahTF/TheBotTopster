@@ -2,40 +2,24 @@ import { client } from '../config';
 import { IPokemon } from './IPokemon';
 
 /* Missão Semanal
- * Data final: Domingo, 25 de Setembro de 2022 19:00 GMT-3
- * Missão 1: Pegar 1 pokémon com status base menor ou igual a 210 por um Porygon-Z Tipo normal 
- * Missão 2: Pegar 5 voadores para ganhar um Rowlet Tipo Grama / Voador
+ * Data final: Domingo, 02 de Outubro de 2022 19:00 GMT-3
+ * Missão 1: Troque 5 pokemon de metal para ganhar um Noivern Tipo Voador / Dragão
+ * Missão 2: Pegue pokemon pesado, na pokedex, não tem peso ainda.
  * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
 // Mês: Inicia no 0, Janeiro: 0, Fevereiro: 1, ...
-const deadLine = new Date(2022, 8, 25, 19);
+const deadLine = new Date(2022, 9, 2, 19);
 
 function PokemonMissions(channel: string, pokemon: IPokemon) {
   const DateNow = new Date();
   const ValidTime = deadLine >= DateNow;
 
-  const statusBaseInNumber = Number(pokemon.StatusBase);
-
   if (ValidTime) {
-    if (pokemon.Tipo.toLowerCase().includes("voador")) {
+    if (pokemon.Tipo.toLowerCase().includes("Metal")) {
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Voador, capture (05) para ganhar 01 Rowlet. Pokémon tipo Grama/Voador`
-      );
-
-      if (pokemon.Tipo.toLowerCase().includes("voador") && statusBaseInNumber <= 210) {
-        client.action(
-          channel,
-          `${pokemon.Name} é possivelmente um pokemon que está nas duas missões. É, ou possívelmente é, Normal e com Status base de ${statusBaseInNumber}.`
-        );
-      }
-    }
-
-    if (statusBaseInNumber <= 210) {
-      client.action(
-        channel,
-        `${pokemon.Name} possui o status base de ${statusBaseInNumber}. capture-o para ganhar um Porygon-Z! Pokemon tipo Normal`
+        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Metal, capture (05) e troque-o para ganhar 01 Noivern. Pokémon tipo Voador / Dragão`
       );
     }
   } else {
