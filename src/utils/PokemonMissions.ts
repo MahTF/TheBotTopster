@@ -16,10 +16,15 @@ function PokemonMissions(channel: string, pokemon: IPokemon) {
   const ValidTime = deadLine >= DateNow;
 
   if (ValidTime) {
-    if (pokemon.Tipo.toLowerCase().includes("Metal")) {
+    if (pokemon.Tipo.toLowerCase().includes("metal")) {
       client.action(
         channel,
         `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Metal, capture (05) e troque-o para ganhar 01 Noivern. Pokémon tipo Voador / Dragão`
+      );
+    } else {
+      client.action(
+        channel,
+        'Atenção, tem missão de tentar capturar 30 pokémons e capturar pokemon pesado!'
       );
     }
   } else {
