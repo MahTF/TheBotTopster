@@ -31,7 +31,7 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
       }, 70000);
 
     } else {
-      client.say(channel, `🤖: Desculpe, não achei \"${pokemonNaMensagem}\" na minha pokedex. NotLikeThis`);
+      client.say(channel, `🤖: Desculpe, não achei "${pokemonNaMensagem}" na minha pokedex. NotLikeThis`);
 
       // Aviso de quando não encontrou o pokémon
       setTimeout(() => {

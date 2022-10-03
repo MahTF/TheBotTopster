@@ -17,7 +17,7 @@ function getPokemonByNumber(pokemonNumber: number): IPokemon {
 }
 
 function getRandomPokemon(): IPokemon {
-  let index = Math.floor(Math.random() * pokedex.length);
+  const index = Math.floor(Math.random() * pokedex.length);
   const pokemonAleatorio = pokedex[index];
 
   return pokemonAleatorio;

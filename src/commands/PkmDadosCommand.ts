@@ -16,7 +16,7 @@ const PkmDadosCommand = client.on('message', (channel, tags, message, self) => {
       PokeInfo(channel, pokemon);
     } catch {
       const pokemonAleatorio = getRandomPokemon();
-      client.say(channel, `🤖: Me desculpe @${tags.username}, mas não consegui achar \'${pokemonNaMensagem}\', tente usar !Pkm ${pokemonAleatorio.Name}`);
+      client.say(channel, `🤖: Me desculpe @${tags.username}, mas não consegui achar '${pokemonNaMensagem}', tente usar !Pkm ${pokemonAleatorio.Name}`);
     }
   }
 });

@@ -67,7 +67,6 @@ const TopReplies = [
   'Eu ouvi dizer que você topa muitas coisas, bora topar mais uma?',
   'Hoje a gente tá só com assuntos top de mais, não é mesmo?',
   'Voa lek, maior satisfação te encontrar aqui. Sextou?',
-  'Subtember chegou e sabe o que é mais top? #HypeTrain',
   'Subs são tops de mais!',
   'To tão titi, cadê um Hype train bem top?',
   'I think I lost my top hat!',
@@ -77,6 +76,10 @@ const TopReplies = [
   'Vocês viram que agora a Twitch paga com 50 doláres? TOP DE MAIS!',
   'Qual é a coisa mais top desse momento?',
   '!tatop ou !naotatop?',
+  'só uso havaianas top Por: @MauMau179',
+  'quer puxar assunto ? pergunte pra Manuki seu top livros , filmes , canais ... Por @MauMau179',
+  'chocolates pra mim só da ToPCau Brasil Por: @MauMau179',
+  'o animal preferido de Manuki ? Claro que é a TOPeira... Por @MauMau179',
 ];
 
 export { TopReplies };
