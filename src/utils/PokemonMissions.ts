@@ -38,7 +38,7 @@ function PokemonMissions(channel: string, pokemon: IPokemon) {
     else {
       client.action(
         channel,
-        'Atenção, tem missão de tentar capturar 30 pokémons e capturar pokemon pesado!'
+        'Atenção, tem missão de tentar capturar 30 pokémons!'
       );
     }
   } else {

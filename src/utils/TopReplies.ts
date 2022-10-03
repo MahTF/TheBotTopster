@@ -80,6 +80,8 @@ const TopReplies = [
   'quer puxar assunto ? pergunte pra Manuki seu top livros , filmes , canais ... Por @MauMau179',
   'chocolates pra mim só da ToPCau Brasil Por: @MauMau179',
   'o animal preferido de Manuki ? Claro que é a TOPeira... Por @MauMau179',
+  'Baixar o eTitulo é top de mais!',
+  'Votar no segundo turno vai ser uma coisa top, espero que o resultado também seja favorável!',
 ];
 
 export { TopReplies };
