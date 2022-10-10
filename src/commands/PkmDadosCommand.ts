@@ -8,8 +8,7 @@ const PkmDadosCommand = client.on('message', (channel, tags, message, self) => {
   }
 
   if (message.toLowerCase().includes('!pkm')) {
-    const apostrofo = message.replace('\'', '’');
-    const pokemonNaMensagem = apostrofo.toLowerCase().replace("!pkm", '').trim();
+    const pokemonNaMensagem = message.toLowerCase().replace("!pkm", '').trim();
 
     try {
       const pokemon = getPokemonByName(pokemonNaMensagem);
