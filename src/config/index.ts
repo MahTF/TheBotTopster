@@ -24,6 +24,7 @@ const client = config.client({
     'f00xes',
     'gueltz',
     'SirMelonius',
+    'non_bitsz',
   ]
 });
 

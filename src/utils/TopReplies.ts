@@ -82,6 +82,12 @@ const TopReplies = [
   'o animal preferido de Manuki ? Claro que é a TOPeira... Por @MauMau179',
   'Baixar o eTitulo é top de mais!',
   'Votar no segundo turno vai ser uma coisa top, espero que o resultado também seja favorável!',
+  'Personagem preferido de Manukita na infância era o TOPo Gigio. Por @MauMau179',
+  'Taxi ? Uber ? que nada ... em SP Manukita só usa o cartão TOP transportes ... Por @MauMau179',
+  'Um passeio inesquecível de Manukita foi ir aos estúdios da TOP FM na Avenida Paulista! Por @MauMau179',
+  'Curiosidade: Manukita é fluente em várias línguas , ela iniciou seus estudos na TOP English no século passado! Por @MauMau179',
+  'Look preferido pra Manuki ? um TOP básico e saia ela já está pronta pra dar seu rolezinho em Campo Grande ... Por @MauMau179',
+  'Curiosidade Tanuki: Quando adolescente Manuki foi TOP model em Campo Grande! Por @MauMau179',
 ];
 
 export { TopReplies };
