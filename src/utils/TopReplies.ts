@@ -88,6 +88,10 @@ const TopReplies = [
   'Curiosidade: Manukita é fluente em várias línguas , ela iniciou seus estudos na TOP English no século passado! Por @MauMau179',
   'Look preferido pra Manuki ? um TOP básico e saia ela já está pronta pra dar seu rolezinho em Campo Grande ... Por @MauMau179',
   'Curiosidade Tanuki: Quando adolescente Manuki foi TOP model em Campo Grande! Por @MauMau179',
+  'O sonho de Manuki é ganhar um LapTOP ou um CookTOP no Natal ! fica a dica suggar daddies 😊 Por @MauMau179',
+  'Manuki gosta de fofoca , homens , piru e dinheiro. Respira quem concorda que ela é uma garota top! Por @MauMau179',
+  'Profissão dos sonhos de Manukita era ser Topógrafa , mas ela acabou estudando OrTOPedia e desistindo em seguida, mas formou em Auxiliar de AuTÓPsia e foi trabalhar necrotério de Campo Grande. Por @MauMau179',
+  'Sabor de Pizza preferido de Manuki é CaTÒPiry, Por @MauMau179',
 ];
 
 export { TopReplies };
