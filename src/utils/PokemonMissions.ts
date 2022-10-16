@@ -2,46 +2,45 @@ import { client } from '../config';
 import { IPokemon } from './IPokemon';
 
 /* Missão Semanal
- * Data final: Domingo, 16 de Outubro de 2022 19:00 GMT-3
- * Missão 1: Trocar 07 pokémons de fogo, para um Chimchar, pokémon de Fogo
- * Missão 2: Pegar 05 pokémons com Great Ball para 02 Team enhancer
- * Missão 3: Pegar 04 pokémons com Status base igual ou superior a 500 para Darmanitan, pokémon Fogo ou Fogo e Psiquico ou Gelo ou Gelo e Fogo
+ * Data final: Domingo, 23 de Outubro de 2022 19:00 GMT-3
+ * Missão 1: Trocar 07 pokémons de voador, para um Fennekin, pokémon de Fogo
+ * Missão 2: Tentar 30 capturas para ganhar 03 TimerBalls
+ * Missão 3: Pegar 10 pokémons do tipo normal para 01 Mood Mint
  * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
 // Mês: Inicia no 0, Janeiro: 0, Fevereiro: 1, ...
-const deadLine = new Date(2022, 9, 16, 19);
+const deadLine = new Date(2022, 9, 23, 19);
 
 function PokemonMissions(channel: string, pokemon: IPokemon) {
   const DateNow = new Date();
   const ValidTime = deadLine >= DateNow;
-  const statusBaseInNumber = Number(pokemon.StatusBase);
 
   if (ValidTime) {
-    if (pokemon.Tipo.toLowerCase().includes("fogo")) {
-      if (statusBaseInNumber < 500) {
+    if (pokemon.Tipo.toLowerCase().includes("voador")) {
+      if (!pokemon.Tipo.toLowerCase().includes("normal")) {
         client.action(
           channel,
-          `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Fogo, capture e troque-o (07) para ganhar 01 Chimchar. Pokémon tipo Fogo`
+          `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Voador, capture e troque-o (07) para ganhar 01 Fennekin. Pokémon tipo Fogo`
         );
       }
-      if (statusBaseInNumber >= 500) {
+      if (pokemon.Tipo.toLowerCase().includes("normal")) {
         client.action(
           channel,
           `${pokemon.Name} é um Pokémon que pode estar em duas missões!`
         );
       }
-    } else if (statusBaseInNumber >= 500 &&
-      !pokemon.Tipo.toLowerCase().includes("fogo")) {
+    } else if (pokemon.Tipo.toLowerCase().includes("normal") &&
+      !pokemon.Tipo.toLowerCase().includes("voador")) {
       client.action(
         channel,
-        `${pokemon.Name} tem sua base de status de ${statusBaseInNumber}, capture (04) para ganhar 01 Darmanitan. Pokémon tipo Fogo ou Fogo e Psiquico ou Gelo ou Gelo e Fogo`
+        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Normal, capture (10) para ganhar 01 Mood Mint.`
       );
     }
     else {
       client.action(
         channel,
-        'Atenção, tem missão de tentar capturar pokémons usando Great Balls!'
+        'Atenção, tem missão de tentar 30 vezes capturar pokémons para ganhar 03 Timer Balls!'
       );
     }
   } else {
