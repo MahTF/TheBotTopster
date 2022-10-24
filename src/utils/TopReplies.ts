@@ -41,7 +41,7 @@ const TopReplies = [
   'Você pode ser top, mas tão top, mas tão top, que... esqueci o que ia dizer, mas era algo bem top',
   'Se alguém tenta destopizar você, essa pessoa não te merece, seja top!',
   'Qual foi a coisa mais top de hoje? Você, é claro!',
-  'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @lukezitto_',
+  'Eu tinha dois tatus, o Tatudo e o Tatop, o Tatudo morreu, quem ficou? Por @Luke_Komuna',
   'Você é mais top que uma estátua grega feita em mármore.',
   'Qual é o romance que manukita topster mais ama? HeartsTOPper. por @f00xes',
   'Já tomou seu lactopurga recentemente?',
@@ -92,6 +92,7 @@ const TopReplies = [
   'Manuki gosta de fofoca , homens , piru e dinheiro. Respira quem concorda que ela é uma garota top! Por @MauMau179',
   'Profissão dos sonhos de Manukita era ser Topógrafa , mas ela acabou estudando OrTOPedia e desistindo em seguida, mas formou em Auxiliar de AuTÓPsia e foi trabalhar necrotério de Campo Grande. Por @MauMau179',
   'Sabor de Pizza preferido de Manuki é CaTÒPiry, Por @MauMau179',
+  'Até as coisas tops chegam no fim, não é?',
 ];
 
 export { TopReplies };
