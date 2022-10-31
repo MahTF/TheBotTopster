@@ -2,44 +2,36 @@ import { client } from '../config';
 import { IPokemon } from './IPokemon';
 
 /* Missão Semanal
- * Data final: Domingo, 30 de Outubro de 2022 19:00 GMT-3
- * Missão 1: Capturar 05 pokémons de grama para um Bulbassauro, pokémon de grama / Venenoso
- * Missão 2: Trocar 8 pokémons do tipo sombrio para um Persian Sombrio
- * Missão 3: Trocar 8 pokémons do tipo fantasma para um Marowak Fantasma
+ * Data final: Domingo, 06 de Novembro de 2022 19:00 GMT-3
+ * Missão 1: Capturar 06 pokémons de metal para um Total Reset
+ * Missão 2: Trocar 8 pokémons do tipo dragão para um Totodile, tipo de água
  * Missões adicionais não estão com tipo/estado do pokémon.
  */
 
 // Mês: Inicia no 0, Janeiro: 0, Fevereiro: 1, ...
-const deadLine = new Date(2022, 9, 30, 19);
+const deadLine = new Date(2022, 10, 6, 19);
 
 function PokemonMissions(channel: string, pokemon: IPokemon) {
   const DateNow = new Date();
   const ValidTime = deadLine >= DateNow;
 
   if (ValidTime) {
-    if (pokemon.Tipo.toLowerCase().includes("grama")) {
-      if (pokemon.Tipo.toLowerCase().includes("sombrio") || pokemon.Tipo.toLowerCase().includes("fantasma")) {
+    if (pokemon.Tipo.toLowerCase().includes("metal")) {
+      if (pokemon.Tipo.toLowerCase().includes("dragão")) {
         client.action(
           channel,
-          `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Grama e o tipo Sombrio ou Fantasma, capture e troque (08) para ganhar 01 Pokemon.`
+          `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Metal e o tipo Dragão, capture e troque (08) para ganhar 01 Pokemon e um item.`
         );
       }
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Grama, capture (05) para ganhar 01 Bulbassauro. Pokémon tipo Grama / Venenoso`
+        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Metal, capture (06) para ganhar 01 Total Reset`
       );
-    } else if (pokemon.Tipo.toLowerCase().includes("sombrio"))
+    } else if (pokemon.Tipo.toLowerCase().includes("dragão"))
       client.action(
         channel,
-        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Sombrio, capture e troque-o (08) para ganhar 01 Persian Sombrio.`
+        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Dragão, capture e troque-o (08) para ganhar 01 Totodile. Pokémon tipo de água.`
       );
-
-    if (pokemon.Tipo.toLowerCase().includes("fantasma")) {
-      client.action(
-        channel,
-        `${pokemon.Name} é um Pokémon que possui (ou pode possuir) o tipo Fantasma, capture e troque-o (08) para ganhar 01 Marowak Fantasma.`
-      );
-    }
   } else {
     client.action(
       channel,
