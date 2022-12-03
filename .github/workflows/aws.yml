@@ -1,0 +1,38 @@
+name: Deploy AWS
+on: 
+  push: 
+    branches: 
+      - main
+
+jobs: 
+  deploy:
+    name: Deploy EC2
+    runs-on: ubuntu-latest
+    
+    steps:
+        - name: Checkout dos arquivos
+          uses: actions/checkout@v1
+          
+        - name: Install Node.js
+          uses: actions/setup-node@v1
+          with:
+            node-version: '18.x'
+            
+        - name: Install npm dependencies
+          run: npm install
+          
+        - name: Run build task
+          run: npm run build
+          
+        - name: Deploy to Server
+          uses: easingthemes/ssh-deploy@main
+          env:
+              SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+              ARGS: "-rltgoDzvO --delete"
+              SOURCE: "dist/"
+              REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+              REMOTE_USER: ${{ secrets.REMOTE_USER }}
+              NODE_TWITCH_USERNAME: ${{ secrets.NODE_TWITCH_USERNAME }}
+              NODE_TWITCH_PASSWORD: ${{ secrets.NODE_TWITCH_PASSWORD }}
+              TARGET: ${{ secrets.REMOTE_TARGET }}
+              EXCLUDE: "/dist/, /node_modules/"
