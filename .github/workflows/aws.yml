@@ -36,3 +36,6 @@ jobs:
               NODE_TWITCH_PASSWORD: ${{ secrets.NODE_TWITCH_PASSWORD }}
               TARGET: ${{ secrets.REMOTE_TARGET }}
               EXCLUDE: "/dist/, /node_modules/"
+
+        - name: Rodar codigo
+          run: npm run start
