@@ -92,6 +92,9 @@ const TopReplies = [
   'Sabor de Pizza preferido de Manuki é CaTÒPiry, Por @MauMau179',
   'Até as coisas tops chegam no fim, não é?',
   'Até uma fênix sabe ser top, mas a questão é: Você sabe ser top?',
+  'Vamos ser tops juntos? Por favor!',
+  'Qual será o recorde de maior tempo sendo topster?',
+  'Eu acredito que um dia você será top assim como eu!',
 ];
 
 export { TopReplies };
