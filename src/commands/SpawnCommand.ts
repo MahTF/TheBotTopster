@@ -18,14 +18,14 @@ const SpawnCommand = client.on('message', (channel, tags, message) => {
 
     if (pokemon) {
       setTimeout(() => {
-        PokeInfo(channel, pokemon)
+        PokeInfo(channel, pokemon);
       }, 2000);
 
       setTimeout(() => {
         PokemonMissions(channel, pokemon);
       }, 5000);
 
-      // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos. 
+      // Aviso de quando passar 70 segundos e identificou o pokemon da mensagem do bot, o bot deixa resgatar durante 90 segundos.
       setTimeout(() => {
         client.say(channel, `⏱️ ${pokemon.Name} está para fugir, você tem mais 10 segundos aproximadamente, é a hora da timerball! ⏱️`);
       }, 70000);

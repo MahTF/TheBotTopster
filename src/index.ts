@@ -7,7 +7,7 @@ import { PkmDadosCommand } from './commands/PkmDadosCommand';
 
 client.connect();
 
-// Soltar uma frase de reinicio após entrar nos canais. 
+// Soltar uma frase de reinicio após entrar nos canais.
 OnJoin;
 
 // Chamando os comandos para poderem ser executados

@@ -11,7 +11,7 @@ const OnJoin = client.once('join', () => {
         channel,
         `Fui reiniciado e agora serei mais top do que sempre fui! Atualmente eu tenho ${TopRepliesLength} frases bem topzeras pra usar contigo!`
       );
-    })
+    });
   }, 60000);
 });
 

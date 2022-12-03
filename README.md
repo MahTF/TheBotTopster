@@ -97,6 +97,9 @@ O tema do bot é uma brincadeira com os amigos do desenvolvedor.
 - [Node](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org)
 
+### :lipstick: Ferramentas de Linter
+- [EsLint](<https://eslint.org>)
+
 ### :package: Pacotes
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [tmi.js](https://www.npmjs.com/package/tmi.js)

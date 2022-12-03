@@ -8,4 +8,4 @@ interface IPokemon {
   StatusBase: string;
 }
 
-export { IPokemon }; 
+export { IPokemon };
