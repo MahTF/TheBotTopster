@@ -91,6 +91,7 @@ const TopReplies = [
   'Profissão dos sonhos de Manukita era ser Topógrafa , mas ela acabou estudando OrTOPedia e desistindo em seguida, mas formou em Auxiliar de AuTÓPsia e foi trabalhar necrotério de Campo Grande. Por @MauMau179',
   'Sabor de Pizza preferido de Manuki é CaTÒPiry, Por @MauMau179',
   'Até as coisas tops chegam no fim, não é?',
+  'Até uma fênix sabe ser top, mas a questão é: Você sabe ser top?',
 ];
 
 export { TopReplies };
