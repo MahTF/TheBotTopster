@@ -11,7 +11,7 @@ jobs:
 
     steps:
         - name: Checkout dos arquivos
-          uses: actions/checkout@v1
+          uses: actions/checkout@v2
 
         - name: Install Node.js
           uses: actions/setup-node@v1
@@ -37,5 +37,4 @@ jobs:
               TARGET: ${{ secrets.REMOTE_TARGET }}
               EXCLUDE: "/dist/, /node_modules/"
 
-        - name: Rodar codigo
-          run: npm run start
+        - run: npm run start
